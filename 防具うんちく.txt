@@ -1,0 +1,218 @@
+1000	NOT NEEDED
+1100	NOT NEEDED
+1200	NOT NEEDED
+1300	NOT NEEDED
+1400	NOT NEEDED
+1500	NOT NEEDED
+1600	NOT NEEDED
+1700	NOT NEEDED
+1800	NOT NEEDED
+1900	NOT NEEDED
+3000	NOT NEEDED
+3100	NOT NEEDED
+3200	NOT NEEDED
+3300	NOT NEEDED
+3400	NOT NEEDED
+3500	NOT NEEDED
+3600	NOT NEEDED
+3700	NOT NEEDED
+3800	NOT NEEDED
+3900	NOT NEEDED
+5000	NOT NEEDED
+10000	Attire of the retired hunter Djura.\nThis worn wolf cap was his trademark.\n\nDjura is known through his contact with the Powder Kegs,\nthe heretics of the workshop. He is said to have been\nboth uncommonly kind and dreadfully foolish.\n\nDjura felt defeated by the state of Old Yharnam,\nand renounced his hunter's vows.
+11000	One of the staple articles of hunter attire, fashioned at the workshop.\n\nA product of the scourge of the beast that once plagued Old Yharnam and culminated in the town's fiery cleansing.\n\nThe cape's dampness makes it highly resistant to fire.\nWearers of this attire hunted down victims of the scourge who survived the raging flames and stench of singed blood.
+12000	One of the staple articles of hunter attire, fashioned at the workshop.\n\nA product of the scourge of the beast that once plagued Old Yharnam and culminated in the town's fiery cleansing.\n\nDesigned to be highly resistant to fire. Wearers of this attire hunted down victims of the scourge who survived the raging flames and stench of singed blood.
+13000	One of the staple articles of hunter attire, fashioned at the workshop.\n\nA product of the scourge of the beast that once plagued Old Yharnam and culminated in the town's fiery cleansing.\n\nDesigned to be highly resistant to fire. Wearers of this attire hunted down victims of the scourge who survived the raging flames and stench of singed blood.
+20000	Iron helmet worn by hunters of the Unseen Village.\n\nThe hunters of Yahar'gul answer to the village's founders, the School of Mensis. Hunters in name only, these kidnappers wear their black hoods low to shadow their \neyes.\n\nThis helm is made of metal, a rarity for hunter garb, and has high defence, but only against physical attacks.
+21000	Thick black pullover worn by hunters of the Unseen Village.\n\nThe hunters of Yahar'gul answer to the village's founders, the School of Mensis. Hunters in name only, these kidnappers blend into the night wearing this attire.\n\nDesigned primarily to defend from physical attacks, the binding of thick rope serves both to protect its wearer, and restrain his foes.
+22000	Thick black gloves worn by hunters of the Unseen Village.\n\nThe hunters of Yahar'gul answer to the village's founders, the School of Mensis. Hunters in name only, these kidnappers blend into the night wearing this attire.\n\nDesigned primarily to defend from physical attacks.
+23000	Thick black trousers worn by hunters of the Unseen Village.\n\nThe hunters of Yahar'gul answer to the village's founders, the School of Mensis. Hunters in name only, these kidnappers blend into the night wearing this attire.\n\nDesigned primarily to defend from physical attacks.
+30000	Mask of Dores, graveguard of the Forbidden Woods.\n\nHis pale countenance mimics the labyrinth watchers.\n\nWillem kept two loyal servants back at Byrgenwerth.\nWhen they were sent into the labyrinth, they encountered\nthe eldritch Truth, and went mad. One became the \npassword gatekeeper, while Dores became a graveguard \nof the forest. \n\nBoth remained loyal, even in madness.
+31000	Robe of Dores, graveguard of the Forbidden Woods.\n\nCountless bloodied ritual tools hang from its back.\n\nWillem kept two loyal servants back at Byrgenwerth.\nWhen they were sent into the labyrinth, they encountered\nthe eldritch Truth, and went mad. One became the \npassword gatekeeper, while Dores became a graveguard \nof the forest. \n\nBoth remained loyal, even in madness.
+32000	Manchettes of Dores, graveguard of the Forbidden Woods.\n\nCovered in the blood of untidy rituals.\n\nWillem kept two loyal servants back at Byrgenwerth.\nWhen they were sent into the labyrinth, they encountered\nthe eldritch Truth, and went mad. One became the \npassword gatekeeper, while Dores became a graveguard \nof the forest. \n\nBoth remained loyal, even in madness.
+33000	Leggings of Dores, graveguard of the Forbidden Woods.\n\nCovered in the blood of untidy rituals.\n\nWillem kept two loyal servants back at Byrgenwerth.\nWhen they were sent into the labyrinth, they encountered\nthe eldritch Truth, and went mad. One became the \npassword gatekeeper, while Dores became a graveguard \nof the forest. \n\nBoth remained loyal, even in madness.
+40000	A mask made of bone ash, worn by the oldest keepers.\n\nThe keepers, who mind the slumbering Great Ones,\ngained eternal life, preserved in ashen form in\na ceremony of flame that cremated body and soul.\n\nThe long, pointed hat is a symbol of the old keepers\nand is considered evidence of their companionship,\nforged in a certain sin.
+41000	Armor made of bone ash, worn by the oldest keepers.\n\nThe keepers, who mind the slumbering Great Ones,\ngained eternal life, preserved in ashen form in\na ceremony of flame that cremated body and soul.\n\nNow, their frail armor is white and sinewy,\na window into an arcane lost art.
+42000	Gauntlets made of bone ash, worn by the oldest keepers.\n\nThe keepers, who mind the slumbering Great Ones,\ngained eternal life, preserved in ashen form in\na ceremony of flame that cremated body and soul.\n\nNow, their frail armor is white and sinewy,\na window into an arcane lost art.
+43000	Leggings made of bone ash, worn by the oldest keepers.\n\nThe keepers, who mind the slumbering Great Ones,\ngained eternal life, preserved in ashen form in\na ceremony of flame that cremated body and soul.\n\nNow, their frail armor is white and sinewy,\na window into an arcane lost art.
+50000	Hunter's hat worn by Henryk, the old hunter.\n\nThe taciturn old hunter Henryk was once partners with Father Gascoigne, and though they were a fierce and gallant duo, their partnership led to Henryk's tragically long life.\n\nHenryk's unique yellow garb is resistant to bolt and will be of great help to any hunter who has inherited the onus of the hunt.
+51000	Hunter's attire worn by Henryk, the old hunter.\n\nThe taciturn old hunter Henryk was once partners with Father Gascoigne, and though they were a fierce and gallant duo, their partnership led to Henryk's tragically long life.\n\nHenryk's unique yellow garb is resistant to bolt and will be of great help to any hunter who has inherited the onus of the hunt.
+52000	Hunter's gloves by Henryk, the old hunter.\n\nThe taciturn old hunter Henryk was once partners with Father Gascoigne, and though they were a fierce and gallant duo, their partnership led to Henryk's tragically long life.\n\nHenryk's unique yellow garb is resistant to bolt and will be of great help to any hunter who has inherited the onus of the hunt.
+53000	Hunter's trousers worn by Henryk, the old hunter.\n\nThe taciturn old hunter Henryk was once partners with Father Gascoigne, and though they were a fierce and gallant duo, their partnership led to Henryk's tragically long life.\n\nHenryk's unique yellow garb is resistant to bolt and will be of great help to any hunter who has inherited the onus of the hunt.
+60000	Ludwig, the first hunter of the Healing Church,\nonce recruited Yharnamites to serve as hunters.\n\nThis hunter's attire was made for new recruits,\nand has excellent straightforward defense.\n\nBut not nearly enough to allow an ordinary\nman to stand any real chance against the beasts.
+61000	Ludwig, the first hunter of the Healing Church,\nonce recruited Yharnamites to serve as hunters.\n\nThis hunter's attire was made for new recruits,\nand has excellent straightforward defense.\n\nBut not nearly enough to allow an ordinary\nman to stand any real chance against the beasts.
+62000	Ludwig, the first hunter of the Healing Church,\nonce recruited Yharnamites to serve as hunters.\n\nThis hunter's attire was made for new recruits,\nand has excellent straightforward defense.\n\nBut not nearly enough to allow an ordinary\nman to stand any real chance against the beasts.
+63000	Ludwig, the first hunter of the Healing Church,\nonce recruited Yharnamites to serve as hunters.\n\nThis hunter's attire was made for new recruits,\nand has excellent straightforward defense.\n\nBut not nearly enough to allow an ordinary\nman to stand any real chance against the beasts.
+70000	One of the standard articles of hunter attire fashioned at the workshop.\n\nA fine piece of hunter attire that provides stable defence to anyone facing Yharnam's beastly threat.\n\nAllows one to stalk beasts unannounced, by cover of night.
+71000	One of the standard articles of hunter attire fashioned at the workshop, accompanied with a short cape to wipe away blood.\n\nA fine piece of hunter attire that provides stable defence to anyone facing Yharnam's beastly threat.\n\nAllows one to stalk beasts unannounced, by cover of night.
+72000	One of the standard articles of hunter attire fashioned at the workshop.\n\nA fine piece of hunter attire that provides stable defence to anyone facing Yharnam's beastly threat.\n\nAllows one to stalk beasts unannounced, by cover of night.
+73000	One of the standard articles of hunter attire fashioned at the workshop.\n\nA fine piece of hunter attire that provides stable defence to anyone facing Yharnam's beastly threat.\n\nAllows one to stalk beasts unannounced, by cover of night.
+80000	Adornment prized by the knights of Cainhurst.\nResembles a ponytail of silver hair.\n\nThe Cainhurst way is a mix of nostalgia and bombast.\nThey take great pride even in the blood-stained\ncorpses of beasts that they leave behind, confident\nthat they will stand as examples of decadent art.
+81000	Attire of the knights of Cainhurst.\nA regal piece graced by intricate goldwork.\n\nThe Cainhurst way is a mix of nostalgia and bombast.\nThey take great pride even in the blood-stained\ncorpses of beasts that they leave behind, confident\nthat they will stand as examples of decadent art.
+82000	Gloves of the knights of Cainhurst.\nA regal piece graced with goldwork on red fabric.\n\nThe Cainhurst way is a mix of nostalgia and bombast.\nThey take great pride even in the blood-stained\ncorpses of beasts that they leave behind, confident\nthat they will stand as examples of decadent art.
+83000	Trousers of the knights of Cainhurst.\nA regal piece made with the finest leather.\n\nThe Cainhurst way is a mix of nostalgia and bombast.\nThey take great pride even in the blood-stained\ncorpses of beasts that they leave behind, confident\nthat they will stand as examples of decadent art.
+90000	NOT NEEDED
+91000	NOT NEEDED
+100000	Silver helmet worn by the royal guards who protect Annalise, Queen of the Vilebloods at Cainhurst Castle.\n\nThis paper-thin silver armour is said to deflect blood of ill-intent, and is what allows the royal guards to capture prey for their beloved Queen, so that one day, she may bear a Child of Blood.
+101000	Silver armour worn by the royal guards who protect Annalise, Queen of the Vilebloods at Cainhurst Castle.\n\nThis paper-thin silver armour is said to deflect blood of ill-intent, and is what allows the royal guards to capture prey for their beloved Queen, so that one day, she may bear a Child of Blood.
+102000	Silver gauntlets worn by the royal guards who protect Annalise, Queen of the Vilebloods at Cainhurst Castle.\n\nThis paper-thin silver armour is said to deflect blood of ill-intent, and is what allows the royal guards to capture prey for their beloved Queen, so that one day, she may bear a Child of Blood.
+103000	Silver leggings worn by the royal guards who protect Annalise, Queen of the Vilebloods at Cainhurst Castle.\n\nThis paper-thin silver armour is said to deflect blood of ill-intent, and is what allows the royal guards to capture prey for their beloved Queen, so that one day, she may bear a Child of Blood.
+110000	Attire of Healing Church hunters.\n\nMost Healing Church hunters are elementary doctors\nwho understand the importance of early prevention of\nthe scourge, achieved by disposing of victims, and\neven potential victims, before signs of sickness manifest\nthemselves. \n\nTheir black attire is synonymous with fear,\nand that peculiar Yharnam madness.
+111000	Attire of Healing Church hunters. The Holy Shawl, symbol\nof the Healing Church, flutters proudly on their backs.\n\nMost Healing Church hunters are elementary doctors\nwho understand the importance of early prevention of\nthe scourge, achieved by disposing of victims, and even \npotential victims, before signs of sickness manifest\nthemselves. \n\nTheir black attire is synonymous with fear,\nand that peculiar Yharnam madness.
+112000	White surgical gloves. The intricate embroidery\nweaves a spell that protects their wearer.\n\nThe Church engages in the hunt in a medical capacity.\nWhen a cancer is discovered, one must pinpoint its\nlocation, reach in, and wrench it from the host's bosom.
+113000	Attire of Healing Church hunters.\n\nMost Healing Church hunters are elementary doctors\nwho understand the importance of early prevention of\nthe scourge, achieved by disposing of victims, and\neven potential victims, before signs of sickness manifest\nthemselves. \n\nTheir black attire is synonymous with fear,\nand that peculiar Yharnam madness.
+120000	Attire of the Choir, high-ranking members of\nthe Healing Church.\n\nMembers of the Choir are both the highest-ranking\nclerics of the Healing Church, and scholars who\ncontinue the work that began at Byrgenwerth.\n\nThe eye covering indicates their debt to the teachings\nof Master Willem, even though their paths diverged.
+121000	Attire of the Choir, high-ranking members of\nthe Healing Church.\n\nMembers of the Choir are both the highest-ranking\nclerics of the Healing Church, and scholars who\ncontinue the work that began at Byrgenwerth.\n\nTogether with the left behind Great One,\nthey look to the skies, in search of astral signs,\nthat may lead them to the rediscovery of true greatness.
+122000	Attire of the Choir, high-ranking members of\nthe Healing Church.\n\nMembers of the Choir are both the highest-ranking\nclerics of the Healing Church, and scholars who\ncontinue the work that began at Byrgenwerth.\n\nTogether with the left behind Great One,\nthey look to the skies, in search of astral signs,\nthat may lead them to the rediscovery of true greatness.
+123000	Attire of the Choir, high-ranking members of\nthe Healing Church.\n\nMembers of the Choir are both the highest-ranking\nclerics of the Healing Church, and scholars who\ncontinue the work that began at Byrgenwerth.\n\nTogether with the left behind Great One,\nthey look to the skies, in search of astral signs,\nthat may lead them to the rediscovery of true greatness.
+130000	Hunter attire worn by Father Gascoigne.\n\nSimilar to hunter garb created at the workshop,\nonly these are tainted by a pungent beastly stench\nthat eats away at Gascoigne.\n\n"Father" is a title used for clerics in a foreign land,\n and there is no such rank in the Healing Church.
+131000	Hunter attire worn by Father Gascoigne.\n\nThe dingy scarf is a Holy Shawl and symbol of\nthe Healing Church, from which Gascoigne would\neventually part ways.\n\n"Father" is a title used for clerics in a foreign land,\n and there is no such rank in the Healing Church.
+132000	Hunter attire worn by Father Gascoigne.\n\nSimilar to hunter garb created at the workshop,\nonly these are tainted by a pungent beastly stench\nthat eats away at Gascoigne.\n\n"Father" is a title used for clerics in a foreign land,\n and there is no such rank in the Healing Church.
+133000	Hunter attire worn by Father Gascoigne.\n\nSimilar to hunter garb created at the workshop,\nonly these are tainted by a pungent beastly stench\nthat eats away at Gascoigne.\n\n"Father" is a title used for clerics in a foreign land,\n and there is no such rank in the Healing Church.
+140000	Attire of tomb prospectors who explore the old labyrinth on behalf of the Healing Church.\n\nThe Healing Church traces its roots to Byrgenwerth, and is therefore aware of the ruins' true importance.\n\nThey contain much more than mere hunter trinkets, indeed, they hide the very secrets of the old Great Ones, sought after by those with the insight to imagine greatness.
+141000	Attire of tomb prospectors who explore the old labyrinth on behalf of the Healing Church.\n\nThe Healing Church traces its roots to Byrgenwerth, and is therefore aware of the ruins' true importance.\n\nThey contain much more than mere hunter trinkets, indeed, they hide the very secrets of the old Great Ones, sought after by those with the insight to imagine greatness.
+142000	Attire of tomb prospectors who explore the old labyrinth on behalf of the Healing Church.\n\nThe Healing Church traces its roots to Byrgenwerth, and is therefore aware of the ruins' true importance.\n\nThey contain much more than mere hunter trinkets, indeed, they hide the very secrets of the old Great Ones, sought after by those with the insight to imagine greatness.
+143000	Attire of tomb prospectors who explore the old labyrinth on behalf of the Healing Church.\n\nThe Healing Church traces its roots to Byrgenwerth, and is therefore aware of the ruins' true importance.\n\nThey contain much more than mere hunter trinkets, indeed, they hide the very secrets of the old Great Ones, sought after by those with the insight to imagine greatness.
+150000	The odd helmet worn by the band of executioners\ncommanded by the martyr Logarius.\n\nThe conical gold helmet, symbol of the executioners,\nrepresents luminosity, ambition, and an unflagging \nresolve to face impurity, staring it down with stern,\ngolden spirit.\n\nAs the great Logarius once said, "Acts of goodness are\nnot always wise, and acts of evil are not always foolish,\nbut regardless, we shall always strive to be good."
+151000	Attire worn by the band of executioners\ncommanded by the martyr Logarius.\n\nLater became the basis for all Church attire,\nwith its heavy draping of Holy Shawl.\n\nAs the great Logarius once said, "Acts of goodness are\nnot always wise, and acts of evil are not always foolish,\nbut regardless, we shall always strive to be good."
+152000	Gauntlets worn by the band of executioners\ncommanded by the martyr Logarius.\n\nThe brass rivets are unique to the executioners,\nand reflect their adoration of hand-to-hand combat.\n\nAs the great Logarius once said, "Acts of goodness are\nnot always wise, and acts of evil are not always foolish,\nbut regardless, we shall always strive to be good."
+153000	Trousers worn by the band of executioners\ncommanded by the martyr Logarius.\n\nLater became the basis for all Church attire.\n\nAs the great Logarius once said, "Acts of goodness are\nnot always wise, and acts of evil are not always foolish,\nbut regardless, we shall always strive to be good."
+160000	NOT NEEDED
+161000	NOT NEEDED
+162000	NOT NEEDED
+163000	NOT NEEDED
+170000	NOT NEEDED
+171000	NOT NEEDED
+172000	NOT NEEDED
+173000	NOT NEEDED
+180000	Wood-carved mask of Eileen the Crow, hunter of hunters.\nThe beak contains incense to mask scents of blood and beast.\n\nHunters of hunters dress as crows to suggest sky burial.\n\nThe first hunter of hunters came from a foreign land, and gave the dead a virtuous native funeral ritual, rather than impose a blasphemous Yharnam burial service upon them, with the hope that former compatriots might be returned to the skies, and find rest in a hunter's dream.
+181000	Attire worn by Eileen the Crow, hunter of hunters,\nknown in particular for her crowfeather cape.\n\nHunters of hunters dress as crows to suggest sky burial.\n\nThe first hunter of hunters came from a foreign land, and gave the dead a virtuous native funeral ritual, rather than impose a blasphemous Yharnam burial service upon them, with the hope that former compatriots might be returned to the skies, and find rest in a hunter's dream.
+182000	Attire worn by Eileen the Crow, hunter of hunters.\n\nHunters of hunters dress as crows to suggest sky burial.\n\nThe first hunter of hunters came from a foreign land, and gave the dead a virtuous native funeral ritual, rather than impose a blasphemous Yharnam burial service upon them, with the hope that former compatriots might be returned to the skies, and find rest in a hunter's dream.
+183000	Attire worn by Eileen the Crow, hunter of hunters.\n\nHunters of hunters dress as crows to suggest sky burial.\n\nThe first hunter of hunters came from a foreign land, and gave the dead a virtuous native funeral ritual, rather than impose a blasphemous Yharnam burial service upon them, with the hope that former compatriots might be returned to the skies, and find rest in a hunter's dream.
+190000	The School of Mensis controls the Unseen Village.\n\nThis hexagonal iron cage suggests their strange ways.\nThe cage is a device that restrains the will of the self,\nallowing one to see the profane world for what it is.\n\nIt also serves as an antenna that facilitates contact\nwith the Great Ones of the dream.\n\nBut to an observer, the iron cage appears to be precisely\nwhat delivered them to their harrowing nightmare.
+191000	Uniform of the students of Byrgenwerth,\na bygone institute of learning. Features a thick cape.\n\nThe Healing Church has its roots in Byrgenwerth,\nand naturally borrows heavily from its uniform design.\n\nThe focus not on knowledge, or thought, but on pure\npretension would surely bring Master Willem to despair,\nif only he knew.
+192000	NOT NEEDED
+193000	Uniform of the students of Byrgenwerth,\na bygone institute of learning.\n\nThe Healing Church has its roots in Byrgenwerth,\nand naturally borrows heavily from its uniform design.\n\nThe focus not on knowledge, or thought, but on pure\npretension would surely bring Master Willem to despair,\nif only he knew.
+200000	Hunter attire of Gehrman, the first hunter.\n\nCreated before the workshop existed by making\nadjustments to everyday clothing, and later became\nthe basis for all hunter's garb.\n\nThe hunter's emphasis on engaging beasts with\nspeed, and therefore of selecting lightweight attire,\nno doubt traces back to Gehrman's own combat style.
+201000	Hunter attire of Gehrman, the first hunter.\n\nCreated before the workshop existed by making\nadjustments to everyday clothing, and later became\nthe basis for all hunter's garb.\n\nThe hunter's emphasis on engaging beasts with\nspeed, and therefore of selecting lightweight attire,\nno doubt traces back to Gehrman's own combat style.
+203000	Hunter attire of Gehrman, the first hunter.\n\nCreated before the workshop existed by making\nadjustments to everyday clothing, and later became\nthe basis for all hunter's garb.\n\nThe hunter's emphasis on engaging beasts with\nspeed, and therefore of selecting lightweight attire,\nno doubt traces back to Gehrman's own combat style.
+210000	Most tomb prospectors, members of the Healing Church\nchosen to explore the old labyrinth, are unable to\nwithstand the weight of the old knowledge, and go mad.\n\nThis attire is worn by those lost souls.\n\nTruth oft resembles madness, inaccessible to the\ndull of mind. Those who go mad are merely thoughtful\nsouls who failed to reach any conclusions.
+211000	Most tomb prospectors, members of the Healing Church\nchosen to explore the old labyrinth, are unable to\nwithstand the weight of the old knowledge, and go mad.\n\nThis attire is worn by those lost souls.\n\nThe appendages draped across them are said to be\na kind of protective charm, or at least, that is\nwhat these lost souls believe with all their hearts.
+212000	Most tomb prospectors, members of the Healing Church\nchosen to explore the old labyrinth, are unable to\nwithstand the weight of the old knowledge, and go mad.\n\nThis attire is worn by those lost souls.\n\nTruth oft resembles madness, inaccessible to the\ndull of mind. Those who go mad are merely thoughtful\nsouls who failed to reach any conclusions.
+213000	Most tomb prospectors, members of the Healing Church\nchosen to explore the old labyrinth, are unable to\nwithstand the weight of the old knowledge, and go mad.\n\nThis attire is worn by those lost souls.\n\nTruth oft resembles madness, inaccessible to the\ndull of mind. Those who go mad are merely thoughtful\nsouls who failed to reach any conclusions.
+220000	A discarded doll's hat, likely a spare for dress-up.\n\nA deep love for the doll can be surmised by\nthe fine craftsmanship of this article, and the\ncare with which it was kept.\n\nIt borderlines on mania, and exudes a slight warmth.
+221000	Discarded doll clothing, likely a spare for dress-up.\n\nA deep love for the doll can be surmised by\nthe fine craftsmanship of this article, and the\ncare with which it was kept.\n\nIt borderlines on mania, and exudes a slight warmth.
+222000	Discarded doll gloves, likely spares for dress-up.\n\nA deep love for the doll can be surmised by\nthe fine craftsmanship of this article, and the\ncare with which it was kept.\n\nIt borderlines on mania, and exudes a slight warmth.
+223000	Discarded doll skirt, likely a spare for dress-up.\n\nA deep love for the doll can be surmised by\nthe fine craftsmanship of this article, and the\ncare with which it was kept.\n\nIt borderlines on mania, and exudes a slight warmth.
+230000	Hood worn upon awakening to the nightmare\nof blood and beasts.\n\nPerhaps its wearer had to stay out of sight,\nand travel by cover of darkness.\n\nWithout memory, who will ever know?
+231000	Clothing worn upon awakening to the nightmare\nof blood and beasts.\n\nNot typical clothing for Yharnam, perhaps it is of\nforeign origin. It is said, after all, the traveler\ncame to Yharnam from afar.\n\nWithout memory, who will ever know?
+232000	Bandage worn upon awakening to the nightmare\nof blood and beasts. Terribly worn and unsanitary.\n\nA faint memory recalls blood ministration,\ninvolving the transfusion of unknown blood.\nNot long after, the nightmare began.
+233000	Trousers worn upon awakening to the nightmare\nof blood and beasts.\n\nNot typical clothing for Yharnam, perhaps it is of\nforeign origin. It is said, after all, the traveler\ncame to Yharnam from afar.\n\nWithout memory, who will ever know?
+240000	NOT NEEDED
+241000	Attire of the retired hunter Djura.\nPainted with ash in a ceremony to ward off blood.\n\nDjura is known through his contact with the Powder Kegs,\nthe heretics of the workshop. He is said to have been\nboth uncommonly kind and dreadfully foolish.\n\nDjura felt defeated by the state of Old Yharnam,\nand renounced his hunter's vows.
+242000	Attire of the retired hunter Djura.\nPainted with ash in a ceremony to ward off blood.\n\nDjura is known through his contact with the Powder Kegs,\nthe heretics of the workshop. He is said to have been\nboth uncommonly kind and dreadfully foolish.\n\nDjura felt defeated by the state of Old Yharnam,\nand renounced his hunter's vows.
+243000	Attire of the retired hunter Djura.\nPainted with ash in a ceremony to ward off blood.\n\nDjura is known through his contact with the Powder Kegs,\nthe heretics of the workshop. He is said to have been\nboth uncommonly kind and dreadfully foolish.\n\nDjura felt defeated by the state of Old Yharnam,\nand renounced his hunter's vows.
+250000	One of the precious secrets of Cainhurst.\nThe old king's crown is said to reveal illusions,\nand expose a mirage that hides a secret.\n\nAnd so Logarius donned the crown of his own volition,\ndetermined to prevent a single soul from stumbling\nupon the vile secret. \n\nWhat visions did he see, sitting serenely upon his \nnew throne?
+260000	NOT NEEDED
+270000	Iron helmet worn by hunters of the Unseen Village.\n\nRemoving the hood reveals something reminiscent\nof a warrior of a previous age.\n\nThis headwear is made of metal, a rarity for hunter garb,\nand has high defense, but only against physical attacks.
+280000	Hat worn by hunters who admire formality.\n\nSome hunters place an emphasis on form,\nas seen by the use of the threaded cane.\n\nFor them, formality, beauty, and justice are\nthe very essence of our humanity, and precisely\nwhat keeps hunters from becoming something else.
+281000	One of the standard articles of hunter attire fashioned at the workshop, this one without the cape that wipes away blood.\n\nA fine piece of hunter attire that provides stable defence to anyone facing Yharnam's beastly threat.\n\nAllows one to stalk beasts unannounced, by cover of night.
+290000	Attire of special Church doctors.\n\nThese doctors are superiors to the black preventative hunters, and specialists in experimentally-backed blood ministration and the scourge of the beast.\n\nThey believe that medicine is not a means of treatment but rather a method for research, and that some knowledge can only be obtained by exposing oneself to sickness.
+291000	Attire of special Church doctors.\n\nThese doctors are superiors to the black preventative \nhunters, and specialists in experimentally-backed blood \nministration and the scourge of the beast.\n\nThey believe that medicine is not a means of treatment\nbut rather a method for research, and that some knowledge\ncan only be obtained by exposing oneself to sickness.
+292000	NOT NEEDED
+293000	Attire of special Church doctors.\n\nThese doctors are superiors to the black preventative \nhunters, and specialists in experimentally-backed blood \nministration and the scourge of the beast.\n\nThey believe that medicine is not a means of treatment\nbut rather a method for research, and that some knowledge\ncan only be obtained by exposing oneself to sickness.
+301000	Uniform of the students of Byrgenwerth, a bygone institute learning. This alternative lacks the thick cape.\n\nThe Healing Church has its roots in Byrgenwerth, and naturally borrows heavily from its uniform design.\n\nThe focus not on knowledge, or thought, but on pure pretension would surely bring Master Willem to despair, if only he knew.
+311000	A finely tailored bordeaux dress.\n\nWorn by the nobles of the old bloodline\nthat traces back to the forsaken Castle Cainhurst.
+313000	Shoes worn by Arianna, woman of the night \nin the Cathedral Ward.\n\nInnocent and cute, in contrast with its owner.
+320000	Common Yharnam cap.\n\nWell-worn and losing its shape.
+321000	Common Yharnam clothing.\n\nWell-worn and damp with sweat.
+330000	NOT NEEDED
+480000	NOT NEEDED
+481000	NOT NEEDED
+482000	NOT NEEDED
+483000	NOT NEEDED
+490000	NOT NEEDED
+491000	NOT NEEDED
+492000	NOT NEEDED
+493000	NOT NEEDED
+503000	NOT NEEDED
+511000	NOT NEEDED
+521000	NOT NEEDED
+541000	NOT NEEDED
+542000	NOT NEEDED
+543000	NOT NEEDED
+550000	NOT NEEDED
+563000	NOT NEEDED
+571000	NOT NEEDED
+573000	NOT NEEDED
+581000	
+582000	NOT NEEDED
+592000	NOT NEEDED
+600000	NOT NEEDED
+602000	NOT NEEDED
+610000	NOT NEEDED
+611000	NOT NEEDED
+620000	NOT NEEDED
+621000	NOT NEEDED
+630000	NOT NEEDED
+641000	NOT NEEDED
+650000	NOT NEEDED
+651000	NOT NEEDED
+653000	NOT NEEDED
+660000	NOT NEEDED
+661000	NOT NEEDED
+671000	NOT NEEDED
+680000	NOT NEEDED
+682000	NOT NEEDED
+690000	NOT NEEDED
+700000	NOT NEEDED
+701000	NOT NEEDED
+703000	NOT NEEDED
+710000	NOT NEEDED
+712000	NOT NEEDED
+723000	NOT NEEDED
+730000	NOT NEEDED
+732000	NOT NEEDED
+740000	NOT NEEDED
+741000	NOT NEEDED
+743000	NOT NEEDED
+750000	NOT NEEDED
+751000	NOT NEEDED
+762000	NOT NEEDED
+772000	NOT NEEDED
+782000	NOT NEEDED
+790000	NOT NEEDED
+800000	NOT NEEDED
+811000	NOT NEEDED
+813000	NOT NEEDED
+820000	NOT NEEDED
+821000	NOT NEEDED
+831000	NOT NEEDED
+900000	NOT NEEDED
+901000	NOT NEEDED
+902000	NOT NEEDED
+903000	NOT NEEDED
+910000	NOT NEEDED
+911000	NOT NEEDED
+912000	NOT NEEDED
+913000	NOT NEEDED
+950000	NOT NEEDED
+951000	NOT NEEDED
+952000	NOT NEEDED
+953000	NOT NEEDED
+960000	NOT NEEDED
+961000	NOT NEEDED
+962000	NOT NEEDED
+963000	NOT NEEDED
+970000	NOT NEEDED
+971000	NOT NEEDED
+972000	NOT NEEDED
+973000	NOT NEEDED
+980000	NOT NEEDED
+981000	NOT NEEDED
+982000	NOT NEEDED
+983000	NOT NEEDED
+990000	NOT NEEDED
+991000	NOT NEEDED
+992000	NOT NEEDED
+993000	NOT NEEDED

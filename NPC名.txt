@@ -1,0 +1,237 @@
+1000	Madman's Escort
+1001	
+1002	
+1003	
+1004	
+1005	
+1006	
+1007	
+1008	
+1009	
+1010	Forgotten Madman
+101000	Degenerate Beast
+106000	Brainsucker
+127000	Maneater Boar
+209000	Blood-starved Beast
+209001	
+209002	
+209003	
+209004	
+209005	
+209006	
+209007	
+209008	
+209009	
+209010	Blood-starved Beast
+210000	The Witch of Hemwick
+212010	Shadow of Yharnam
+212011	
+212012	
+212013	
+212014	
+212015	
+212016	
+212017	
+212018	
+212019	
+212020	Shadow of Yharnam
+212021	
+212022	
+212023	
+212024	
+212025	
+212026	
+212027	
+212028	
+212029	
+212030	Shadow of Yharnam
+216000	Keeper of the Old Lords
+218000	Loran Silverbeast
+232000	Martyr Logarius
+251000	Ebrietas, Daughter of the Cosmos
+251001	
+251002	
+251003	
+251004	
+251005	
+251006	
+251007	
+251008	
+251009	
+251010	Ebrietas, Daughter of the Cosmos
+257000	Celestial Emissary
+257001	
+257002	
+257003	
+257004	
+257005	
+257006	
+257007	
+257008	
+257009	
+257010	Celestial Emissary
+271000	Father Gascoigne
+272000	Father Gascoigne
+304000	Merciless Watcher
+304001	Watcher Chieftain
+304002	Merciless Watcher
+304003	Merciless Watcher
+305000	Pthumerian Descendant
+305001	Pthumerian Descendant
+305002	Pthumerian Elder
+306000	Pthumerian Bride
+306001	Yharnam, Pthumerian Queen
+313000	Undead Giant
+500000	Cleric Beast
+501000	Watchdog of the Old Lord
+502000	Vicar Amelia
+504000	Loran Darkbeast
+504001	
+504002	
+504003	
+504004	
+504005	
+504006	
+504007	
+504008	
+504009	
+504010	Loran Darkbeast
+507000	The One Reborn
+508000	Darkbeast Paarl
+508001	
+508002	
+508003	
+508004	
+508005	
+508006	
+508007	
+508008	
+508009	
+508010	Darkbeast Paarl
+509000	Bloodletting Beast
+509001	
+509002	
+509003	
+509004	
+509005	
+509006	
+509007	
+509008	
+509009	
+509010	Bloodletting Beast
+510000	Rom, the Vacuous Spider
+510001	
+510002	
+510003	
+510004	
+510005	
+510006	
+510007	
+510008	
+510009	
+510010	Rom, the Vacuous Spider
+511000	Great One Beast
+512000	Amygdala
+512001	
+512002	
+512003	
+512004	
+512005	
+512006	
+512007	
+512008	
+512009	
+512010	Amygdala
+540000	Moon Presence
+551000	Mergo's Wet Nurse
+551001	
+551002	
+551003	
+551004	
+551005	
+551006	
+551007	
+551008	
+551009	
+551010	Mergo's Wet Nurse
+750000	Beast-possessed Soul
+802000	Slug Princess
+803000	Heroine Doll
+804000	Gehrman, the First Hunter
+805000	Gehrman, the First Hunter
+899000	Micolash, Host of the Nightmare
+899001	
+899002	
+899003	
+899004	
+899005	
+899006	
+899007	
+899008	
+899009	
+899010	Vileblood Hunter Alfred
+900020	The Vileblood
+900021	
+900022	
+900023	
+900024	
+900025	
+900026	
+900027	
+900028	
+900029	
+900030	The Executioners
+900031	
+900032	
+900033	
+900034	
+900035	
+900036	
+900037	
+900038	
+900039	
+900040	Hunter of Hunters
+901040	Nameless Tomb Prospector
+901060	Izzy's Admirer
+901061	
+901062	
+901063	
+901064	
+901065	
+901066	
+901067	
+901068	
+901069	
+901070	Nameless Madman
+901110	Bone Ash Hunter Carla
+901150	Drifting Vileblood Leo
+901151	
+901152	
+901153	
+901154	
+901155	
+901156	
+901157	
+901158	
+901159	
+901160	Ardeo Man
+901161	
+901162	
+901163	
+901164	
+901165	
+901166	
+901167	
+901168	
+901169	
+901170	Defeated Hunter
+901171	
+901172	
+901173	
+901174	
+901175	
+901176	
+901177	
+901178	
+901179	
+901180	Choir Intelligencer Edgar

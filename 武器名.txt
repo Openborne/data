@@ -1,0 +1,827 @@
+1000	*
+1000000	Bare Fists
+1090000	*
+2000000	Chikage
+2000100	Chikage +1
+2000200	Chikage +2
+2000300	Chikage +3
+2000400	Chikage +4
+2000500	Chikage +5
+2000600	Chikage +6
+2000700	Chikage +7
+2000800	Chikage +8
+2000900	Chikage +9
+2001000	Chikage +10
+2010000	Uncanny Chikage
+2010100	Uncanny Chikage +1
+2010200	Uncanny Chikage +2
+2010300	Uncanny Chikage +3
+2010400	Uncanny Chikage +4
+2010500	Uncanny Chikage +5
+2010600	Uncanny Chikage +6
+2010700	Uncanny Chikage +7
+2010800	Uncanny Chikage +8
+2010900	Uncanny Chikage +9
+2011000	Uncanny Chikage +10
+2020000	Lost Chikage
+2020100	Lost Chikage +1
+2020200	Lost Chikage +2
+2020300	Lost Chikage +3
+2020400	Lost Chikage +4
+2020500	Lost Chikage +5
+2020600	Lost Chikage +6
+2020700	Lost Chikage +7
+2020800	Lost Chikage +8
+2020900	Lost Chikage +9
+2021000	Lost Chikage +10
+2030000	*
+2030100	*
+2030200	*
+2030300	*
+2030400	*
+2030500	*
+2030600	*
+2030700	*
+2030800	*
+2030900	*
+2031000	*
+2090000	*
+4000000	Blade of Mercy
+4000100	Blade of Mercy +1
+4000200	Blade of Mercy +2
+4000300	Blade of Mercy +3
+4000400	Blade of Mercy +4
+4000500	Blade of Mercy +5
+4000600	Blade of Mercy +6
+4000700	Blade of Mercy +7
+4000800	Blade of Mercy +8
+4000900	Blade of Mercy +9
+4001000	Blade of Mercy +10
+4010000	Uncanny Blade of Mercy
+4010100	Uncanny Blade of Mercy +1
+4010200	Uncanny Blade of Mercy +2
+4010300	Uncanny Blade of Mercy +3
+4010400	Uncanny Blade of Mercy +4
+4010500	Uncanny Blade of Mercy +5
+4010600	Uncanny Blade of Mercy +6
+4010700	Uncanny Blade of Mercy +7
+4010800	Uncanny Blade of Mercy +8
+4010900	Uncanny Blade of Mercy +9
+4011000	Uncanny Blade of Mercy +10
+4020000	Lost Blade of Mercy
+4020100	Lost Blade of Mercy +1
+4020200	Lost Blade of Mercy +2
+4020300	Lost Blade of Mercy +3
+4020400	Lost Blade of Mercy +4
+4020500	Lost Blade of Mercy +5
+4020600	Lost Blade of Mercy +6
+4020700	Lost Blade of Mercy +7
+4020800	Lost Blade of Mercy +8
+4020900	Lost Blade of Mercy +9
+4021000	Lost Blade of Mercy +10
+4030000	*
+4030100	*
+4030200	*
+4030300	*
+4030400	*
+4030500	*
+4030600	*
+4030700	*
+4030800	*
+4030900	*
+4031000	*
+4090000	*
+4090100	*
+5000000	Hunter Axe
+5000100	Hunter Axe +1
+5000200	Hunter Axe +2
+5000300	Hunter Axe +3
+5000400	Hunter Axe +4
+5000500	Hunter Axe +5
+5000600	Hunter Axe +6
+5000700	Hunter Axe +7
+5000800	Hunter Axe +8
+5000900	Hunter Axe +9
+5001000	Hunter Axe +10
+5010000	Uncanny Hunter Axe
+5010100	Uncanny Hunter Axe +1
+5010200	Uncanny Hunter Axe +2
+5010300	Uncanny Hunter Axe +3
+5010400	Uncanny Hunter Axe +4
+5010500	Uncanny Hunter Axe +5
+5010600	Uncanny Hunter Axe +6
+5010700	Uncanny Hunter Axe +7
+5010800	Uncanny Hunter Axe +8
+5010900	Uncanny Hunter Axe +9
+5011000	Uncanny Hunter Axe +10
+5020000	Lost Hunter Axe
+5020100	Lost Hunter Axe +1
+5020200	Lost Hunter Axe +2
+5020300	Lost Hunter Axe +3
+5020400	Lost Hunter Axe +4
+5020500	Lost Hunter Axe +5
+5020600	Lost Hunter Axe +6
+5020700	Lost Hunter Axe +7
+5020800	Lost Hunter Axe +8
+5020900	Lost Hunter Axe +9
+5021000	Lost Hunter Axe +10
+5030000	*
+5030100	*
+5030200	*
+5030300	*
+5030400	*
+5030500	*
+5030600	*
+5030700	*
+5030800	*
+5030900	*
+5031000	*
+5090000	*
+5090100	*
+5100000	Burial Blade
+5100100	Burial Blade +1
+5100200	Burial Blade +2
+5100300	Burial Blade +3
+5100400	Burial Blade +4
+5100500	Burial Blade +5
+5100600	Burial Blade +6
+5100700	Burial Blade +7
+5100800	Burial Blade +8
+5100900	Burial Blade +9
+5101000	Burial Blade +10
+5110000	Uncanny Burial Blade
+5110100	Uncanny Burial Blade +1
+5110200	Uncanny Burial Blade +2
+5110300	Uncanny Burial Blade +3
+5110400	Uncanny Burial Blade +4
+5110500	Uncanny Burial Blade +5
+5110600	Uncanny Burial Blade +6
+5110700	Uncanny Burial Blade +7
+5110800	Uncanny Burial Blade +8
+5110900	Uncanny Burial Blade +9
+5111000	Uncanny Burial Blade +10
+5120000	Lost Burial Blade
+5120100	Lost Burial Blade +1
+5120200	Lost Burial Blade +2
+5120300	Lost Burial Blade +3
+5120400	Lost Burial Blade +4
+5120500	Lost Burial Blade +5
+5120600	Lost Burial Blade +6
+5120700	Lost Burial Blade +7
+5120800	Lost Burial Blade +8
+5120900	Lost Burial Blade +9
+5121000	Lost Burial Blade +10
+5130000	*
+5130100	*
+5130200	*
+5130300	*
+5130400	*
+5130500	*
+5130600	*
+5130700	*
+5130800	*
+5130900	*
+5131000	*
+5190000	*
+6000000	Hunter Blunderbuss
+6000100	Hunter Blunderbuss +1
+6000200	Hunter Blunderbuss +2
+6000300	Hunter Blunderbuss +3
+6000400	Hunter Blunderbuss +4
+6000500	Hunter Blunderbuss +5
+6000600	Hunter Blunderbuss +6
+6000700	Hunter Blunderbuss +7
+6000800	Hunter Blunderbuss +8
+6000900	Hunter Blunderbuss +9
+6001000	Hunter Blunderbuss +10
+6090000	*
+6090100	*
+6100000	Ludwig's Rifle
+6100100	Ludwig's Rifle +1
+6100200	Ludwig's Rifle +2
+6100300	Ludwig's Rifle +3
+6100400	Ludwig's Rifle +4
+6100500	Ludwig's Rifle +5
+6100600	Ludwig's Rifle +6
+6100700	Ludwig's Rifle +7
+6100800	Ludwig's Rifle +8
+6100900	Ludwig's Rifle +9
+6101000	Ludwig's Rifle +10
+6190000	*
+7000000	Saw Cleaver
+7000100	Saw Cleaver +1
+7000200	Saw Cleaver +2
+7000300	Saw Cleaver +3
+7000400	Saw Cleaver +4
+7000500	Saw Cleaver +5
+7000600	Saw Cleaver +6
+7000700	Saw Cleaver +7
+7000800	Saw Cleaver +8
+7000900	Saw Cleaver +9
+7001000	Saw Cleaver +10
+7010000	Uncanny Saw Cleaver
+7010100	Uncanny Saw Cleaver +1
+7010200	Uncanny Saw Cleaver +2
+7010300	Uncanny Saw Cleaver +3
+7010400	Uncanny Saw Cleaver +4
+7010500	Uncanny Saw Cleaver +5
+7010600	Uncanny Saw Cleaver +6
+7010700	Uncanny Saw Cleaver +7
+7010800	Uncanny Saw Cleaver +8
+7010900	Uncanny Saw Cleaver +9
+7011000	Uncanny Saw Cleaver +10
+7020000	Lost Saw Cleaver
+7020100	Lost Saw Cleaver +1
+7020200	Lost Saw Cleaver +2
+7020300	Lost Saw Cleaver +3
+7020400	Lost Saw Cleaver +4
+7020500	Lost Saw Cleaver +5
+7020600	Lost Saw Cleaver +6
+7020700	Lost Saw Cleaver +7
+7020800	Lost Saw Cleaver +8
+7020900	Lost Saw Cleaver +9
+7021000	Lost Saw Cleaver +10
+7030000	*
+7030100	*
+7030200	*
+7030300	*
+7030400	*
+7030500	*
+7030600	*
+7030700	*
+7030800	*
+7030900	*
+7031000	*
+7090000	*
+7090100	*
+7100000	Saw Spear
+7100100	Saw Spear +1
+7100200	Saw Spear +2
+7100300	Saw Spear +3
+7100400	Saw Spear +4
+7100500	Saw Spear +5
+7100600	Saw Spear +6
+7100700	Saw Spear +7
+7100800	Saw Spear +8
+7100900	Saw Spear +9
+7101000	Saw Spear +10
+7110000	Uncanny Saw Spear
+7110100	Uncanny Saw Spear +1
+7110200	Uncanny Saw Spear +2
+7110300	Uncanny Saw Spear +3
+7110400	Uncanny Saw Spear +4
+7110500	Uncanny Saw Spear +5
+7110600	Uncanny Saw Spear +6
+7110700	Uncanny Saw Spear +7
+7110800	Uncanny Saw Spear +8
+7110900	Uncanny Saw Spear +9
+7111000	Uncanny Saw Spear +10
+7120000	Lost Saw Spear
+7120100	Lost Saw Spear +1
+7120200	Lost Saw Spear +2
+7120300	Lost Saw Spear +3
+7120400	Lost Saw Spear +4
+7120500	Lost Saw Spear +5
+7120600	Lost Saw Spear +6
+7120700	Lost Saw Spear +7
+7120800	Lost Saw Spear +8
+7120900	Lost Saw Spear +9
+7121000	Lost Saw Spear +10
+7130000	*
+7130100	*
+7130200	*
+7130300	*
+7130400	*
+7130500	*
+7130600	*
+7130700	*
+7130800	*
+7130900	*
+7131000	*
+7190000	*
+8000000	Kirkhammer
+8000100	Kirkhammer +1
+8000200	Kirkhammer +2
+8000300	Kirkhammer +3
+8000400	Kirkhammer +4
+8000500	Kirkhammer +5
+8000600	Kirkhammer +6
+8000700	Kirkhammer +7
+8000800	Kirkhammer +8
+8000900	Kirkhammer +9
+8001000	Kirkhammer +10
+8010000	Uncanny Kirkhammer
+8010100	Uncanny Kirkhammer +1
+8010200	Uncanny Kirkhammer +2
+8010300	Uncanny Kirkhammer +3
+8010400	Uncanny Kirkhammer +4
+8010500	Uncanny Kirkhammer +5
+8010600	Uncanny Kirkhammer +6
+8010700	Uncanny Kirkhammer +7
+8010800	Uncanny Kirkhammer +8
+8010900	Uncanny Kirkhammer +9
+8011000	Uncanny Kirkhammer +10
+8020000	Lost Kirkhammer
+8020100	Lost Kirkhammer +1
+8020200	Lost Kirkhammer +2
+8020300	Lost Kirkhammer +3
+8020400	Lost Kirkhammer +4
+8020500	Lost Kirkhammer +5
+8020600	Lost Kirkhammer +6
+8020700	Lost Kirkhammer +7
+8020800	Lost Kirkhammer +8
+8020900	Lost Kirkhammer +9
+8021000	Lost Kirkhammer +10
+8030000	*
+8030100	*
+8030200	*
+8030300	*
+8030400	*
+8030500	*
+8030600	*
+8030700	*
+8030800	*
+8030900	*
+8031000	*
+8090000	*
+8090100	*
+8100000	Ludwig's Holy Blade
+8100100	Ludwig's Holy Blade +1
+8100200	Ludwig's Holy Blade +2
+8100300	Ludwig's Holy Blade +3
+8100400	Ludwig's Holy Blade +4
+8100500	Ludwig's Holy Blade +5
+8100600	Ludwig's Holy Blade +6
+8100700	Ludwig's Holy Blade +7
+8100800	Ludwig's Holy Blade +8
+8100900	Ludwig's Holy Blade +9
+8101000	Ludwig's Holy Blade +10
+8110000	Ludwig's Uncanny Holy Blade
+8110100	Ludwig's Uncanny Holy Blade +1
+8110200	Ludwig's Uncanny Holy Blade +2
+8110300	Ludwig's Uncanny Holy Blade +3
+8110400	Ludwig's Uncanny Holy Blade +4
+8110500	Ludwig's Uncanny Holy Blade +5
+8110600	Ludwig's Uncanny Holy Blade +6
+8110700	Ludwig's Uncanny Holy Blade +7
+8110800	Ludwig's Uncanny Holy Blade +8
+8110900	Ludwig's Uncanny Holy Blade +9
+8111000	Ludwig's Uncanny Holy Blade +10
+8120000	Ludwig's Lost Holy Blade
+8120100	Ludwig's Lost Holy Blade +1
+8120200	Ludwig's Lost Holy Blade +2
+8120300	Ludwig's Lost Holy Blade +3
+8120400	Ludwig's Lost Holy Blade +4
+8120500	Ludwig's Lost Holy Blade +5
+8120600	Ludwig's Lost Holy Blade +6
+8120700	Ludwig's Lost Holy Blade +7
+8120800	Ludwig's Lost Holy Blade +8
+8120900	Ludwig's Lost Holy Blade +9
+8121000	Ludwig's Lost Holy Blade +10
+8130000	*
+8130100	*
+8130200	*
+8130300	*
+8130400	*
+8130500	*
+8130600	*
+8130700	*
+8130800	*
+8130900	*
+8131000	*
+8190000	*
+9000000	Beast Claw
+9000100	Beast Claw +1
+9000200	Beast Claw +2
+9000300	Beast Claw +3
+9000400	Beast Claw +4
+9000500	Beast Claw +5
+9000600	Beast Claw +6
+9000700	Beast Claw +7
+9000800	Beast Claw +8
+9000900	Beast Claw +9
+9001000	Beast Claw +10
+9010000	Uncanny Beast Claw
+9010100	Uncanny Beast Claw +1
+9010200	Uncanny Beast Claw +2
+9010300	Uncanny Beast Claw +3
+9010400	Uncanny Beast Claw +4
+9010500	Uncanny Beast Claw +5
+9010600	Uncanny Beast Claw +6
+9010700	Uncanny Beast Claw +7
+9010800	Uncanny Beast Claw +8
+9010900	Uncanny Beast Claw +9
+9011000	Uncanny Beast Claw +10
+9020000	Lost Beast Claw
+9020100	Lost Beast Claw +1
+9020200	Lost Beast Claw +2
+9020300	Lost Beast Claw +3
+9020400	Lost Beast Claw +4
+9020500	Lost Beast Claw +5
+9020600	Lost Beast Claw +6
+9020700	Lost Beast Claw +7
+9020800	Lost Beast Claw +8
+9020900	Lost Beast Claw +9
+9021000	Lost Beast Claw +10
+9030000	*
+9030100	*
+9030200	*
+9030300	*
+9030400	*
+9030500	*
+9030600	*
+9030700	*
+9030800	*
+9030900	*
+9031000	*
+9090000	*
+10000000	Rifle Spear
+10000100	Rifle Spear +1
+10000200	Rifle Spear +2
+10000300	Rifle Spear +3
+10000400	Rifle Spear +4
+10000500	Rifle Spear +5
+10000600	Rifle Spear +6
+10000700	Rifle Spear +7
+10000800	Rifle Spear +8
+10000900	Rifle Spear +9
+10001000	Rifle Spear +10
+10010000	Uncanny Rifle Spear
+10010100	Uncanny Rifle Spear +1
+10010200	Uncanny Rifle Spear +2
+10010300	Uncanny Rifle Spear +3
+10010400	Uncanny Rifle Spear +4
+10010500	Uncanny Rifle Spear +5
+10010600	Uncanny Rifle Spear +6
+10010700	Uncanny Rifle Spear +7
+10010800	Uncanny Rifle Spear +8
+10010900	Uncanny Rifle Spear +9
+10011000	Uncanny Rifle Spear +10
+10020000	Lost Rifle Spear
+10020100	Lost Rifle Spear +1
+10020200	Lost Rifle Spear +2
+10020300	Lost Rifle Spear +3
+10020400	Lost Rifle Spear +4
+10020500	Lost Rifle Spear +5
+10020600	Lost Rifle Spear +6
+10020700	Lost Rifle Spear +7
+10020800	Lost Rifle Spear +8
+10020900	Lost Rifle Spear +9
+10021000	Lost Rifle Spear +10
+10030000	*
+10030100	*
+10030200	*
+10030300	*
+10030400	*
+10030500	*
+10030600	*
+10030700	*
+10030800	*
+10030900	*
+10031000	*
+10090000	*
+10100000	Reiterpallasch
+10100100	Reiterpallasch +1
+10100200	Reiterpallasch +2
+10100300	Reiterpallasch +3
+10100400	Reiterpallasch +4
+10100500	Reiterpallasch +5
+10100600	Reiterpallasch +6
+10100700	Reiterpallasch +7
+10100800	Reiterpallasch +8
+10100900	Reiterpallasch +9
+10101000	Reiterpallasch +10
+10110000	Uncanny Reiterpallasch
+10110100	Uncanny Reiterpallasch +1
+10110200	Uncanny Reiterpallasch +2
+10110300	Uncanny Reiterpallasch +3
+10110400	Uncanny Reiterpallasch +4
+10110500	Uncanny Reiterpallasch +5
+10110600	Uncanny Reiterpallasch +6
+10110700	Uncanny Reiterpallasch +7
+10110800	Uncanny Reiterpallasch +8
+10110900	Uncanny Reiterpallasch +9
+10111000	Uncanny Reiterpallasch +10
+10120000	Lost Reiterpallasch
+10120100	Lost Reiterpallasch +1
+10120200	Lost Reiterpallasch +2
+10120300	Lost Reiterpallasch +3
+10120400	Lost Reiterpallasch +4
+10120500	Lost Reiterpallasch +5
+10120600	Lost Reiterpallasch +6
+10120700	Lost Reiterpallasch +7
+10120800	Lost Reiterpallasch +8
+10120900	Lost Reiterpallasch +9
+10121000	Lost Reiterpallasch +10
+10130000	*
+10130100	*
+10130200	*
+10130300	*
+10130400	*
+10130500	*
+10130600	*
+10130700	*
+10130800	*
+10130900	*
+10131000	*
+10190000	*
+11000000	Stake Driver
+11000100	Stake Driver +1
+11000200	Stake Driver +2
+11000300	Stake Driver +3
+11000400	Stake Driver +4
+11000500	Stake Driver +5
+11000600	Stake Driver +6
+11000700	Stake Driver +7
+11000800	Stake Driver +8
+11000900	Stake Driver +9
+11001000	Stake Driver +10
+11010000	Uncanny Stake Driver
+11010100	Uncanny Stake Driver +1
+11010200	Uncanny Stake Driver +2
+11010300	Uncanny Stake Driver +3
+11010400	Uncanny Stake Driver +4
+11010500	Uncanny Stake Driver +5
+11010600	Uncanny Stake Driver +6
+11010700	Uncanny Stake Driver +7
+11010800	Uncanny Stake Driver +8
+11010900	Uncanny Stake Driver +9
+11011000	Uncanny Stake Driver +10
+11020000	Lost Stake Driver
+11020100	Lost Stake Driver +1
+11020200	Lost Stake Driver +2
+11020300	Lost Stake Driver +3
+11020400	Lost Stake Driver +4
+11020500	Lost Stake Driver +5
+11020600	Lost Stake Driver +6
+11020700	Lost Stake Driver +7
+11020800	Lost Stake Driver +8
+11020900	Lost Stake Driver +9
+11021000	Lost Stake Driver +10
+11030000	*
+11030100	*
+11030200	*
+11030300	*
+11030400	*
+11030500	*
+11030600	*
+11030700	*
+11030800	*
+11030900	*
+11031000	*
+11090000	*
+12000000	Logarius' Wheel
+12000100	Logarius' Wheel +1
+12000200	Logarius' Wheel +2
+12000300	Logarius' Wheel +3
+12000400	Logarius' Wheel +4
+12000500	Logarius' Wheel +5
+12000600	Logarius' Wheel +6
+12000700	Logarius' Wheel +7
+12000800	Logarius' Wheel +8
+12000900	Logarius' Wheel +9
+12001000	Logarius' Wheel +10
+12010000	Logarius' Uncanny Wheel
+12010100	Logarius' Uncanny Wheel +1
+12010200	Logarius' Uncanny Wheel +2
+12010300	Logarius' Uncanny Wheel +3
+12010400	Logarius' Uncanny Wheel +4
+12010500	Logarius' Uncanny Wheel +5
+12010600	Logarius' Uncanny Wheel +6
+12010700	Logarius' Uncanny Wheel +7
+12010800	Logarius' Uncanny Wheel +8
+12010900	Logarius' Uncanny Wheel +9
+12011000	Logarius' Uncanny Wheel +10
+12020000	Logarius' Lost Wheel
+12020100	Logarius' Lost Wheel +1
+12020200	Logarius' Lost Wheel +2
+12020300	Logarius' Lost Wheel +3
+12020400	Logarius' Lost Wheel +4
+12020500	Logarius' Lost Wheel +5
+12020600	Logarius' Lost Wheel +6
+12020700	Logarius' Lost Wheel +7
+12020800	Logarius' Lost Wheel +8
+12020900	Logarius' Lost Wheel +9
+12021000	Logarius' Lost Wheel +10
+12030000	*
+12030100	*
+12030200	*
+12030300	*
+12030400	*
+12030500	*
+12030600	*
+12030700	*
+12030800	*
+12030900	*
+12031000	*
+12080000	*
+12080100	*
+12080200	*
+12080300	*
+12080400	*
+12080500	*
+12080600	*
+12080700	*
+12080800	*
+12080900	*
+12081000	*
+12090000	*
+13000000	Tonitrus
+13000100	Tonitrus +1
+13000200	Tonitrus +2
+13000300	Tonitrus +3
+13000400	Tonitrus +4
+13000500	Tonitrus +5
+13000600	Tonitrus +6
+13000700	Tonitrus +7
+13000800	Tonitrus +8
+13000900	Tonitrus +9
+13001000	Tonitrus +10
+13010000	Uncanny Tonitrus
+13010100	Uncanny Tonitrus +1
+13010200	Uncanny Tonitrus +2
+13010300	Uncanny Tonitrus +3
+13010400	Uncanny Tonitrus +4
+13010500	Uncanny Tonitrus +5
+13010600	Uncanny Tonitrus +6
+13010700	Uncanny Tonitrus +7
+13010800	Uncanny Tonitrus +8
+13010900	Uncanny Tonitrus +9
+13011000	Uncanny Tonitrus +10
+13020000	Lost Tonitrus
+13020100	Lost Tonitrus +1
+13020200	Lost Tonitrus +2
+13020300	Lost Tonitrus +3
+13020400	Lost Tonitrus +4
+13020500	Lost Tonitrus +5
+13020600	Lost Tonitrus +6
+13020700	Lost Tonitrus +7
+13020800	Lost Tonitrus +8
+13020900	Lost Tonitrus +9
+13021000	Lost Tonitrus +10
+13030000	*
+13030100	*
+13030200	*
+13030300	*
+13030400	*
+13030500	*
+13030600	*
+13030700	*
+13030800	*
+13030900	*
+13031000	*
+13090000	*
+14000000	Hunter Pistol
+14000100	Hunter Pistol +1
+14000200	Hunter Pistol +2
+14000300	Hunter Pistol +3
+14000400	Hunter Pistol +4
+14000500	Hunter Pistol +5
+14000600	Hunter Pistol +6
+14000700	Hunter Pistol +7
+14000800	Hunter Pistol +8
+14000900	Hunter Pistol +9
+14001000	Hunter Pistol +10
+14090000	*
+14090100	*
+14100000	Evelyn
+14100100	Evelyn +1
+14100200	Evelyn +2
+14100300	Evelyn +3
+14100400	Evelyn +4
+14100500	Evelyn +5
+14100600	Evelyn +6
+14100700	Evelyn +7
+14100800	Evelyn +8
+14100900	Evelyn +9
+14101000	Evelyn +10
+14190000	*
+14200000	Repeating Pistol
+14200100	Repeating Pistol +1
+14200200	Repeating Pistol +2
+14200300	Repeating Pistol +3
+14200400	Repeating Pistol +4
+14200500	Repeating Pistol +5
+14200600	Repeating Pistol +6
+14200700	Repeating Pistol +7
+14200800	Repeating Pistol +8
+14200900	Repeating Pistol +9
+14201000	Repeating Pistol +10
+14290000	*
+15000000	Cannon
+15000100	Cannon +1
+15000200	Cannon +2
+15000300	Cannon +3
+15000400	Cannon +4
+15000500	Cannon +5
+15000600	Cannon +6
+15000700	Cannon +7
+15000800	Cannon +8
+15000900	Cannon +9
+15001000	Cannon +10
+15090000	*
+18000000	Rosmarinus
+18000100	Rosmarinus +1
+18000200	Rosmarinus +2
+18000300	Rosmarinus +3
+18000400	Rosmarinus +4
+18000500	Rosmarinus +5
+18000600	Rosmarinus +6
+18000700	Rosmarinus +7
+18000800	Rosmarinus +8
+18000900	Rosmarinus +9
+18001000	Rosmarinus +10
+18090000	*
+18100000	Flamesprayer
+18100100	Flamesprayer +1
+18100200	Flamesprayer +2
+18100300	Flamesprayer +3
+18100400	Flamesprayer +4
+18100500	Flamesprayer +5
+18100600	Flamesprayer +6
+18100700	Flamesprayer +7
+18100800	Flamesprayer +8
+18100900	Flamesprayer +9
+18101000	Flamesprayer +10
+18190000	*
+19000000	Wooden Shield
+19000100	Wooden Shield +1
+19000200	Wooden Shield +2
+19000300	Wooden Shield +3
+19000400	Wooden Shield +4
+19000500	Wooden Shield +5
+19000600	Wooden Shield +6
+19000700	Wooden Shield +7
+19000800	Wooden Shield +8
+19000900	Wooden Shield +9
+19001000	Wooden Shield +10
+19090000	*
+20000000	Hunter's Torch
+20000100	Hunter's Torch +1
+20000200	Hunter's Torch +2
+20000300	Hunter's Torch +3
+20000400	Hunter's Torch +4
+20000500	Hunter's Torch +5
+20000600	Hunter's Torch +6
+20000700	Hunter's Torch +7
+20000800	Hunter's Torch +8
+20000900	Hunter's Torch +9
+20001000	Hunter's Torch +10
+20090000	*
+20090100	*
+20100000	Torch
+20100100	Torch +1
+20100200	Torch +2
+20100300	Torch +3
+20100400	Torch +4
+20100500	Torch +5
+20100600	Torch +6
+20100700	Torch +7
+20100800	Torch +8
+20100900	Torch +9
+20101000	Torch +10
+22000000	Threaded Cane
+22000100	Threaded Cane +1
+22000200	Threaded Cane +2
+22000300	Threaded Cane +3
+22000400	Threaded Cane +4
+22000500	Threaded Cane +5
+22000600	Threaded Cane +6
+22000700	Threaded Cane +7
+22000800	Threaded Cane +8
+22000900	Threaded Cane +9
+22001000	Threaded Cane +10
+22010000	Uncanny Threaded Cane
+22010100	Uncanny Threaded Cane +1
+22010200	Uncanny Threaded Cane +2
+22010300	Uncanny Threaded Cane +3
+22010400	Uncanny Threaded Cane +4
+22010500	Uncanny Threaded Cane +5
+22010600	Uncanny Threaded Cane +6
+22010700	Uncanny Threaded Cane +7
+22010800	Uncanny Threaded Cane +8
+22010900	Uncanny Threaded Cane +9
+22011000	Uncanny Threaded Cane +10
+22020000	Lost Threaded Cane
+22020100	Lost Threaded Cane +1
+22020200	Lost Threaded Cane +2
+22020300	Lost Threaded Cane +3
+22020400	Lost Threaded Cane +4
+22020500	Lost Threaded Cane +5
+22020600	Lost Threaded Cane +6
+22020700	Lost Threaded Cane +7
+22020800	Lost Threaded Cane +8
+22020900	Lost Threaded Cane +9
+22021000	Lost Threaded Cane +10
+22030000	*
+22030100	*
+22030200	*
+22030300	*
+22030400	*
+22030500	*
+22030600	*
+22030700	*
+22030800	*
+22030900	*
+22031000	*
+22090000	*

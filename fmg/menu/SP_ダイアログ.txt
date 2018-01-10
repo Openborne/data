@@ -1,0 +1,512 @@
+1	OK
+2	CANCEL
+3	YES
+4	NO
+15	RETRY
+16	CONTINUE
+17	BACK TO TITLE
+18	
+19	
+20	Yes, I would
+21	Never
+22	I will hunt
+23	I vow not to hunt
+4001	Failed to connect to Bloodborne server.\nSwitching to offline mode.\n\nNetwork features, including multiplayer,\nspecters and notes, are unavailable in offline mode.\n\nTry logging in again later from title menu.
+4002	
+4003	
+4004	
+4005	
+4006	Failed to change privacy settings.\nTry again later.
+4007	Failed to obtain Chalice Dungeon info.\nTry again later.
+4008	
+4009	Failed to join Chalice Dungeon.\nTry again later.
+4010	
+4011	Failed to contribute ritual materials.\nTry again later.
+4101	The Bloodborne server\nadministrator has restricted\nthis SEN account's access\nto multiplayer features.
+4102	The Bloodborne server\nadministrator has restricted\nthis SEN account's ability to\nwrite or read notes.
+4103	The Bloodborne server administrator has restricted\nthis SEN account's Chalice Dungeon functionality.
+4104	The Bloodborne server\nadministrator has restricted\nthis SEN account's\nspecter functionality.
+4201	The Bloodborne server is no longer available.\nSwitching to offline mode.\n\nNetwork features, including multiplayer,\nspecters and notes, are unavailable in offline mode.\n\nTry logging in again later from title menu.
+4301	Lost connection to Bloodborne server.\nSwitching to offline mode.\n\nNetwork features, including multiplayer,\nspecters and notes, are unavailable in offline mode.\n\nTry logging in again later from title menu.
+4401	<?ssInfoMsg?>\nSwitching to offline mode.\n\nNetwork features, including multiplayer,\nspecters and notes, are unavailable in offline mode.\n\nTo use network features, wait for\nthe Bloodborne server maintenance to end,\nand log in again from title menu.
+4402	Failed to resolve Bloodborne server status.\nSwitching to offline mode.\n\nNetwork features, including multiplayer,\nspecters and notes, are unavailable in offline mode.\n\nTo use network features, wait for\nthe Bloodborne server maintenance to end,\nand log in again from title menu.
+4403	Failed to acquire Bloodborne server information.\nSwitching to offline mode.\n\nNetwork features, including multiplayer,\nspecters and notes, are unavailable in offline mode.\n\nTo use network features, wait for\nthe Bloodborne server maintenance to end,\nand log in again from title menu.
+4601	Failed to connect to Bloodborne server.\nSwitching to offline mode.\n\nNetwork features, including multiplayer,\nspecters and notes, are unavailable in offline mode.\n\nTo use network features, try logging in again later\nfrom title menu.
+4602	After a period of no access,\nthe selected dungeon data was deleted\nfrom the Bloodborne server.
+4603	No dungeons found using the given Chalice Glyph.
+4604	You don't meet the requirements to join the dungeon\nmatching this chalice glyph.
+4605	No dungeon found that can be joined.
+4606	Could not find a Chalice Dungeon matching your criteria.
+4701	Lost connection to the network.\nSwitching to offline mode.\n\nNetwork features, including multiplayer,\nspecters and notes, are unavailable in offline mode.\nTo use network features, check to see\nif your connection is set up properly,\nand log in again from title menu.
+4801	You have been signed out of "PSN".\nSwitching to offline mode.\n\nNetwork features, including multiplayer,\nspecters and notes, are unavailable in offline mode.\nTo use network features, check to see\nif your connection is set up properly,\nand log in again from title menu.
+4802	Lost communication with "PSN".\nSwitching to offline mode.\n\nNetwork features, including multiplayer,\nspecters and notes, are unavailable in offline mode.\nTo use network features, check to see\nif your connection is set up properly,\nand log in again from title menu.
+4803	Your PlayStation®Plus membership has expired. \nSwitching to offline mode. \n\nNetwork features, including multiplayer, \nspecters and notes, are unavailable in offline mode. \n\nTo use network features, re-subscribe\nto PlayStation®Plus and log in again\nfrom title menu.
+40200	Not enough Blood Echoes.
+40201	
+40202	
+40203	Not enough Insight.
+40300	Restore to default settings?
+102000	Select quantity of\n<?itemName?>\nto discard.
+102001	Discard\n<?itemName?>?
+102002	This will discard selected item.
+102003	Cannot discard this item.
+102004	Select quantity of\n<?itemName?>\nto use.
+102005	
+102006	
+102007	
+102008	
+102009	
+102010	Cannot discard currently equipped items.
+102011	
+102012	
+102013	
+102014	
+102015	
+102016	
+102017	
+102018	
+102019	
+102020	Cannot use as item's attribute requirements not met.
+102021	
+102022	
+102023	
+102024	
+102025	
+102026	
+102027	
+102028	
+102029	
+102030	Using this item has no effect.
+102031	
+102032	
+102033	
+102034	
+102035	
+102036	
+102037	
+102038	
+102039	
+102040	Fused blood gems will be lost when the item is discarded.\nOkay?
+103000	Cannot equip as item's attribute requirements not met.
+104000	Cannot equip as item's attribute requirements not met.
+110000	Exit game and return to title menu?
+110001	
+110002	
+110003	
+110004	
+110005	
+110006	
+110007	
+110008	
+110009	
+110010	Network cannot be used in offline mode. \n\nTo use network features,\nselect Log In from title menu.
+110011	Network cannot be used in offline mode. \n\nPlease return to title menu and log in\nto make use of network features.
+114000	User-generated media restrictions\nhave been set by parental control.\nNames for other players will be\nlimited to online IDs.
+211000	Spend <?demandSoul?> Blood Echoes\nand level up?
+211001	OK to cancel edited changes?
+211002	No attribute selected.
+211003	
+211004	
+211005	
+211006	
+211007	
+211008	
+211009	
+211010	Level at maximum.\nCannot raise level any further.
+212000	Effect overlaps with memorized Caryll Rune. \nOverlapping effects will not stack.\nOK?
+221000	Use <?demandSoul?> Blood Echoes and\n<? demandItemName?> × <? demandItemNum?>\nto fortify weapon?
+221001	Not enough Blood Echoes or Bloodstones.
+221002	This weapon is fully upgraded and cannot be\nfortified any further.
+221003	
+221004	
+221005	
+221006	
+221007	
+221008	
+221009	
+221010	More Blood Echoes required to fortify.
+221011	More Bloodstones required to fortify.
+221012	More Bloodstones and Blood Echoes required to fortify.
+222000	Cannot remove this blood gem.
+222001	Removing blood gem.\nRemoved blood gem will be lost.
+222002	Fusing new blood gem over the old.\nOld blood gem will be lost.
+222003	This blood gem cannot be removed after it is fused.\nAre you sure you want to fuse?
+222004	Effect overlaps with fused blood gem. \nOverlapping effects will not stack. \nOK?
+222005	Blood gems fused to weapons can only be removed\nby fusing other blood gems
+222006	Inventory is full.\nCannot unequip.
+223000	Repair <?itemName?>\nfor <?demandSoul?> Blood Echoes.
+223001	Repair all of those weapons lost durability\nfor <?demandSoul?> Blood Echoes.
+231000	Select quantity to buy.
+231001	Buy <?itemName?>\nfor <?demandSoul?> Blood Echoes?
+231002	Buy <?itemName?>\nfor <?demandHeroic?> Insight?
+231003	Receive <?itemName?>?
+231004	
+231005	
+231006	
+231007	
+231008	
+231009	
+231010	Inventory is full.\nCannot buy.
+231011	
+231012	
+231013	
+231014	
+231015	
+231016	
+231017	
+231018	
+231019	
+231020	Items exceeding maximum were\nplaced in storage.
+232000	Select quantity to sell.
+232001	Sell <?itemName?>\nfor <?demandSoul?> Blood Echoes?
+232002	Cannot sell this item.
+232003	
+232004	
+232005	
+232006	
+232007	
+232008	
+232009	
+232010	Cannot sell currently equipped items.
+232011	Fused blood gems will be lost when the item is sold\nOkay?
+232012	Fused blood gems will also be sold\nOkay?
+251000	Store\n<?itemName?>\nSelect quantity.
+251001	Storing\n<?itemName?>
+251002	Selected item will be placed in storage.
+251003	Storing all\n<?itemName?>
+251004	Max quantity of\n<?itemName?>\nwas stored.\nExcess items will remain in possession.
+251005	Unable to store\n<?itemName?>\nas max quantity exceeded.
+251006	Cannot store currently equipped items.
+251007	As this is a currently set Quick Item,\nall but one have been stored.
+251008	Selected item\nwill be placed in storage.
+251009	
+251010	Select quantity of\n<?itemName?>\nto retrieve.
+251011	Retrieving\n<?itemName?>
+251012	Return selected item to inventory
+251013	Retrieving all\n<?itemName?>
+251014	Retrieved maximum\n<?itemName?>.\nExcess items will remain stored.
+251015	Unable to retrieve\n<?itemName?>\nas max quantity exceeded.
+262000	Remove chalice?\n(This will expunge dungeon and erase progress)
+262001	Chalice Dungeon Search cannot be used in offline mode. \nPlease return to title menu and log in to make use of \nnetwork features.
+262002	Chalice Glyph cannot be used in offline mode. \nPlease return to title menu and log in to make use of \nnetwork features.
+262003	Share Chalice Dungeon cannot be used in offline mode. \nPlease return to title menu and log in to make use of \nnetwork features.
+262004	
+262005	Cannot change the privacy setting of a \nChalice Dungeon once shared.
+263000	Confirm settings and start ritual?
+263001	Conduct a ritual to create a Chalice Dungeon?\nMaterials will be consumed.
+263002	Not enough materials to conduct a ritual.
+263003	
+263004	
+263005	
+263006	
+263007	
+263008	
+263009	
+263010	Root chalice rituals require a network\nconnection to obtain server data
+265000	Make public? \n*Setting is permanent.
+265001	Make private? \n*Setting is permanent.
+265100	Privacy settings complete.
+266000	Join the selected Chalice Dungeon?
+266001	You have joined the dungeon,\nand a chalice was placed on the altar.\nYou may now explore this Chalice Dungeon.
+266002	
+266003	You conducted a chalice ritual.\nYou may now search for dungeons\nwith the same chalice.
+266004	You acquired a root chalice.\nYou may now search for dungeons\nwith the same root chalice.
+266005	You conducted a chalice ritual after adding a rite.\nYou may now search for dungeons with the same chalice\nand additional rite.
+267000	A dungeon corresponding to the entered Chalice Glyph\nhas been found. Entering corresponding Chalice Dungeon.
+267001	Search using Chalice Glyph: <?string?>
+269000	Quick-search and join an accessible Chalice Dungeon? 
+269001	Quick-search for hunters from other worlds to\nplay with cooperatively?
+269002	Quick-search for hunters from other worlds\nto threaten?
+269003	Dungeon quick-search cannot be used in offline mode. \nPlease return to title menu and log in\nto make use of network features.
+269004	
+269005	Co-op quick-search cannot be used in offline mode. \nPlease return to title menu and log in\nto make use of network features.
+269006	Threat quick-search cannot be used in offline mode. \nPlease return to title menu and log in\nto make use of network features.
+269007	Joining accessible quick-search Chalice Dungeon.\nChalice was placed on altar.
+271000	Select quantity of materials to extract haze from.
+271001	Extracted haze exceeds maximum.\nUnable to extract further haze.
+271002	Extracted haze exceeding maximum\nwill be put in storage.
+302000	Part ways with this person?
+302001	There is no one to part ways with.
+302110	Stop searching for co-op helpers?
+302111	Stop searching for hunters from other worlds to help?
+302112	Stop searching for hunters from other worlds to threaten?
+302113	The bell has already been silenced. \nThis feature is not currently available.
+302114	
+302115	
+302116	
+302117	
+302118	
+302119	
+302120	
+302121	
+302122	
+302123	Target to send back to own world does not exist. \nThis feature is not currently available.
+305000	Cannot view Vileblood Register in offline mode.
+305001	Failed to obtain register information.
+305002	Finish viewing Vileblood Register
+305003	Acquiring register info...
+310000	You haven't written any notes.
+310001	No recently read notes.
+311000	Delete this note?
+311001	This is a fine note.
+311002	This is a foul note.
+321000	Note will be written with current content.
+322000	Delete this note from list?
+400001	Failed to load save data.
+400002	Save data is corrupted.
+401001	Returning to title menu...
+401002	Starting game in offline mode. \n\nTo use network features, check to see \nif your connection is set up properly, \nand select Log In from title menu.
+401003	
+401004	
+401005	
+401006	
+401007	
+401008	
+401009	
+401010	Play in online mode?
+401011	Lost connection to the network. \nSwitching to offline mode. \nTo use network features, check to see \nif your connection is set up properly, \nand select Log In from title menu.
+401012	You have been signed out of "PSN". \nSwitching to offline mode. \nTo use network features, check to see \nif your connection is set up properly, \nand select Log In from title menu.
+401013	Lost communication with "PSN". \nSwitching to offline mode. \nTo use network features, check to see \nif your connection is set up properly, \nand select Log In from title menu.
+401102	Failed to create save data.\nPress OK to try again.
+401103	Failed to load save data.\nPress OK to try again.
+401104	The save data is corrupted.\nDelete and create new data?
+401105	Failed to delete save data.\nPress OK to try again.
+401106	Failed to update save data.\nPress OK to try again.
+401107	The save data is corrupted.\nRecreate save data?
+401108	This save data is for an unsupported version.\nTo use, install the update and restart the game.
+401170	You lack the license for this DLC.\nConfigured DLC elements will be disabled.
+401171	DLC data is corrupted.\nDelete the data on the system\nand download again.
+401172	Failed to load DLC.\nSelect OK to try again.
+401201	Unable to connect to the network.\nPlease check your network settings.
+401202	Network status check failed.
+401203	You are currently not signed into "PSN".\nPlease sign in to use the online features.
+401204	Sign in status check failed.
+401205	Unable to use network features due to age restrictions.
+401206	A new version of the system software is available. To use\nnetwork features, please update the system software.
+401207	An update to the game is available. To use network\nfeatures, please install the update and restart the game.
+401208	Network features check failed.
+401209	Failed to acquire parental control information.
+401210	Failed to acquire Bloodborne server information.\nSelect "OK" to try again.
+401211	Failed to resolve Bloodborne\nserver status.
+401212	<?ssInfoMsg?>
+401213	You are currently offline.
+401214	Online status check failed.
+401402	Staring game without contacting server.\n\nSelect Log In from title menu in order to\nplay with online features.
+401403	
+401404	
+401405	
+401406	
+401407	
+401408	
+401409	
+401410	
+401411	Terms of service have changed. \n\nPlease reacquaint yourself with the\nterms of the agreement.
+401501	Failed to acquire login permission code.\nSelect "OK" to try again.
+401502	Bloodborne server usage for this\nuser has been terminated.
+401503	Failed to log in to Bloodborne server.\nSelect "OK" to attempt to log in again.
+401504	
+401505	
+401506	
+401507	
+401508	
+401509	
+401510	
+401511	This version of the game cannot\ncontact the Bloodborne server.\nPlease download the latest update\nin order to use network features.
+401601	Failed to acquire information.\nSelect "OK" to try again.
+401602	
+401603	Could not verify your PlayStation®Plus account.
+401604	Online play has been suspended as your\nPlayStation®Plus account could not be authenticated.
+401605	Failed to verify your PlayStation®Plus membership.\nPress OK to try PlayStation®Plus verification again.\nPress CANCEL to continue without verification.\nPlease note you cannot play online without verification.
+401606	Failed to verify your PlayStation®Plus membership.\nPress OK to try PlayStation®Plus verification again.\nPress CANCEL to continue without verification.\nPlease note you cannot play online without verification.
+401607	Not yet able to verify your PlayStation®Plus account.\nStarting game in offline mode.
+401701	Cannot create any more profiles.\nDelete an existing profile and create a new one?\n\nNote: You may create up to 10 profiles.
+401731	Failed to reset online character data to default.\nSelect RETRY to try again.\n\nTo continue without network features, select CONTINUE.
+401732	Could not save character data.\nSelect RETRY to try again.\n\nTo return to title menu, select BACK TO TITLE.
+401733	Failed to record note search information.\nSelect RETRY to try again.\n\nTo continue without network features, select CONTINUE.
+401734	
+401735	Failed to record messengers information.\nSelect RETRY to try again.\n\nTo continue without network features, select CONTINUE.
+401801	Waiting for trophy pack installation to finish.
+401802	
+401803	
+401804	
+401805	
+401806	
+401807	
+401808	
+401809	
+401810	
+401811	Starting game in offline mode as game\nhas not been fully installed.
+401901	Failed to retrieve data from Bloodborne server\nas you have been refused permission.
+401902	You cannot access the Bloodborne server.
+401903	Your connection to the Bloodborne server\nhas been interrupted.
+401904	Failed to obtain data from the Bloodborne server.\nSelect OK to try again.
+401905	
+401906	
+401907	
+401908	
+401909	
+401910	
+401911	Failed to retrieve data from Bloodborne server\nas you have been refused permission.
+401912	You cannot access the Bloodborne server.
+401913	Your connection to the Bloodborne server\nhas been interrupted.
+401914	Failed to acquire Bloodborne server data.\nSelect "OK" to try again.
+401991	Process failed.\nReturning to title menu...
+401992	
+401993	
+401994	
+401995	
+401996	
+401997	
+401998	
+401999	
+402000	
+402001	Withdraw from contract\nand return to title menu?
+402002	Finalize contract?
+402003	A name is required.\n\nEnter a name to finalize the contract.
+402004	Failed to save contract.
+402005	
+402006	
+402007	
+402008	
+402009	
+402010	Return all changes to character to default?
+402011	
+402012	
+402013	
+402014	
+402015	
+402016	
+402017	
+402018	
+402019	
+402020	Selected spelling contained inappropriate language\nand could not be used as a character name.\n\nEnter another name.
+402021	
+402022	
+402023	
+402024	
+402025	
+402026	
+402027	
+402028	
+402029	
+402030	Changing gender will reset certain changes.\n\nIs this OK?
+402100	Finalize editing?
+404001	Stop initial set up and return to title menu?
+404002	Failed to save settings.\nSelect RETRY to try again.\n\nTo continue without saving, select CONTINUE.
+404003	
+404004	
+404005	
+404006	
+404007	
+404008	
+404009	
+404010	Discard present changes and return?
+406011	Start with selected profile?
+406012	Delete selected profile and begin a new game?
+406013	OK to delete selected profile?
+406014	
+406015	
+406016	
+406017	
+406018	
+406019	
+406020	Game install incomplete. \nCannot load save data created by\na fully installed game.
+406021	Game install incomplete. \nCannot load save data.
+420000	Save the present settings as a favorite?
+420001	A favorite already exists for these settings. \nSave and overwrite present settings?
+420002	Discard present changes and load favorite?
+420003	
+420004	
+420005	
+420006	
+420007	
+420008	
+420009	
+420010	No favorites saved.
+506000	Unable to acquire some items.
+506001	Unable to acquire\n<?itemName?>.
+506002	Unable to acquire every\n<?itemName?>.
+600000	*
+600001	*
+600002	*
+600003	*
+600100	*
+600101	*
+600102	*
+600103	*
+600200	*
+600201	*
+600202	*
+600203	*
+600300	*
+600301	*
+600302	*
+600303	*
+600400	*
+600401	*
+600402	*
+600403	*
+600500	*
+600501	*
+600502	*
+600503	*
+600600	*
+600601	*
+600602	*
+600603	*
+601000	*
+601001	*
+601002	*
+601003	*
+601100	*
+601101	*
+601102	*
+601103	*
+601200	*
+601201	*
+601202	*
+601203	*
+601300	*
+601301	*
+601302	*
+601303	*
+601400	*
+601401	*
+601402	*
+601403	*
+601500	*
+601501	*
+601502	*
+601503	*
+601600	*
+601601	*
+601602	*
+601603	*
+602000	*
+602001	*
+602002	*
+602003	*
+602100	*
+602101	*
+602102	*
+602103	*
+602200	*
+602201	*
+602202	*
+602203	*
+602300	*
+602301	*
+602302	*
+602303	*
+602400	*
+602401	*
+602402	*
+602403	*
+602500	*
+602501	*
+602502	*
+602503	*
+602600	*
+602601	*
+602602	*
+602603	*

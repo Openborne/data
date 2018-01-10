@@ -1,0 +1,109 @@
+110000	Inventory
+110001	Equipment
+110002	
+110003	Status
+110004	
+110005	Options
+110006	System
+110007	Brightness
+111010	Drop
+111011	Change Order
+111012	Reset Order
+111013	Use Item
+112000	Armor
+112001	Head
+112002	Chest
+112003	Hands
+112004	Legs
+112005	
+112006	
+112007	
+112008	
+112009	
+112010	Weapons
+112011	Right Hand
+112012	Left Hand
+112013	Arrow
+112014	Bolt
+112015	
+112016	
+112017	
+112018	
+112019	
+112020	Ring
+112021	
+112022	
+112023	
+112024	
+112025	
+112026	
+112027	
+112028	
+112029	
+112030	Usable Item
+114000	Controls
+114001	
+114002	X Axis
+114003	Y Axis
+114004	Camera Speed
+114005	
+114006	Vibration
+114007	Toggle auto lock-on
+114008	Camera auto wall recovery
+114100	Display
+114101	Show Blood
+114102	Subtitles
+114103	Brightness
+114104	HUD
+114105	
+114106	
+114107	
+114108	
+114109	
+114110	Adjust brightness until flame
+114111	is visible and dragon invisible
+114200	Sound
+114201	
+114202	Music
+114203	Sounds
+114204	Voice
+114250	<?platmsg@10005?>
+114251	Join leaderboard
+114300	Initialize
+114301	OK
+114400	ON
+114401	OFF
+114402	
+114403	
+114404	Normal
+114405	Reverse
+114406	
+114407	Mild
+115000	Options
+115001	
+115002	Quit Game
+115003	
+115004	Brightness
+115005	
+127000	Beckon
+127001	Point forward
+127002	Hurrah!
+127003	Bow
+127004	Joy
+127005	Shrug
+127006	Wave
+127007	Praise the Sun
+127008	Point up
+127009	Point down
+127010	Look skyward
+127011	Well! What is it!
+127012	Prostration
+127013	Proper bow
+127014	Prayer
+127200	Gesture Menu
+130000	Map Menu
+130100	B1F
+130101	B2F
+130102	B3F
+141000	Send Phantom home
+141001	<?conclusion?>:OK　<?cancel?>:CANCEL

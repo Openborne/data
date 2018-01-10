@@ -1,0 +1,82 @@
+1000	L pad button
+1001	R pad button
+100000	OK
+100001	Confirm
+100002	Use item
+100003	Edit
+100004	Add/Remove Rite
+100005	Add/Remove Rite
+100006	
+100007	Discard
+100008	Equip/Remove
+100009	Store
+100010	Take
+100011	Buy
+100012	Sell
+100013	More Info
+110000	Return
+110001	Close
+110002	Cancel
+120000	Display
+120001	Test now
+120002	Finish
+120003	Protect ON/OFF
+120004	Remove
+120005	Confirm
+120006	Start ritual
+120007	Delete
+120008	Sample
+120009	Show Self
+120010	Share Dungeon
+120011	Show Pallete
+120012	Show Slider
+130000	Sort
+130001	Discard all
+130002	Store all
+130003	Take all
+130004	Switch
+130005	Switch Action
+130006	Toggle Stats
+130007	Show Top Rank
+140000	Change Note Format
+140001	Show Storage
+140002	Show Inventory
+150000	Scroll
+150001	
+150002	Change by 10
+150003	Increase by 10
+150004	Decrease by 10
+150005	Page up
+150006	Page down
+150007	Store all
+150008	Retrieve all
+150009	Repair all
+150010	Remove
+150011	Next 100
+150012	Previous 100
+150013	Zoom in
+150014	Zoom out
+150015	Change Equip Area
+150016	Zoom
+160000	*
+160001	Quit
+200000	Select
+200001	Change
+200002	*
+200003	Change no.
+200004	
+200005	Adjust
+200006	Scroll
+310000	Rotate
+320000	Help
+320001	Reset Camera
+400000	*
+400001	*
+400002	*
+400003	Delete
+400004	Fine
+400005	Foul
+400006	*
+400007	Controls
+407000	
+407001	OK

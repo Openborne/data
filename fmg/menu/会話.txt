@@ -1,0 +1,2421 @@
+9000	 
+9001	 
+9002	
+9003	
+9004	
+9005	
+9006	
+9007	
+9008	
+9009	
+9010	 
+9011	 
+400000	Ahh, you've found yourself a hunter...
+400050	Ahh, you've found yourself a hunter...
+400100	Hello, good hunter.
+400101	I am a doll, here in this dream to look after you.
+400102	Honorable hunter, pursue the echoes of blood,
+400103	and I will channel them into your strength.
+400104	You will hunt beasts... and I will be here for you,
+400105	to embolden your sickly spirit.
+400150	Hello, good hunter.
+400151	
+400152	Honorable hunter, pursue the echoes of blood,
+400200	Welcome home, good hunter.
+400201	What is it you desire?
+400250	Welcome home, good hunter.
+400300	Very well, let the echoes become your strength.
+400301	Let me stand close. Now shut your eyes...
+400400	Farewell, good hunter.
+400401	May you find your worth in the waking world.
+400450	Farewell, good hunter.
+400451	May you find your worth in the waking world.
+400500	Did you speak with Gehrman?
+400501	He was a hunter long, long ago, but now serves only to advise them.
+400502	He is obscure, unseen in the dreaming world.
+400503	Still, he stays here, in this dream...
+400504	...such is his purpose...
+400550	Did you speak with Gehrman?
+400600	Ahh, the little ones, inhabitants of the dream...
+400601	They find hunters like yourself, worship, and serve them.
+400602	Speak words, they do not, but still, aren't they sweet?
+400651	They find hunters like yourself, worship, and serve them.
+400700	Over time, countless hunters have visited this dream.
+400701	The graves here stand in their memory.
+400702	It all seems so long ago now...
+400750	Over time, countless hunters have visited this dream.
+400800	Hunters have told me about the church.
+400801	About the gods, and their love.
+400802	But... do the gods love their creations?
+400803	I am a doll, created by you humans.
+400804	Would you ever think to love me?
+400805	Of course...
+400806	I do love you.
+400807	Isn't that is how you've made me?
+400854	Would you ever think to love me?
+400855	
+400856	
+400857	Isn't that is how you've made me?
+400900	Good hunter... Your presence somehow soothes...
+400901	I sense the ancient echoes, they course your veins...
+400950	Good hunter... Your presence somehow soothes...
+401000	What... what is this?
+401001	I-I can't remember, not a thing, only... I feel...
+401002	A yearning... something I've never felt before... 
+401003	What's happening to me?
+401004	Ahh...
+401005	Tell me hunter, could this be joy?
+401006	Ahh...
+401055	Tell me hunter, could this be joy?
+401100	Good hunter, you have come...
+401101	Dawn will soon break... This night, and this dream, will end.
+401102	Gehrman awaits you, at the foot of the great tree.
+401150	Good hunter, you have come...
+401200	Gehrman awaits you, at the foot of the great tree.
+401201	Go on, good hunter...
+401251	Go on, good hunter...
+401300	Farewell, good hunter.
+401301	May you find your worth in the waking world.
+401350	Farewell, good hunter.
+401351	May you find your worth in the waking world.
+401400	And so, the hunt begins again.
+401500	 
+401501	are you cold...?
+401502	Oh, good hunter,
+401552	Oh, good hunter,
+401600	 
+401700	I must have displeased you...
+401701	Go on, shut me down...
+401702	Even so, this vessel will remain in your service...
+401703	So, have no fear...
+401750	I must have displeased you...
+401800	O Flora, of the moon, of the dream.
+401801	O little ones, O fleeting will of the ancients...
+401802	Let the hunter be safe, let him find comfort.
+401803	And let this dream, his captor...
+401804	...foretell a pleasant awakening...
+401805	...foretell a pleasant awakening...
+401806	...be, one day, a fond, distant memory...
+401852	Let the hunter be safe, let her find comfort.
+401853	And let this dream, her captor...
+401900	 
+401901	Ahh, welcome home, good hunter.
+401902	I must have drifted off...
+401903	What is it you desire?
+401951	Ahh, welcome home, good hunter.
+402000	 
+402100	 
+409103	that I may channel into your strength.
+409300	Very well, let the echoes of blood become your strength.
+500000	Ah-hah, you must be the new hunter.
+500001	Welcome to the Hunter's Dream. This will be your home, for now.
+500002	I am... Gehrman, friend to you hunters.
+500003	You're sure to be in a fine haze about now, but don't think too hard about all of this.
+500004	Just go out and kill a few beasts. It's for your own good.
+500005	You know, it's just what hunters do! You'll get used to it...
+500050	Ah-hah, you must be the new hunter.
+500051	Welcome to the Hunter's Dream. This will be your home, for now.
+500052	
+500053	You're sure to be in a fine haze about now, but don't think too hard about all of this.
+500100	This was once a safe haven for hunters.
+500101	A workshop where hunters used blood to enhance their weapons and flesh.
+500102	We don't have as many tools as we once did, but...
+500103	You're welcome to use whatever you find.
+500104	...Even the doll, should it please you...
+500200	The moon is close. It will be a long hunt tonight.
+500201	If the beasts loom large, and threaten to crush your spirits, seek a Holy Chalice.
+500202	As every hunter before you has.
+500203	A Holy Chalice will reveal the tomb of the gods,
+500204	...where hunters partake in communion...
+500300	...It has been a long dream, a very long dream...
+500301	Since I can no longer hunt, this is all I can do...
+500302	I made a promise, to a dear friend...
+500303	A promise...
+500304	 
+500400	 
+500500	 
+500501	Oh, Laurence... what's taking you so long...
+500502	I've grown too old for this, of little use now, I'm afraid...
+500503	 
+500504	Good, good. You're back, and it will all be over soon, then.
+500505	The moon is close. How fitting, on this night to end all nights.
+500600	...Laurence, I'm getting old.
+500601	I'm of little help, and to wake is to die...
+500602	But I'm not entirely useless... I can still do my share.
+500603	How long I've waited. For this chance to do something.
+500604	 
+501000	Most of the Holy Chalices lie deep within the tomb of the gods.
+501001	And the few that found their way to the surface...
+501002	Were lost again in the hands of men.
+501003	But if the old hunter tales remain true...
+501004	...one of the Holy Chalices is worshipped in the valley hamlet.
+501005	Yet the town is in disarray...
+501006	It was burned and abandoned, for fear of the scourge, home now only to beasts.
+501007	The perfect place for a hunter, wouldn't you say?
+501057	The perfect place for a hunter, wouldn't you say?
+501100	One of the Holy Chalices is worshipped in the valley hamlet.
+501101	A town of beasts... the perfect place for a hunter...
+501151	A town of beasts... the perfect place for a hunter...
+501200	The Healing Church, and the Blood Ministers who belong to it...
+501201	Were once guardians of the hunters, in the times of the hunter... Ludwig.
+501202	They worked, and forged weapons, in their unique workshop.
+501203	Today, most ministers don't recall the hunters.
+501204	But they have much to offer you.
+501205	And so, heed the message of your forebears.
+501206	Ascend to Oedon Chapel.
+501300	Ascend to Oedon Chapel.
+501301	From there, you will find the church workshop.
+501400	 
+501401	...Oh, Laurence... Master Willem... Somebody, help me...
+501402	Unshackle me, please, anybody...
+501403	I've had enough of this dream... The night blocks all sight...
+501404	Oh, somebody, please...
+501405	 
+501500	 
+501501	Fire, cast upon the workshop?
+501502	Well, my good hunter. The night is long, the darkness thick.
+501503	Don't say you weren't warned...
+501552	Well, my good hunter. The night is long, the darkness thick.
+501553	Don't say you weren't warned...
+501600	Yharnam... how easily she forgets, how quickly she dismisses.
+501601	Time is a cruel, cruel thing.
+501602	Haven't you noticed?
+501603	 
+501652	Haven't you noticed?
+501700	Good hunter, you've done well. The night is near its end.
+501701	Now, I will show you mercy.
+501702	You will die, forget the dream, and awake under the morning sun.
+501703	You will be freed...
+501704	...from this terrible hunter's dream...
+501750	Good hunter, you've done well. The night is near its end.
+501751	
+501752	
+501753	You will be freed...
+501754	...from this terrible hunter's dream...
+501800	Farewell, my keen hunter.
+501801	Fear the blood.
+501850	Farewell, my keen hunter.
+501900	 
+501901	Dear oh dear, what was it? The hunt, the blood, or the horrible dream?
+501902	Oh, it doesn't matter.
+501903	It always comes down to the hunters' helper to clean up after these sorts of messes.
+501904	Tonight, Gehrman joins the hunt...
+502000	 
+502100	 
+502200	 
+502300	What, looking to free me?
+502301	Then I graciously accept.
+502302	 
+502303	Forgive me, Laurence, I could not wait...
+502304	The night, and the dream, were long...
+502400	You must accept your death.
+502401	Forget the dream, wake up to the morning.
+502402	Be freed from the night...
+502450	You must accept your death.
+502451	
+502452	Be freed from the night...
+502500	What were you thinking?
+502501	If I die, you are to be next...
+502502	What is it you want, from this horrific nightmare?
+502550	What were you thinking?
+502551	If I die, you are to be next...
+502600	Night will soon come again.
+502601	 
+502602	What's taking so long, Laurence...
+502700	Yes, the hunt must go on.
+502701	It is all that keeps us human, now.
+502702	Farewell, Laurence.
+502703	I await the realization of your "ministration."
+502704	 
+700000	Visitor...
+700001	I claim no subjects, but here lieth Our throne.
+700002	Kneel afore Us...
+700003	...or get thee gone.
+700050	Visitor...
+700100	Visitor... Moon-scented hunter...
+700101	I am Annalise, Queen of Castle Cainhurst.
+700102	 
+700103	Ruler of the Vilebloods, and sworn enemy of the church.
+700104	Yet, Our people are murdered, and We are prisoner to this wretched mask.
+700105	What is it thou'rt in search of?
+700150	Visitor... Moon-scented hunter...
+700200	Speak thy mind.
+700300	Well, well...
+700301	An odd hunter thou art indeed...
+700302	 
+700303	We've tired of these piteous nights...
+700304	Share in Our plight, and take oath against the church.
+700305	If thou wouldst this path walk...
+700306	...I prithee partake of my rotted blood.
+700351	An odd hunter thou art indeed...
+700400	Very well.
+700401	Drink deep of Our blood.
+700402	Feel the spreading corruption burn.
+700403	 
+700404	Now, thou'rt too a Vileblood.
+700405	We two, the very last on this earth.
+700454	Now, thou'rt too a Vileblood.
+700455	We two, the very last on this earth.
+700500	A wise choice...
+700501	There is no more to be said.
+700502	Away from mine gaze.
+700600	Ahh, a welcome offer.
+700601	We offer no resistance. Do as thou wilt.
+700602	Bring Us peace, if it is in thy power to do so...
+700700	Proceed at thy leisure. I prithee succeed.
+700800	Such impudence.
+700801	Defiled, are We, yet still Queen.
+700802	We shall not give audience to an ill-mannered beast.
+700900	We shall not give audience to an ill-mannered beast.
+700901	Get thee gone.
+701000	Closest of kin, bearer of Our blood.
+701001	I welcome thee.
+701002	What is thy wish?
+701050	Closest of kin, bearer of Our blood.
+701100	Closest of kin, last of Our kind.
+701101	I welcome thee.
+701102	What is thy wish?
+701150	Closest of kin, last of Our kind.
+701200	More talk to be had?
+701300	Thy gift pleases Us.
+701301	Let this reward be thine.
+701302	Indulge thyself in Our tainted blood.
+701303	 
+701351	Let this reward be thine.
+701400	Ahh, a most welcome offer.
+701401	We tender no fight. Do as thou wilt.
+701402	Bring Us peace, if it is in thy power to do so...
+701500	Proceed at thy leisure. I prithee succeed.
+701600	Proceed at thy leisure. I prithee succeed.
+701601	This gift is long-awaited.
+701700	Speak not, those words.
+701701	We have little need of a consort.
+701702	Such a path would belike lead to further ruin.
+701703	Thou'rt dear to Us.
+701704	We would see no harm befall thee...
+701753	Thou'rt dear to Us.
+701800	 
+701801	Ahh, still thy honeyed tongue...
+701802	The thought alone sufficeth. Thy worth is too great.
+701803	Now, speak no more on the matter.
+701852	The thought alone sufficeth. Thy worth is too great.
+701900	 
+701901	Honestly!
+702000	Arrant fool.
+702001	Vileblood or no, forget not; We are thy Queen.
+702002	Bend the knee.
+702050	Arrant fool.
+702051	Vileblood or no, forget not; We are thy Queen.
+702100	Vileblood or no, respect will be shewn.
+702101	Kneel.
+702150	Vileblood or no, respect will be shewn.
+702200	We await thy return.
+702201	For the honor of Cainhurst.
+702300	We await thy return.
+702301	...This chamber was made not for one alone...
+702302	For the honor of Cainhurst.
+702400	 
+702500	How sad this is.
+702501	If only Our life was so easily forfeit...
+702600	Enough.
+702601	If only Our life was so easily forfeit...
+702602	Grieve not, for Us...
+702700	Kneel.
+702800	Art thou brave, or merely lacking in wit?
+702801	 
+702802	It matters not. Our flesh is undying.
+702803	Speak thy mind.
+702850	Art thou brave, or merely lacking in wit?
+702900	Well, well.
+702901	Thou wearest a second face.
+702902	 
+702903	It matters not. Our flesh is undying.
+702904	Speak thy mind.
+703000	Well, well.
+703001	 
+703002	Our flesh is undying. A trifling matter.
+703003	Think on it no more.
+703004	Speak thy mind.
+703100	 
+900000	Welcome, weary traveler. To the great city of Yharnam.
+900001	The troubles you must have seen.
+900002	Your homeland, plagued by a sickness that spares few.
+900003	You suffer. Your loved ones suffer. It's like a curse.
+900004	But there is hope for you yet.
+900005	The blood used in ministration, the trade of Yharnam, is a special thing indeed...
+900006	The only thing that can cure your sickness...
+900007	Well then, let's draw you up a contract.
+900100	Good. All signed and sealed.
+900101	Now, let's begin the transfusion. Oh, don't you worry.
+900102	In a few moments, you'll be as good as new... Like it was all just a bad dream.
+900103	 
+900104	 
+900152	In a few moments, you'll be as good as new... Like it was all just a bad dream.
+900200	Welcome, traveler.
+900201	You've suffered a long journey to this great city of Yharnam.
+900202	And you should be glad you did.
+900203	The blood used in ministration, the trade of Yharnam, is a special thing indeed...
+900204	The only thing that can cure your sickness...
+900205	Well then, let's draw you up a contract.
+900300	Good. All signed and sealed.
+900301	Now, let's begin the transfusion. Oh, don't you worry.
+900302	In a few moments, you'll be as good as new... Like it was all just a bad dream.
+900303	 
+900304	 
+900352	In a few moments, you'll be as good as new... Like it was all just a bad dream.
+900500	Good. All signed and sealed.
+900501	Now, let's begin the transfusion. Oh, don't you worry.
+900502	Whatever happens... You may think it all a mere bad dream...
+900503	 
+900504	 
+909000	...Heh, heh, heheheh...
+909001	Aren't you lucky. This blood's rather special.
+909002	It may well cure you of your peculiar condition.
+909003	Now, let's draw you up a contract.
+909052	 
+909100	Good. All signed and sealed.
+909101	Now, let's begin the transfusion.\nOh, don't you worry.
+909102	You'll be as good as new...\nLike it was all just a bad dream.
+909103	...Heh, heh, heheheh...
+909104	...Heheheh...
+909152	You'll be as good as new... \nLike it was all just a bad dream.
+909200	...Heh, heh, heheheh...
+909201	Yes, yes, see?\nWoken up with something of a nightmare, have you?
+909202	A foul, murky story, quite beyond my own reckoning.
+909203	Won't that be something to tell the grandkids, eh?
+909204	...Heh, heh, heheheh...
+909251	Yes, yes, see?\nWoken up with something of a nightmare, have you?
+909300	...Heh, heh, heheheh...
+909301	Oh, but I've nothing more to tell.
+909302	I only show the way, and the way has been shown.
+909303	Now... it's in your hands.
+909304	Until the dank, sweet mud takes us all...
+909305	Upon the awakening of Ebrietas...
+909306	...Heh, heh, heheheh...
+909307	...Heheheh...
+909400	 
+909500	 
+909600	 
+909700	Heh, eh heh...
+909701	My death matters not...
+909702	It's your nightmare, after all...
+909703	Heh, eh heh, eh heh heh heh...
+1000000	Oh, I know, I know.
+1000001	You think now, to betray me.
+1000002	...The blood makes us human, makes us more than human, makes us human no more.
+1000003	Our eyes are yet to open...
+1000004	 
+1000005	By the gods, fear it, Laurence.
+1000006	…
+1000100	Ahh... Aa... 
+1000200	...Eyes, eyes, where are the eyes...
+1000201	...I need more, I can't see...
+1000202	...Fetch me eyes...
+1000203	...Oh, faster, somebody, argh...
+1000204	...Be they round, be they young...
+1000205	...Fetch me eyes, for my brain...
+1000206	...More eyes, I need more...
+1000300	...Agh, ooh...
+1000301	There you are, finally.
+1000302	You are most welcome, my precious sacrifice...
+1000303	Now, now, over here, quick...
+1000304	Go on, give me your eyes...
+1000305	...Yes, yes, a pleasure to have you...
+1000355	...Yes, yes, a pleasure to have you...
+1000400	 
+1000401	 
+1000402	 
+1009001	You think now, as Gehrman did, to betray me.
+1009002	...We are born of the blood, made men by the blood, undone by the blood.
+1100000	Ah-hah, welcome to our dream.
+1100001	But we don't need anyone, not any more!
+1100002	The sacred rite nears completion.
+1100003	The dream will be real! We will be granted eyes!
+1100004	If you don't like that, then pish posh!
+1100005	Catch us if you can, in this dream of dreams!
+1100006	Well, come on!
+1100050	Ah-hah, welcome to our dream.
+1100100	Ah hah hah ha!
+1100101	Ooh! Majestic! A hunter is a hunter, even in a dream.
+1100102	But, alas, not too fast!
+1100103	The nightmare swirls and churns unending!
+1100151	Ooh! Majestic! A hunter is a hunter, even in a dream.
+1100200	 
+1100201	Ahh, Kos, or some say Kosm...
+1100202	Do you hear our prayers?
+1100203	As you once did for the vacuous Rom,
+1100204	Grant us eyes, grant us eyes.
+1100205	Plant eyes on our brains, to cleanse our beastly idiocy.
+1100206	The grand lake of mud, hidden now, from sight.
+1100207	The cosmos, of course!
+1100208	Let us sit about, and speak feverishly.
+1100209	Chatting into the wee hours of...
+1100210	New ideas, of the higher plane!
+1100211	 
+1100212	 
+1100300	 
+1100301	Now I'm waking up, I'll forget everything...
+1100400	Ahh, Kos, or some say Kosm...
+1100401	Do you hear our prayers?
+1100402	 
+1100403	No, we shall not abandon the dream.
+1100404	No one can catch us! No one can stop us now!
+1100405	 
+1100500	 
+1100600	 
+1100700	 
+1200000	...Hmm? Oh... you must be... a hunter.
+1200001	Very sorry, the incense must've masked your scent.
+1200002	Good, good. I've been waiting for one of your ilk.
+1200003	These hunts have everyone all locked up inside.
+1200004	Waiting for it to end... It always does, always has, y'know. Since forever.
+1200005	But it won't end very nicely, not this time. Even some folks hiding inside are goin' bad.
+1200006	The screams of wimminfolk, the stench of blood, the snarls of beasts... none of em's too uncommon now.
+1200007	Yharnam's done fer, I tell ya.
+1200008	But if you spot anyone with their wits about 'em...
+1200009	Tell 'em about this here Oedon Chapel.
+1200010	They'll be safe here. The incense wards off the beasts.
+1200011	Spread the word... tell 'em to come on over.
+1200012	If you wouldn't mind... Hee hee...
+1200050	...Hmm? Oh... you must be... a hunter.
+1200100	I know I shouldn't be askin' you, but...
+1200101	If you happen upon someone while hunting, tell 'em about this here Oedon Chapel.
+1200102	If they seem worth being told, that is...
+1200103	Oh, and I do sincerely hope they are... hee hee hee hee hee...
+1200200	Ahh, the hunter. Alive and well, are ya?
+1200201	This here's a safe place. Stay as long as you like.
+1200202	But... next time you're out on a hunt, remember what I asked.
+1200203	If you find any sane survivors, tell 'em to seek shelter at Oedon Chapel.
+1200204	Cause there's nothing to fear here... ha, hah ha!
+1200250	Ahh, the hunter. Alive and well, are ya?
+1200300	Ahh, the hunter!
+1200301	Thank you. So, that survivor, you told 'im about this place right?
+1200302	Well, he don't offer me much in the way of conversation, but still...
+1200303	I'd rather see 'im alive anyhow.
+1200304	And... I sort of hoped that, my asking you, turned out to, you know, help 'em out in the end... 
+1200305	I've never been of any use to anyone, you see...
+1200306	Just, happy about it, is all... ha, ha!
+1200307	 
+1200350	Ahh, the hunter!
+1200351	Thank you. So, that survivor, you told 'im about this place, right?
+1200400	If you find any sane survivors, well...
+1200401	Send 'em along to Oedon Chapel, will ya?
+1200402	 
+1200500	Ahh, the hunter. Alive and well, at that!
+1200501	Another one you sent made it here safe and sound.
+1200502	This place is a haven now, for so many. Thanks to you.
+1200503	I'm... overjoyed, really. That you'd even give me the time o' day!
+1200504	I don't suppose there's anybody out there worth savin' anymore.
+1200505	But you did all ya could, and so many owe you so much.
+1200506	Amazing, really. Not 'cause you're a hunter, but because you're you.
+1200507	 
+1200508	Makes me think, once dawn breaks, maybe I can just, you know, start over.
+1200509	Makes it easier to bear all o' this, you see?
+1200510	You've made life easier. Thank you.
+1200550	Ahh, the hunter. Alive and well, at that!
+1200551	
+1200552	
+1200553	I'm... overjoyed, really. That you'd even give me the time o' day!
+1200554	
+1200555	But you did all ya could, and so many owe you so much.
+1200556	Amazing, really. Not 'cause you're a hunter, but because you're you.
+1200600	If you please, kind hunter...
+1200601	When the night of the hunt passes, s'pose, we could be friends, maybe?
+1200602	Now, I know I hardly deserve it, but...
+1200603	Well, I had to just, ask, you know?
+1200604	Out of line, yes, perhaps so, but, well...
+1200605	Give it a thought, if you wouldn't mind, o' course...
+1200606	 
+1200650	If you please, kind hunter...
+1200700	Once the night of the hunt passes, s'pose we could be friends?
+1200701	Give it a thought, well, if you wouldn't mind...
+1200702	 
+1200800	Ahh, kind hunter!
+1200801	Another one you sent made it here safe and sound.
+1200802	This place is a real haven now. Thanks to you.
+1200803	...But... I'm afraid that was the last of 'em...
+1200804	There ain't a peep to be heard, not in the whole town...
+1200805	I doubt there's any more out there...
+1200806	Gods save us... Yharnam's done for...
+1200807	 
+1200808	 
+1200850	Ahh, kind hunter!
+1200900	There ain't no more survivors, there can't be...
+1200901	Yharnam's done for...
+1200902	 
+1200903	 
+1201000	Oh, kind hunter...
+1201001	How did this happen?
+1201002	A beast, here... why...?
+1201003	It's my fault... Savaged and eaten, every one, and it's all my fault...
+1201004	Gods, please, I'm sorry, so sorry...
+1201005	 
+1201050	Oh, kind hunter...
+1201100	I only wanted to help... Just once in my life...
+1201101	They told me it would never work...
+1201102	My mum always told me, everybody kept telling me...
+1201103	I should've known, I should've...
+1201104	 
+1201200	Gods, please, I'm sorry, so sorry...
+1201201	 
+1201300	Oh, kind hunter...
+1201301	The man you sent here, the one you saved...
+1201302	e's dead... Killed stone dead...
+1201303	Why...
+1201304	Musta been a beast, right? ...Or, d'ya think someone out there could've...
+1201305	I...I... just don't... ahh...
+1201306	Well. I do know. It's my fault. All mine...
+1201307	 
+1201350	Oh, kind hunter...
+1201351	The man you sent here, the one you saved...
+1201400	Was it a beast? ...Or, could someone from outside've come in and...?
+1201401	I just... don't... know...
+1201402	 
+1201500	Oh, kind hunter...
+1201501	Someone's died... again...
+1201502	Eaten... devoured by a damned beast!
+1201503	We're not safe here. This is it...
+1201504	The end of us all...
+1201505	 
+1201550	Oh, kind hunter...
+1201600	We're not safe here. This is it...
+1201601	The end of us all...
+1201602	 
+1201700	Oh, kind hunter!
+1201701	Thank you. So, that lady, you told 'er about this place?
+1201702	Well, she... she actually talks to me!
+1201703	Well, only now and then, and... she don't mince words...
+1201704	But... she's a kind one, I can tell. A good woman.
+1201705	 
+1201706	 
+1201750	Oh, kind hunter!
+1201751	Thank you. So, that lady, you told 'er about this place?
+1201800	Oh, kind hunter!
+1201801	Thank you. So, that man, you told 'im about this place?
+1201802	Well, he keeps 'is distance an' all, but...
+1201803	I reckon we're two peas in a pod. We both been put through life's wringer.
+1201804	I'm... I'm bloody glad you told 'im about us.
+1201805	 
+1201806	 
+1201850	Oh, kind hunter!
+1201851	Thank you. So, that man, you told 'im about this place?
+1201852	
+1201853	
+1201854	I'm... I'm bloody glad you told 'im about us.
+1201900	 
+1201901	 
+1201902	 
+1201903	 
+1201904	Stop! Please!
+1201905	What's the- Why!
+1201906	Please, good hunter!
+1201907	I'm beggin' ya stop...
+1201908	Please, just stop...
+1201956	Please, good hunter!
+1202000	How did it come... to this...
+1202001	Kind... hunter...
+1202002	I just wanted to help... people...
+1202003	I only wanted... to be... your friend...
+1202004	But you didn't want to be mine... did ya...
+1202051	Kind... hunter...
+1202052	
+1202053	
+1202054	But you didn't want to be mine... did ya...
+1202100	Eeek! Please, no more!
+1202101	It's my fault, I know, so... help me, please...
+1202102	Please, kind hunter.
+1202103	 
+1202152	Please, kind hunter.
+1205301	Thank you. So, that survivor, you told 'er about this place right?
+1205302	Well, she don't offer me much in the way of conversation, but still...
+1205303	I'd rather see 'er alive anyhow.
+1205304	
+1205305	
+1205306	
+1205307	
+1205308	
+1205309	
+1205310	
+1205311	The woman you sent here, the one you saved...
+1205312	She's dead... Killed stone dead...
+1205351	Thank you. So, that survivor, you told 'er about this place, right?
+1205352	
+1205353	
+1205354	
+1205355	
+1205356	
+1205357	
+1205358	
+1205359	
+1205360	
+1205361	The woman you sent here, the one you saved...
+1206301	Thank you. So, that old man, you told 'im about this place right?
+1206302	
+1206303	
+1206304	
+1206305	
+1206306	
+1206307	
+1206308	
+1206309	
+1206310	
+1206311	The old man, the old man you sent over...
+1206351	Thank you. So, that old man, you told 'im about this place, right?
+1206352	
+1206353	
+1206354	
+1206355	
+1206356	
+1206357	
+1206358	
+1206359	
+1206360	
+1206361	The old man, the old man you sent over...
+1207301	Thank you. So, that old girl, you told 'er about this place right?
+1207302	
+1207303	
+1207304	
+1207305	
+1207306	
+1207307	
+1207308	
+1207309	
+1207310	
+1207311	The old girl, the old girl you sent over...
+1207351	Thank you. So, that old girl, you told 'er about this place, right?
+1207352	
+1207353	
+1207354	
+1207355	
+1207356	
+1207357	
+1207358	
+1207359	
+1207360	
+1207361	The old girl, the old girl you sent over...
+1208311	The lady, the lady you sent over...
+1208361	The lady, the lady you sent over...
+1209301	Thank you. So, that holy woman, you told 'er about this place right?
+1209302	
+1209303	
+1209304	
+1209305	
+1209306	
+1209307	
+1209308	
+1209309	
+1209310	
+1209311	The 'oly woman, the 'oly woman you sent over...
+1209351	Thank you. So, that holy woman, you told 'er about this place, right?
+1209352	
+1209353	
+1209354	
+1209355	
+1209356	
+1209357	
+1209358	
+1209359	
+1209360	
+1209361	The 'oly woman, the 'oly woman you sent over...
+1300000	Are you... out on the hunt?
+1300001	Then I'm very sorry, but... I cannot open this door.
+1300002	I am Iosefka. The patients here in my clinic must not be exposed to infection.
+1300003	I know that you hunt for us, for our town, but I'm sorry.
+1300004	Please. This is all that I can do.
+1300005	Now, go.
+1300006	And good hunting.
+1300050	Are you... out on the hunt?
+1300100	You are safe, thank goodness.
+1300101	But, I'm afraid nothing will change. I cannot open the door.
+1300102	I'll do what I can, of course.
+1300103	Perhaps this will help you, if only in some small way.
+1300104	Now, go.
+1300105	I pray for your safety.
+1300150	You are safe, thank goodness.
+1300200	Are you still in need of something?
+1300201	But I have nothing more to offer.
+1300202	Please, try to understand my position.
+1300203	I can only pray, for a fruitful hunt.
+1300300	You are safe, thank goodness.
+1300301	But, I'm afraid nothing will change my mind. I cannot open the door.
+1300302	Please, try to understand my position.
+1300303	I pray for your safety.
+1300350	You are safe, thank goodness.
+1300400	Ahh, you are safe, thank goodness.
+1300401	But, I'm afraid nothing will change my mind. I cannot open the door.
+1300402	I'll do what I can, of course.
+1300403	Perhaps this will help you, if only in some small way.
+1300404	This night is long, but morning always comes.
+1300405	Someone of your caliber won't fail us, I am certain.
+1300406	And once the night of the hunt ends, we can speak face-to-face.
+1300407	Then I can finally see what you look like.
+1300408	I shouldn't be thinking this, but I am rather looking forward to it.
+1300409	So please, be careful out there.
+1300450	Ahh, you are safe, thank goodness.
+1300451	
+1300452	
+1300453	
+1300454	
+1300455	Someone of your caliber won't fail us, I am certain.
+1300500	I'm sorry...
+1300501	I have nothing else to offer you.
+1300502	I will pray for your safety.
+1300503	May light shine upon this night, and your fortunes.
+1300600	Ahh, you are safe, thank goodness.
+1300601	I'm sorry, though, I've nothing more to offer you.
+1300602	I will pray for your safety.
+1300603	May light shine upon this night, and your fortunes.
+1300650	Ahh, you are safe, thank goodness.
+1300700	Stop!
+1300800	 
+1300801	Please, stop!
+1300802	It's beasts you hunt.
+1300803	Why are you behaving like one?
+1300804	This can't be the real you...
+1300805	Please, stop...
+1300854	This can't be the real you...
+1300900	You are no more than a beast.
+1300901	I should have known...
+1301000	Are you calm again? Thank goodness.
+1301001	You mustn't let the hunt overcome you.
+1301002	Remember yourself. You are not a beast.
+1301050	Are you calm again? Thank goodness.
+1400000	...Oh, well, hello...
+1400001	
+1400002	Splendid. Let me ask you a small kindness.
+1400003	You're soon off to hunt, I presume?
+1400004	Then, if you find any survivors...
+1400005	Tell them to seek Iosefka's Clinic.
+1400006	Upon my Hippocratic oath, if they are yet human, I will look after them, perhaps even cure them.
+1400007	This sickness, these beasts, they are not to be feared.
+1400008	This time the night is long. I may be trapped here, but I should do something to help.
+1400009	I'll even offer a reward for your cooperation. Tempted?
+1400010	Well, off you go, then.
+1400059	I'll even offer a reward for your cooperation. Tempted?
+1400100	If you find anyone who's still human, send them straight to Iosefka's Clinic.
+1400101	You can assure them, there's no place safer.
+1400102	Please, do me this service.
+1400200	Oh, hello. You made it.
+1400201	Find any survivors? Or only beasts?
+1400202	Tell anyone who's human about Iosefka's Clinic.
+1400203	I will take proper care of them.
+1400204	They're in your hands, and soon, mine...
+1400250	Oh, hello. You made it.
+1400300	Oh, hello... You're all right. Very good.
+1400301	He's safe with me now. I presume you're to thank?
+1400302	The treatment is going well, stabilized, for the most part. Fascinating, really...
+1400303	Here you are, as promised.
+1400304	Oh, thank goodness you came...
+1400305	Be a dear, and find me some more.
+1400306	 
+1400354	Oh, thank goodness you came...
+1400355	Be a dear, find me some more.
+1400400	There may yet be humans out there.
+1400401	If you find them, send them to Iosefka's Clinic.
+1400402	I endeavor to treat every survivor there is.
+1400403	So please, be a saint.
+1400453	So please, be a saint.
+1400500	Ah, moonlit scents...
+1400501	How did you worm your way in here?
+1400502	Very unfortunate. I had such high hopes for you.
+1400503	Well, I won't make any excuses. Would you mind leaving us alone...?
+1400504	Things need not change... You'll do the rescuing, and I'll do the saving...
+1400505	But, if you refuse to leave...
+1400506	Ah, well... I've always wanted to try my hand on a hunter...
+1400507	 
+1400508	 
+1400551	How did you worm your way in here?
+1400552	
+1400553	
+1400554	
+1400555	
+1400556	Ah, well... I've always wanted to try my hand on a hunter...
+1400600	Oh, hello... Still alive, are you?
+1400601	I need more patients...
+1400602	There aren't many humans left, I know, but find me every last one you can.
+1400603	We must find a way. To surpass our own stupidity.
+1400604	You're one of the bright ones. Don't you see how much this means?
+1400605	 
+1400650	Oh, hello... Still alive, are you?
+1400651	
+1400652	
+1400653	
+1400654	You're one of the bright ones. Don't you see how much this means?
+1400700	Oh, hello... You're alive. Good.
+1400701	I've received another patient. This time, I'll be trying old blood.
+1400702	I've achieved much. And I owe it all to you.
+1400703	Take this, as thanks.
+1400704	Custom made. And cheers, to the discovery of kinship.
+1400705	Doesn't it make you feel warm inside?
+1400706	 
+1400750	Oh, hello... You're alive. Good.
+1400800	I don't imagine there are many humans left, but find as many as you can.
+1400801	 
+1400900	If you find any humans, bring them to me.
+1400901	I'm depending on you, brave hunter.
+1400902	 
+1400951	I'm depending on you, brave hunter.
+1401000	God, I'm nauseous... Have you felt this?
+1401001	It's progressing, I can see things...
+1401002	I knew it, I'm different. I'm no beast... I...
+1401003	Oh... God, it feels awful... but, it proves that I'm chosen...
+1401004	Don't you see? How they writhe, writhe inside my head...
+1401005	It's... rather... rapturous...
+1401006	 
+1401100	Oh, hello... you're still alive.
+1401101	Any luck, then? Finding anyone who hasn't turned?
+1401102	If you do, you know where to send them.
+1401103	 
+1401150	Oh, hello... you're still alive.
+1401151	Any luck, then? Find anyone who hasn't turned?
+1401200	Oh, hello... You're safe. What a relief.
+1401201	He's safe with me now. I'm thrilled to have another.
+1401202	Here you are. As promised.
+1401203	What would I ever do without you?
+1401204	You're really making a difference.
+1401205	 
+1401300	Oh, hello... You're still alive.
+1401301	But I suppose we're nearing the end.
+1401302	I don't imagine there are any left who haven't turned by now.
+1401303	Tragic, really, but what's to be done...
+1401350	Oh, hello... You're still alive.
+1401400	 
+1401500	Can't anyone comprehend?
+1401501	That'll be quite enough of you, then.
+1401502	Isn't it time someone put you out of your misery?
+1401600	 
+1401700	Hush, hush...
+1401701	Stay still...
+1401702	This won't hurt a bit...
+1401703	I'll soon have you right as rain...
+1401704	Just die!
+1401705	Enough of you!
+1401706	Now, stop that!
+1401751	Stay still...
+1401752	
+1401753	I'll soon have you right as rain...
+1401800	 
+1401900	 
+1402000	You... bastard...
+1402001	Curse this oblivious fool...
+1402050	You... bastard...
+1402051	Curse this oblivious fool...
+1402100	Oh, how exciting...
+1402101	I've never worked on a hunter before... 
+1402102	 
+1402103	 
+1402151	I've never worked on a hunter before... 
+1409201	She's safe with me now. I'm thrilled to have another.
+1409301	She's safe with me now. I presume you're to thank?
+1409500	Can't anyone comprehend?
+1500000	You... you're not from around here are ya?
+1500001	An outsider who's come to join the hunt? What a pathetic idea.
+1500002	You what? What, you think I'm a beast? Well, maybe I think you're a beast.
+1500003	You probably think every old man is some ghoul or villain!
+1500004	Well, away with ya!
+1500005	And step away from my castle!
+1500050	You... you're not from around here are ya?
+1500051	An outsider who's come to join the hunt? What a pathetic idea.
+1500052	
+1500053	
+1500054	Well, away with ya!
+1500100	Oh, enough of you...
+1500101	What, you think this is funny?
+1500102	Well I certainly don't. So be gone with ya!
+1500103	I'll have nothing to do with your beast hunts.
+1500200	Oh, enough with you already. Come on, just go, will ya?
+1500300	What's this two-bit nonsense you're peddlin'?
+1500301	I heard you told that wench about some shelter.
+1500302	Well, she's a damn fool to trust an outsider.
+1500303	Why? Her sort's probably just fixin' to thieve some of your coin.
+1500304	 
+1500351	I heard you told that wench about some shelter.
+1500352	Well, she's a damn fool to trust an outsider.
+1500400	What's this two-bit nonsense you're peddlin'?
+1500401	I heard you told the old hag about some shelter.
+1500402	Well, any sweet-talking stranger could fool an old hag.
+1500403	Me? I wouldn't touch 'er with a ten foot bargepole.
+1500404	 
+1500451	I heard you told the old hag about some shelter.
+1500452	Well, any sweet-talking stranger could fool an old hag.
+1500500	All right, what crafty lies does the outsider have today?
+1500501	You think I'm an easy mark? Yeah? Well, give me your best shot.
+1500550	All right, what crafty lies does the outsider have today?
+1500551	You think I'm an easy mark? Yeah? Well, give me your best shot.
+1500600	Hmph...
+1500601	Yeah sorry, too sharp for that bollocks. I know a superstition when I hear one.
+1500602	Outsiders... even their lies are predictable.
+1500603	 
+1500700	 
+1500701	What, afraid your lies will be exposed?
+1500702	Yeah, I knew you'd back off, I just knew it.
+1500703	Yeah, an outsider, you may be, but at least you know when you're bested.
+1500704	 
+1500753	Yeah, an outsider, you may be, but at least you know when you're bested.
+1500800	What? Still preying on folks with your book of lies?
+1500801	Yeah, fine, come on. Show me what you've got. Tell me about your little safe place.
+1500802	 
+1500900	What? You just can't help yourself, can ya?
+1500901	Go on then, fine, go on... tell me about it. Your little safe haven.
+1500902	 
+1501000	Ah, you, the swindlin' offcomer.
+1501001	Did you really think that'd work? There's no fooling me!
+1501002	Now, off with ya, you heard me!
+1501003	Go away! I can't stand the stench of your lyin' breath!
+1501050	Ah, you, the swindlin' offcomer.
+1501051	Did you really think that'd work? There's no fooling me!
+1501052	
+1501053	Go away! I can't stand the stench of your lyin' breath!
+1501100	Oh, enough.
+1501101	Enough please. Look, I'm short on blood, and you're a real headache.
+1501102	I've no time for your petty lies.
+1501103	Away, just away with you, now!
+1501104	I mean it!
+1501105	And don't you come back, do you hear me! Don't come back!
+1501200	Oh, give it a rest, please.
+1501201	I've no time for your petty lies.
+1501202	Awa- just go away now!
+1501203	I can't stand the stench of your lyin' breath!
+1501253	I can't stand the stench of your lyin' breath!
+1501300	Oh, don't you ever...
+1501301	No, y'know what, wait a minute. I'm in a generous mood.
+1501302	Give me blood, as much as you can.
+1501303	And I'll forgive your lies and deceit.
+1501304	This is your last chance, outsider, to redeem yourself.
+1501354	This is your last chance, outsider, to redeem yourself.
+1501400	Heheh... yeah, as it should be.
+1501401	Outsiders will always be outsiders. What salvation could possibly await them here?
+1501402	I'll spare you one nugget of advice.
+1501403	Beware the lady of the night.
+1501404	I can see it in her eyes. She deeply resents the young saint.
+1501405	She hears people whisper. She knows what people think of her.
+1501406	Yes, she despises the saint for having what she doesn't.
+1501407	Bloody wench, they shoulda moved her on ages ago.
+1501500	Heheh, as it should be.
+1501501	Outsiders will always be outsiders. I mean, what salvation could possibly await them here?
+1501502	I'll spare you one nugget of advice.
+1501503	Beware the old hag.
+1501504	I saw her slipping away in the night.
+1501505	No one in their right mind would do that, not on a night like this.
+1501506	So, you see... that can only mean one thing...
+1501600	Heheh, as it should be.
+1501601	Outsiders will always be outsiders. I mean... what salvation could possibly await them here?
+1501602	I'll spare you one nugget of advice.
+1501603	Beware the blind man.
+1501604	There the beggar sits, at the bottom of the bloody food chain...
+1501605	...and then he's here, acting like he owns the place...
+1501606	He's not to be trusted.
+1501607	What's he want with all those people anyway.
+1501608	That little weasel has a murky past, I'm tellin' ya...
+1501700	How dare ya.
+1501701	An outsider won't get far behaving like that.
+1501702	Now, be gone!
+1501703	Go, away with ya!
+1501704	Don't ever bother me again!
+1501751	An outsider won't get far behaving like that.
+1501800	Ahh, your lies spin a web...
+1501801	But I see through your deceit!
+1501802	I did not learn from books. No, no, no, no, no...
+1501803	I learned it all with my own mind...
+1501900	 
+1502000	Bloody offcomer... curse you...
+1502001	Why me, eh...
+1502002	 
+1502050	Bloody offcomer... curse you...
+1509000	Not from around here, are ya?
+1509001	And outside, on a night of the hunt? You must be sick, mate.
+1509002	Black death upon you.
+1509003	I hope they have your head before morning, now be gone.
+1509004	Get away from me right now, go.
+1509050	Not from around here, are ya?
+1509051	And outside, on a night of the hunt? You must be sick, mate.
+1509100	Mate, not you again.
+1509101	We're not like you. Don't you understand that, we're still normal, you see.
+1509102	...But, I'll tell you what though, if you want to insist on asking me questions.
+1509103	Bring us blood. That's right, blood. Then, I'll tell you what I know.
+1509104	It hardly pays to be choosy these days.
+1509105	As it's written in the good book, mate. "No blood is bad blood!"
+1509106	Hee hee hee!
+1509152	...But, I'll tell you what though, if you want to insist on asking me questions.
+1509200	Oh, you.
+1509201	Did you bring us blood?
+1509251	Did you bring us blood?
+1509300	Oh, ah, very good. Yeah, nice one mate. Yeah, very good.
+1509301	So, what do you want to know?
+1509400	The blood of a sage? Hmm, I don't know nothing. Not a thing.
+1509401	It's some made-up nonsense, or... you know what... wait a minute, wait a minute...
+1509402	The minister at the cathedral might know something. Father Norbert's his name, quite an highbrow, you see but...
+1509403	Well, the only trouble is...
+1509404	On the nights of the hunt, the Western Quarter is boarded up, blocking passage to the cathedral in the Eastern Quarter.
+1509405	And once the hunt is done, well... well, you'll be dead, along with all the other sickos, you see.
+1509406	Hee hee hee!
+1509407	Hee... hic!
+1509455	And once the hunt is done, well... well, you'll be dead, along with all the other sickos, you see.
+1509500	The minds of the infected are frail. Perhaps you deserve mercy.
+1509501	I know nothing, but Father Norbert, head of the cathedral in the Eastern Quarter, might know something.
+1509502	Pay him a visit, if you dare!
+1509503	Hee hee hee, be gone.
+1509600	Laurence? Ah yes Laurence, another outsider, like yourself?
+1509601	Yeah, I know him. He left for the cathedral in the Eastern Quarter. On my advice, even.
+1509602	Unlucky for him.
+1509603	You see, just after he left, the bell tolled, kicking off the hunt.
+1509604	And no offcomer ever lives through the hunt, trust me mate.
+1509605	Hee hee hee!
+1509606	Hee... hic!
+1509700	My God, the minds of the infected are frail. Perhaps you deserve mercy.
+1509701	That outsider Laurence? Yeah, he set off for the cathedral in the Eastern Quarter, on my advice.
+1509702	Although I don't expect he ever made it.
+1509703	Hee hee hee!
+1509800	The minds of the infected are frail.
+1509801	You can't be blamed. Off with you, now. Please go away.
+1509802	You're not normal, not normal no matter how hard you try to pretend. You're not normal.
+1509852	You're not normal, not normal no matter how hard you try to pretend. You're not normal.
+1509900	Give your blessing, and wash from us the blood of beasts...
+1509901	Umbasa
+1600000	What is it?
+1600001	I smell that... You must be a hunter.
+1600002	And not one of ours, either.
+1600003	Well, get lost, and don't come back!
+1600004	I wouldn't open my door for me own poor mother, not on a night of the hunt!
+1600005	And certainly not for a rotten offcomer.
+1600006	Go on, away with ya!
+1600007	What's a hunter, anyway? Go feed yourself to a beast.
+1600051	I smell that... You must be a hunter.
+1600052	And not one of ours, either.
+1600053	
+1600054	
+1600055	And certainly not for a rotten offcomer.
+1600056	
+1600057	What's a hunter, anyway? Go feed yourself to a beast.
+1600100	Get lost, enough of this!
+1600101	Oh, help me, gods...
+1600200	Oh, you're a hunter, aren't ya?
+1600201	Then, well, do you know of any safe places?
+1600202	I've heard, I have. Shutting up indoors isn't always enough.
+1600203	If you hunters got off your arses, we wouldn't be in this mess.
+1600204	You're obligated to help me, you hear?
+1600205	So, what'll it be?
+1600206	Are you gonna tell me, or not?
+1600250	Oh, you're a hunter, aren't ya?
+1600251	
+1600252	
+1600253	
+1600254	You're obligated to help me, you hear?
+1600300	Well, whaddya know?
+1600301	An outsider worth a lick of salt.
+1600302	Well, don't just stand there.
+1600303	Don't you have work to do?
+1600304	Go slit some throats, get this mess done with.
+1600351	An outsider worth a lick of salt.
+1600352	Well, don't just stand there.
+1600400	Yeah, I should've known.
+1600401	Ya good-for-nothing... No respect for the elderly is what that is!
+1600402	Yeah, fat lot of good you outsiders do.
+1600403	Go on, admit it, you think we're all mad, don't ya?
+1600404	Well, go and stuff it! I know all yer tricks!
+1600451	Ya good-for-nothing... No respect for the elderly is what that is!
+1600500	Oh, enough with you.
+1600501	Trot along, chop chop!
+1600600	What is it now?
+1600601	I've much better ways to pass the time.
+1600602	Unless... you've found me a nice, safe place?
+1600652	Unless... you've found me a nice, safe place?
+1600700	Oh, no, I haven't forgotten.
+1600701	Do you think I owe you something?
+1600702	Well, that's a fine lark, I'd say.
+1600703	This whole mess that Yharnam's in, it's all your fault, you fidgety outsiders!
+1600704	Our blood's ruined, tainted by your ilk!
+1600705	Don't you come near me! I know your type!
+1600800	You! Stay away from me!
+1600801	I know all your tricks!
+1600900	Ahh, how di' we get into this rotten spot...
+1600901	 
+1600902	My little sweet pea. You just need more blood, that's all...
+1600903	But the doctor's not in...
+1600904	What's a mother to do?
+1600905	 
+1600953	But the doctor's not in...
+1601000	Oh, my goodness...
+1601001	You just need a little more blood, is all...
+1601002	 
+1601100	Oh, look who's come, dear. The doctor's in!
+1601101	Ahh, fine, fresh blood. Everything'll be better now...
+1601102	 
+1601103	Yeah, isn't that nice? We'll have to thank the good doctor.
+1601104	I know, we can share some of your little treats.
+1601105	You're so sweet, aren't ya? My sweet little Patches...
+1601106	 
+1601150	Oh, look who's come, dear. The doctor's in!
+1601151	
+1601152	
+1601153	Yeah, isn't that nice? We'll have to thank the good doctor.
+1601200	 
+1601201	Aren't we an 'appy little tot!
+1601202	Mm-hmm, what a wonderful smell...
+1601203	 
+1601300	Ohh, how did we ever get into this mess...
+1601301	 
+1601302	 
+1601400	 
+1601401	 
+1601500	 
+1601501	Oh, the good old days, what a laugh, eh?
+1601502	 
+1601600	 
+1601601	Oh, there you are.
+1601602	You're home early, dear.
+1601603	Is anything the matter?
+1601604	You can always tell me...
+1601605	Mother'll make everything better...
+1601652	You're home early, dear.
+1601700	Oh, what is it, dear?
+1601701	Are you in a bind again?
+1601702	 
+1601750	Oh, what is it, dear?
+1601800	 
+1601801	Oh, welcome home, dear.
+1601802	What's wrong?
+1601803	Anything you'd like to tell me?
+1601851	Oh, welcome home, dear.
+1601900	Oh, my. You poor thing...
+1601901	But don't you worry, heh... h-heh...
+1601902	This will help you forget...
+1601903	Forget your troubles, forget your cares...
+1601904	 
+1601950	Oh, my. You poor thing...
+1602000	Oh, my. You poor thing...
+1602001	Now, now, have some patience...
+1602002	Mother'll make everything better...
+1602003	 
+1602050	Oh, my. You poor thing...
+1602100	Now, now, be patient...
+1602101	 
+1602200	 
+1602201	Oh, welcome home, dear.
+1602202	You've been very, very patient.
+1602203	Here you are. This will help you forget...
+1602204	Forget your troubles, forget your cares...
+1602205	 
+1602251	Oh, welcome home, dear.
+1602252	You've been very, very patient.
+1602300	Oh, good. What a relief!
+1602301	You always were the brave one.
+1602302	But you can't bottle up everything inside.
+1602303	You mustn't be afraid to share.
+1602304	 
+1602351	You always were the brave one.
+1602400	 
+1602500	 
+1602501	 
+1602502	What's got into you!
+1602503	Curse you, stranger!
+1602553	Curse you, stranger!
+1602600	 
+1602700	 
+1602701	 
+1602702	What's wrong with you?
+1602703	I'm your mother, don't you see?
+1602800	Oh... why on earth...
+1602801	My poor baby... what's happened to you...
+1602802	It's... your father's blood...
+1602851	My poor baby... what's happened to you...
+1700000	 
+1700001	Blimey, don't scare me like that!
+1700002	On a night like this... I took you for a monster.
+1700003	Oh, thank the stars, you're fairly normal... Was it you put down that awful beast?
+1700004	Oh, that thing had me trembling, frozen in me boots. And then you came along.
+1700005	Well, if you're a hunter... then...
+1700006	would you know of any safe havens?
+1700053	Oh, thank the stars, you're fairly normal... Was it you put down that awful beast?
+1700054	Oh, that thing had me trembling, frozen in me boots. And then you came along.
+1700055	Well, if you're a hunter... then...
+1700100	Well, I'll be! Thank you!
+1700101	It's about time I made a move. I can't very well stay out on me own...
+1700102	Oh, you've given me hope... Terribly kind of you.
+1700103	Take this. It's all I can offer as thanks.
+1700152	Oh, you've given me hope... Terribly kind of you.
+1700200	Oh yeah, of course not... I should've known.
+1700201	This whole place's falling apart, once again...
+1700202	It's the curse of Yharnam...
+1700300	Thank you. It's about time I made a move.
+1700301	I can't very well stay out on me own...
+1700400	Oh, you again!
+1700401	You find any nice, cozy places to hole up in?
+1700451	You find any nice, cozy places to hole up in?
+1700500	Ah, hello again.
+1700501	I owe this to you. It's a wonderful place.
+1700502	They even let beggars like meself in!
+1700503	What's better... we keep our distance, don't step on anyone's toes, right?
+1700504	The way proper Yharnamites ought to live!
+1700505	 
+1700600	Oh, let me share something with you.
+1700601	My secret stash. Really prime stuff...
+1700700	Oh, hello again.
+1700701	I really do owe you a terrible lot.
+1700702	Finding me such a nice place to live...
+1700703	 
+1700800	Oh, hi. I'm afraid I don't have any more.
+1700801	Yeah, it's all sold out. Sorry, chum.
+1700802	But, you know... I'll try and get some more soon.
+1700803	But, you know it ain't easy, right?
+1700851	Yeah, it's all sold out. Sorry, chum.
+1700900	Oh, you again. Perfect timing.
+1700901	I've got some more. See?
+1700902	Oh, oh my... you just can't get enough.
+1700903	Oh no, I understand, I'm the very same.
+1701000	This is a smashing place.
+1701001	It's everything Yharnam ever had, and more!
+1701002	 
+1701100	 
+1701101	 
+1701102	 
+1701103	 
+1701104	 
+1701105	 
+1701200	 
+1701300	Have you got a screw loose? Or is it your... animal intuition?
+1701301	Oh, it doesn't even matter.
+1701302	You hunters've got more blood on your hands!
+1701400	Oh, you are a sick puppy!
+1701401	You drink the blood of half the town, and now this!
+1701402	And you talk of beasts? You hunters are the real killers!
+1701450	Oh, you are a sick puppy!
+1701500	Die!
+1701501	Die, die!
+1701502	Hunters are killers, nothing less!
+1701503	You call me a beast? A beast?
+1701504	What would you know?
+1701505	I didn't ask for this!
+1701600	You're no different than I.
+1701601	Rancid beasts, every last one of us...
+1701602	Some of us are better at fakin' it, that's all...
+1701603	 
+1701700	You call men beasts, and hunt them down.
+1701701	Well, hunter, I suppose you got what's coming...
+1701702	 
+1701751	Well, hunter, I suppose you got what's coming...
+1701800	 
+1800000	Oh, my, what a queer scent...
+1800001	But I'd take it over the stench of blood and beasts any day.
+1800002	What is it, then?
+1800003	I'm off during hunts, so if that's what you're here for, I'll leave you to your own devices.
+1800004	If that doesn't do it, come back in the morning, darling.
+1800005	 
+1800100	I'm off during hunts. Come back in the morning, darling.
+1800101	 
+1800200	Oh, thank goodness. You're a hunter, right?
+1800201	Might you know of a safe place?
+1800202	The night is long, and I've very little of the incense left...
+1800203	Please, there must be some nice place to run off to?
+1800300	Oh, thank you, darling.
+1800301	Maybe I'll see you there!
+1800302	 
+1800400	Oh... that's a shame.
+1800401	Well, if you do find a safe place, do be a dear and tell me.
+1800402	Around here, you're the only one I can turn to.
+1800403	You understand, don't you?
+1800500	Ahh, hello there. Come to see me?
+1800501	Have you found any safe places?
+1800600	Oh, hello dear...
+1800601	You weren't lying. This is a safe place.
+1800602	Thank you. I'm in your debt.
+1800603	I'd like to tender my thanks, but I haven't much to offer...
+1800604	All I can give is my blood.
+1800605	But... would you even take a whore's blood?
+1800700	Yes, I see...
+1800701	I suppose that's natural.
+1800702	 
+1800703	If you ever change your mind...
+1800704	You know where I'll be...
+1800705	 
+1800800	Oh, good.
+1800801	Come close, dear.
+1800802	Don't worry, this isn't the first time.
+1800803	 
+1800804	 
+1800900	Oh, hello...
+1800901	Sorry, dear. You're much too eager.
+1800902	I've only so much blood... okay?
+1801000	Oh, hello...
+1801001	You've come for my blood?
+1801100	Oh, good.
+1801101	Come close, dear.
+1801102	I knew you'd be back for more.
+1801103	 
+1801104	 
+1801200	Oh, that's a pity.
+1801201	Any time you're ready.
+1801300	Oh, you...
+1801301	I'm sorry... I'm afraid I can't help you.
+1801302	Unless... you've had a change of heart?
+1801400	If you ever change your mind...
+1801401	You know where I'll be...
+1801402	 
+1802000	Oh, my, what a queer scent...
+1802001	But I'd take it over the stench of blood and beasts any day.
+1802002	What is it, then?
+1802003	I'm off during hunts, and besides, this is no place for ladies.
+1802004	Wouldn't want to drag you down too. 
+1802005	 
+1802100	I'm off during hunts, and besides... This is no place for ladies.
+1802101	 
+1802200	Oh, thank goodness. You're a hunter, aren't you dear?
+1802201	Might you know of a safe place?
+1802202	The night is long, and I've very little of the incense left...
+1802203	Please, there must be some nice place to run off to?
+1802300	Oh, thank you, dear.
+1802301	Perhaps I'll see you there!
+1802400	Oh... that's a shame.
+1802401	Well, if you do find a safe place, do be a dear and tell me.
+1802402	Around here, you are the only one I can turn to.
+1802403	You understand, don't you?
+1802500	Ahh, hello there. Come to see me?
+1802501	Have you found any safe places?
+1802600	Oh, hello dear...
+1802601	You weren't lying. This is a safe place.
+1802602	Thank you. I am in your debt.
+1802603	I'd like to tender my thanks, but I can't imagine what to offer.
+1802604	All I can give is my blood.
+1802605	But... would you even take a whore's blood?
+1802700	Yes, I see...
+1802701	I suppose that's natural.
+1802702	 
+1802703	I won't try to tempt you.
+1802704	 
+1802800	Oh, good.
+1802801	Come close, dear.
+1802802	Don't worry, I've done this before.
+1802803	 
+1802804	 
+1802900	Oh, hello...
+1802901	Sorry, dear. You're much too eager.
+1802902	I've only so much blood... okay?
+1803000	Oh, hello...
+1803001	You've come for my blood?
+1803100	Oh, good.
+1803101	Come close, dear.
+1803102	I'm always happy to help.
+1803103	 
+1803200	I see...
+1803201	Well, come again, whenever you please.
+1803300	Oh, you...
+1803301	I'm sorry... I'm afraid I can't help.
+1803302	Unless... you've had a change of heart?
+1803400	Yes, of course...
+1803401	I'm sorry, I ask too many questions.
+1803402	I'm very thankful for what you've done.
+1803500	Oh, hello.
+1803501	The whole town's turned, has it?
+1803502	Quite a big family now, aren't we?
+1803503	Though I'm afraid I seem to be the black sheep...
+1803504	 
+1803505	Back for my blood, I presume?
+1803600	Oh, there you are.
+1803601	Not too safe here after all, is it?
+1803602	But I'm not concerned.
+1803603	I've no better place to go, and you were terribly kind to show me here.
+1803604	 
+1803605	Back for more of my blood, I presume?
+1803653	I've no better place to go, and you were terribly kind to show me here.
+1803700	Oh, there you are...
+1803701	Forgive me, I'm a bit out of sorts...
+1803702	Some stomach pain, you see...
+1803703	Some stomach pain, and I'm nearly ready to vomit...
+1803704	So, no blood today, I'm afraid...
+1803800	Oh, there's something wrong with me...
+1803801	It hurts... my stomach, it hurts terribly...
+1803802	 
+1803900	 
+1804000	Oh, horrors... Was this born of me?
+1804001	It can't be... this is a nightmare.
+1804002	 
+1804100	Ohh, my baby...
+1804101	You're absolutely precious, aren't you?
+1804102	 
+1804103	 
+1804200	Well, what do you think? Isn't he wonderful?
+1804201	I've never been happier...
+1804202	 
+1804203	 
+1804300	 
+1804400	 
+1804500	Horrors, why...
+1804501	What have I done?
+1900000	Oh, you must be a hunter.
+1900001	And... not one from around here, either.
+1900002	I'm Gilbert. A fellow outsider.
+1900003	You must have had a fine time of it. Yharnam has a special way of treating guests.
+1900004	Well, I don't think I could stand if I wanted to...
+1900005	But I'm willing to help, if there's anything that can be done.
+1900006	 
+1900007	This town is cursed.
+1900008	Whatever your reasons might be, you should plan a swift exit.
+1900009	Whatever can be gained from this place, it will do more harm than good...
+1900050	Oh, you must be a hunter.
+1900051	
+1900052	
+1900053	You must have had a fine time of it. Yharnam has... a special way of treating guests.
+1900054	
+1900055	
+1900056	
+1900057	
+1900058	Whatever your reasons might be, you should plan a swift exit.
+1900059	Whatever can be gained from this place, it will do more harm than good...
+1900100	Paleblood, you say?
+1900101	Hmm... Never heard of it.
+1900102	But if it's blood you're interested in, you should try the Healing Church.
+1900103	The church controls all knowledge on blood ministration, and all varieties of blood.
+1900104	Across the valley to the East of Yharnam lies the town of the Healing Church, known as the Cathedral Ward.
+1900105	And deep within Cathedral Ward is the old grand cathedral.
+1900106	...the birthplace of the Healing Church's special blood, or so they say.
+1900107	 
+1900108	Yharnamites don't share much with outsiders.
+1900109	Normally, they wouldn't let you near the place, but...
+1900110	The hunt is on tonight. This might be your chance...
+1900200	Across the valley to the East of Yharnam, you'll find the Cathedral Ward.
+1900201	Deep within lies the old main cathedral, said to be the source of blood.
+1900202	I haven't heard of Paleblood, but...
+1900203	That's your best bet if it's anything to do with unique types of blood...
+1900204	 
+1900300	Yes, I see...
+1900301	But the great bridge is the only way to the Cathedral Ward.
+1900302	And during the hunt, the bridge is closed...
+1900303	Hmm... You could try the aqueduct?
+1900304	There's a rather, how shall I put it, colorful area south of the great bridge.
+1900305	From there, an aqueduct leads to the Cathedral Ward.
+1900306	 
+1900307	Not a place you'd normally want to visit, but...
+1900308	I don't imagine you have much of a choice.
+1900309	Do you?
+1900400	 
+1900401	An aqueduct leads from the town, south of the main bridge to the Cathedral Ward.
+1900402	Not a place you'd normally choose to visit, but...
+1900403	Not much of a choice, with the bridge closed...
+1900500	Have I heard of Byrgenwerth?
+1900501	Hmm... Afraid I can't say that I have.
+1900502	The locals aren't apt to share any local history.
+1900503	 
+1900504	I'm afraid I may not be of help for much longer...
+1900505	 
+1900600	Hmm... I know nothing of a Byrgenwerth,
+1900601	and I'm afraid I may not be of help for much longer.
+1900602	 
+1900700	 
+1900701	Ahh, you needn't concern yourself with me.
+1900702	I'm afraid I'm of little help now.
+1900703	But before I... Take this...
+1900704	I made no use of it, but perhaps you...
+1900705	 
+1900706	What afflicted me was incurable, but this town gave me hope...
+1900707	Their strange blood bought me time.
+1900708	I was most fortunate. Unharmed by the plague of beasts.
+1900709	I can even die human...
+1900800	Ahh, don't you worry about me.
+1900801	 
+1900900	 
+1900901	 
+1900902	Why... me... why...
+1900903	Dear gods, what have I done?
+1900904	Save me, please...
+1900905	Save me...
+1900906	 
+1900907	 
+1901000	Why, what's this?
+1901001	Are you sure about this? You must know its value?
+1901002	...Thank you...
+1901003	It was never my intention to impose upon you, but your kindness is most welcome.
+1901004	You don't know how much this will help.
+1901005	Thank you, really...
+1901006	 
+1901051	Are you sure about this? You must know its value?
+1901052	
+1901053	It was never my intention to impose upon you, but your kindness is most welcome.
+1901100	 
+1901101	Ahh, we'll be together again soon...
+1901102	You told me to live, and so I did. Please, tell me that it was enough.
+1901103	Please, my dear...
+1901200	 
+1901201	...Not me...
+1901202	...Stay away... stay away from me...
+1901203	...Enough blood...
+1901204	...Keep it away...
+1901300	Mm?
+1901301	Is something wrong?
+1901302	 
+1901303	Stop this nonsense at once.
+1901400	So, you've gone over the edge.
+1901401	A terrible pity. Just another Yharno now.
+1901402	 
+1901450	So, you've gone over the edge.
+1901451	A terrible pity. Just another Yharno now.
+2000000	Who... are you?
+2000001	I don't know your voice, but I know that smell...
+2000002	Are you a hunter?
+2000003	Then, please, will you look for my mum?
+2000004	Daddy never came back from the hunt, and she went to find him, but now she's gone, too...
+2000005	I'm all alone... and scared...
+2000052	Are you a hunter?
+2000100	Really? Oh, thank you!
+2000101	My m-mum wears a red jeweled brooch.
+2000102	It's so big and... and beautiful. You won't miss it.
+2000103	Oh, I mustn't forget.
+2000104	If you find my mum, give her this music box.
+2000105	...It plays one of daddy's favorite songs.
+2000106	And when daddy forgets us we play it for him so he remembers.
+2000107	Mum's so silly, running off without it!
+2000200	Oh, alright...
+2000201	Well th-thanks mister hunter, for talking, at least.
+2000202	Take care, on your hunt.
+2000251	Well thanks miss hunter, for talking, at least.
+2000300	My mum wears a red jeweled brooch.
+2000301	It's so big and beautiful. You won't miss it.
+2000302	Oh, and if you find her, give her this music box.
+2000303	Please, I know you can do it.
+2000400	Thanks for chatting.
+2000401	Please be careful out there!
+2000500	Hello, mister hunter.
+2000501	Still can't find my mum?
+2000550	Hello, miss hunter.
+2000600	Yes, okay. I can wait.
+2000601	Mum knows I'm really brave, and you're very kind.
+2000602	I won't be afraid, I'll be a good girl, I promise.
+2000651	Mum knows I'm really brave, and you're very kind.
+2000700	Oh, okay. I can wait.
+2000701	But isn't there something I can do?
+2000702	Maybe mum and dad are stuck out there...
+2000703	...waiting for me to come and find them.
+2000704	What do you think, mister hunter?
+2000754	What do you think, miss hunter?
+2000800	Yes, okay!
+2000801	Thank you, mister hunter.
+2000802	I love you almost as much as mum and dad, and granddad!
+2000851	Thank you, miss hunter.
+2000852	I love you almost as much as mum and dad, and granddad!
+2000900	Yes, I see...
+2000901	I can wait. I won't be afraid.
+2000902	I know, I do. The morning always comes.
+2001000	 
+2001001	Mum, come home...
+2001002	I'm alone... I'm scared...
+2001003	It's not fair...
+2001004	 
+2001100	 
+2001101	Mister hunter... was it really her?
+2001102	...Mummy... mummy...
+2001103	Don't leave me alone...
+2001104	 
+2001105	 
+2001151	Miss hunter... was it really her?
+2001200	Are you that hunter?
+2001201	Can you look for my mum?
+2001250	Are you that hunter?
+2001300	 
+2100000	...Well, well. A hunter is it?
+2100001	Ahh, tonight, there's something different in the air...
+2100002	Men leave as hunters, and return as beasts.
+2100003	...Let there be no doubt.
+2100004	If it moves, you can be sure it's a beast.
+2100005	...And even if it doesn't, well, don't take any chances!
+2100006	Ha ha ha ha ha hah!
+2100050	...Well, well. A hunter is it?
+2100100	Beasts everywhere...
+2100101	I like the smell of this hunt already!
+2100102	Ha ha haa!
+2100200	...Oooh, beasts and beasts and beasts and beasts...
+2100201	...Beasts all over the shop...
+2100202	...Ahh, the sweet stench of blood. Just... just marvelous!
+2100203	 
+2100204	 
+2100205	...You'll be one of them, sooner or later...
+2100300	...What's that smell?
+2100301	The sweet blood, oh, it sings to me.
+2100302	It's enough to make a man sick...
+2100303	 
+2100304	 
+2100400	Too proud to show your true face, eh?
+2100401	But a sporting hunt, it was!
+2100402	 
+2100450	Too proud to show your true face, eh?
+2100500	 
+2100501	 
+2100502	 
+2100503	 
+2100504	 
+2100505	 
+2200000	Oh, merciful gods, help me...
+2200001	In the name of the Healing Church, cleanse us of this horrible dream...
+2200002	 
+2200003	 
+2200100	 
+2200101	Please, leave me be...
+2200102	Don't take me... please...
+2200103	Oh, please, dear gods...
+2200200	Ahh, by your garb... the Healing Church...
+2200201	You've come to save me... Ahh!
+2200202	Thank you, dear saint!
+2200203	I have no words to express my relief...
+2200204	You could take this, at least.
+2200205	It is sure to please an upstanding member of the church like you.
+2200206	Ahh, thank you so much. Dear gods...
+2200252	Thank you, dear saint!
+2200253	
+2200254	
+2200255	It is sure to please an upstanding member of the church like you.
+2200300	Thank you so much.
+2200301	I was seized on the street by a hulking brute in the Cathedral Ward and locked up here.
+2200302	There were many others, but they've been taken away...
+2200303	And I've heard moans, echoing in the distance, ever since...
+2200400	So, the hunt is on tonight?
+2200401	Then the streets are perilous... And every door will be shut tight...
+2200402	Perhaps it isn't my place to ask, but...
+2200403	Do you know somewhere that might take me in?
+2200500	Oh, thank you so much.
+2200501	I'll set out as soon as I can.
+2200502	I pray for success on your hunt.
+2200503	Kind hunter...
+2200553	Kind hunter...
+2200600	I'll set out as soon as I can.
+2200601	I pray for success on your hunt.
+2200602	Kind hunter...
+2200652	Kind hunter...
+2200700	Yes, I see...
+2200701	I understand. Such are the perils on a night of the hunt.
+2200702	I'll ask an acquaintance in the Cathedral Ward.
+2200703	Perhaps he'll open his door for me... perhaps.
+2200704	Yes, yes, I'll be fine...
+2200705	I do not wish to trouble you any further.
+2200706	You're... a hunter, aren't you?
+2200707	I pray for success on your hunt.
+2200756	You're... a hunter, aren't you?
+2200800	I'll be fine.
+2200801	I don't wish to trouble you any further.
+2200802	I'll ask an acquaintance in the Cathedral Ward.
+2200803	Unless, y-you know of another place?
+2200900	Oh, brave hunter. You're alive.
+2200901	Thank you very much.
+2200902	The town is in disarray, but there are still people here.
+2200903	Together, we await the help of the Healing Church.
+2200904	I cannot begin to express my gratitude to you.
+2200905	The only thing that I can offer...
+2200906	Is my own lowly blood.
+2200907	If it would suffice...
+2200950	Oh, brave hunter. You're alive.
+2201000	Yes, of course.
+2201001	Come in close...
+2201002	Now... take my blood...
+2201003	 
+2201100	Brave hunter. Please, give me a little more time.
+2201101	There are others in need of my blood.
+2201150	Brave hunter. Please, give me a little more time.
+2201200	Ahh, brave hunter. You're safe.
+2201201	Do you wish... to have my blood?
+2201250	Ahh, brave hunter. You're safe.
+2201300	Forgive me, I... I should have known better.
+2201301	What would a brave hunter do with lowly blood like mine?
+2201302	Please, forget I even asked.
+2201351	What would a brave hunter do with lowly blood like mine?
+2201400	Ahh, brave hunter. What is it?
+2201401	Have you renewed thoughts on this matter?
+2201450	Ahh, brave hunter. What is it?
+2201451	Have you renewed thoughts on this matter?
+2201500	Forgive me. I must cease this nonsense.
+2201501	Forget I ever offered.
+2201600	Oh, brave hunter, thank the gods you're safe.
+2201601	Do you wish... to be treated with blood?
+2201602	Or, am I unworthy of your attention?
+2201650	Oh, brave hunter, thank the gods you're safe.
+2201700	Oh, brave hunter. I pray for your safety.
+2201750	Oh, brave hunter. I pray for your safety.
+2201800	Oh, forgive me. I need more time...
+2201900	Oh, brave hunter, you've returned, unharmed.
+2201901	Don't you want to be treated... with blood?
+2201902	I only wish to be of help.
+2201950	Oh, brave hunter, you've returned, unharmed.
+2202000	Oh, brave hunter. I pray for your safety.
+2202001	Come back soon... Tee hee
+2202050	Oh, brave hunter. I pray for your safety.
+2202100	 
+2202101	 
+2202200	 
+2202300	 
+2202400	Oh, brave hunter, why?
+2202401	What have I done...
+2202450	Oh, brave hunter, why?
+2202500	Tee hee... My sweet hunter...
+2202501	Your blood is tainted...
+2202502	I can't... ha... I can't help myself... hahaha haha...
+2202550	Tee hee... My sweet hunter...
+2202600	 
+2202700	Oh, are you all right, brave hunter?
+2202701	I will never leave your side...
+2202750	Oh, are you all right, brave hunter?
+2300000	You there, hunter. Didn't you see the warning?
+2300001	Turn back at once.
+2300002	Old Yharnam, burned and abandoned by men, is now home only to beasts.
+2300003	They are of no harm to those above.
+2300004	Turn back...
+2300005	...or the hunter will face the hunt...
+2300050	You there, hunter. Didn't you see the warning?
+2300051	
+2300052	
+2300053	
+2300054	
+2300055	...or the hunter will face the hunt...
+2300100	...You are a skilled hunter.
+2300101	Adept, merciless, half-cut with blood. As the best hunters are.
+2300102	Which is why I must stop you!
+2300150	...You are a skilled hunter.
+2300151	Adept, merciless, half-cut with blood. As the best hunters are.
+2300200	I should think you still have dreams?
+2300201	Well, the next time you dream, give some thought...
+2300202	to the hunt, and its purpose...
+2300300	I'm afraid this is the best an old hunter can do...
+2300301	But remember one thing. You're not hunting beasts.
+2300302	You're hunting people...
+2300400	Well, well... How did you get in here?
+2300401	Ah, it's no matter.
+2300402	What brings you to Old Yharnam?
+2300403	I've no interest in matters further up, but you must not disturb this place.
+2300404	The beasts do not venture above, and mean no harm to anyone.
+2300405	If you still insist on hunting them, then I will hunt you first.
+2300406	You understand me?
+2300450	Well, well... How did you get in here?
+2300500	Yes, very good.
+2300501	I no longer dream, but I was once a hunter, too.
+2300502	There's nothing more horrific than a hunt.
+2300503	In case you've failed to realize...
+2300504	The things you hunt, they're not beasts. They're people.
+2300505	One day, you will see...
+2300506	Hmm, it's time you got going...
+2300507	But first, a farewell gift. I have no use for it anyway.
+2300553	In case you've failed to realize...
+2300600	What is it? Surely I need not repeat myself.
+2300601	Go, I say.
+2300602	You have the whole night to dream. Make the best of it.
+2300700	Of course, I thought as much.
+2300701	You are a true hunter. Which is why I must stop you!
+2300751	You are a true hunter. Which is why I must stop you!
+2300800	Heheh, you devious rat!
+2300801	The makings of a true hunter, this fellow!
+2300802	The makings of a true hunter, this lass!
+2300803	Very well. Then there's no need to hold back!
+2300804	The beasts will feast tonight!
+2300850	Heheh, you devious rat!
+2300900	Is it the blood, or are you just raving mad?
+2300901	When the frail of heart join the fray...
+2300902	The hunter becomes the hunted!
+2300950	Is it the blood, or are you just raving mad?
+2300951	
+2300952	The hunter becomes the hunted!
+2301000	You still dream, I should think?
+2301001	Then come as often as you like, and I will show you another death.
+2301002	Even a beast will feel pain, eventually...
+2301100	...It's you... you're the beast...
+2301101	Just think about what you're doing. It's utter madness...
+2301200	 
+2301300	 
+2301400	 
+2301500	Don't you understand?
+2301501	All beasts were once men.
+2301502	Where is the profit in their murder?
+2301503	Why?
+2301504	Why insist on hunting us?
+2301505	We will never leave Old Yharnam.
+2301506	What possible harm could we cause?
+2301507	Whatever feeds your bloodlust...
+2301508	...is of your own creation, not ours!
+2301558	...is of your own creation, not ours!
+2400000	You're a beast hunter, aren't you?
+2400001	I knew it. That's precisely how I started out!
+2400002	Oh, beg pardon, you may call me Alfred.
+2400003	Protégé of Master Logarius, hunter of Vilebloods.
+2400004	So, what say you? Our prey might differ, but we are hunters, the both of us.
+2400005	Why not cooperate, and discuss the things we've learned?
+2400050	You're a beast hunter, aren't you?
+2400051	
+2400052	
+2400053	
+2400054	So, what say you? Our prey might differ, but we are hunters, the both of us.
+2400100	Oh-hoh! Very good, very good indeed!
+2400101	Take this, to celebrate our acquaintance.
+2400102	Beast hunting is a sacred practice. May the good blood guide your way.
+2400200	Well, that's most unfortunate.
+2400201	But, if you have a change of heart, you know where to come.
+2400202	We are, after all, fellow hunters, and tonight we hunt!
+2400252	We are, after all, fellow hunters, and tonight we hunt!
+2400300	Oh, changed our mind, have we?
+2400301	Then perhaps we can cooperate, and discuss what we've learned.
+2400400	There must be oodles for us to share.
+2400401	Go on, just tell me what piques your interest.
+2400500	Oh-hoh! Good to see you safe.
+2400501	Now, let's think up something to discuss.
+2400502	Just tell me what piques your interest.
+2400600	As you know, the Healing Church is the fountainhead of blood healing.
+2400601	Well, I'm a simple hunter, quite unfamiliar with the ins and outs of the institution.
+2400602	But I have heard that the holy medium of blood healing is venerated in the main cathedral.
+2400603	And that councilors of the old church reside in the high stratum of the Cathedral Ward.
+2400604	If you seek blood healing, and the church is willing, you should pay them a visit.
+2400700	Byrgenwerth is an old place of learning.
+2400701	And the tomb of the gods, carved out below Yharnam, should be familiar to every hunter.
+2400702	Well, once a group of young Byrgenwerth scholars discovered a holy medium deep within the tomb.
+2400703	This led to the founding of the Healing Church, and the establishment of blood healing.
+2400704	In this sense, everything sacred in Yharnam can be traced back to Byrgenwerth.
+2400705	But today, the college lies deep within a tangled wood, abandoned and decrepit.
+2400706	And furthermore, the Healing Church has declared Byrgenwerth forbidden ground.
+2400707	It's unclear how many of its scholars remain alive...
+2400708	...but only they know the password that allows passage through the gate.
+2400800	Long ago, Old Yharnam was overrun by the plague of beasts, and left to rot and decay.
+2400801	It was blocked off for good, and now the only voices heard there are the howls of beasts.
+2400802	One of the Holy Chalices that unlocks the tomb of the gods is said to be there.
+2400803	The church is determined to obtain this Old Yharnam chalice...
+2400804	But we've yet to hear word of any success. Perhaps they're facing some difficulties?
+2400900	Ahh, there's something I want to tell you.
+2400901	A bit of wisdom from the eminent Master Logarius!
+2400902	Once, a scholar betrayed his fellows at Byrgenwerth...
+2400903	...and brought forbidden blood back with him to Cainhurst Castle.
+2400904	It was there that the first of the inhuman Vilebloods was born.
+2400905	The Vilebloods are fiendish creatures who threaten the purity of the Church's blood healing.
+2400906	The Ruler of the Vilebloods is still alive today.
+2400907	And so, to honor my master's wishes, I search.
+2400908	For the path to Cainhurst Castle.
+2401000	In his time, Master Logarius led his executioners into Cainhurst Castle to cleanse it of the Vilebloods.
+2401001	But all did not go well, and Master Logarius became a blessed anchor, guarding us from evil.
+2401002	...Tragic, tragic times...
+2401003	...that Master Logarius should be abandoned in the accursed domain of the Vilebloods.
+2401004	I must free him, so that he may be properly honored in martyrdom.
+2401100	Ah-hah! Is that... the sigil of Cainhurst?
+2401101	I've heard tell of Cainhurst nobles, and their amusingly pompous invitations.
+2401102	Wonderful! I thank you profusely...
+2401103	I will depart immediately. But first, a token of my gratitude.
+2401104	Ahh, I feel my master's hand at work.
+2401105	Praise the good blood!
+2401106	And let us cleanse these tarnished streets.
+2401200	I bid you farewell. It has been a pleasure.
+2401201	May the good blood guide your way.
+2401300	It has been an honor, but I must say good-bye.
+2401301	Let us cleanse these tarnished streets.
+2401302	And may the good blood guide your way.
+2401400	Master, look! I've done it, I've done it!
+2401401	I smashed and pounded and grounded this rotten siren into fleshy pink pulp!
+2401402	There, you filthy monstrosity!
+2401403	What good's your immortality now! Try stirring up trouble in this sorry state!
+2401404	All mangled and twisted, with every inside on the outside, for all the world to see!
+2401405	He heh hah hah Hah!
+2401406	He heh heh ha ha haah!
+2401500	 
+2401501	Oh, you, is it?
+2401502	Look at this! Thanks to you, I've done it!
+2401503	Well? Isn't it wonderful? Now master can be canonized as a true martyr!
+2401504	Ha ha ha ha ha ha!
+2401505	I've done it, I have!!!
+2401506	Hah h-hah ha ha hah!
+2401600	Just what is the meaning of this?
+2401601	Why turn your blade on me?
+2401602	You're jealous! Aren't you!
+2401700	But, why...
+2401701	Oh, a mercy killing! So must I pass on in my prime...
+2401702	Yes, of course... So thoughtful, as always...
+2401703	Pray for Master Logarius in my stead...
+2401751	Oh, a mercy killing! So must I pass on in my prime...
+2401752	Yes, of course... So thoughtful, as always...
+2401800	A hunter's grudge is an awful thing.
+2401801	You must find your own way on this hunt.
+2401802	As I have mine.
+2401803	Ha ha ha ha ha!
+2401804	Hah hah hah hah hah!
+2401851	You must find your own way on this hunt.
+2401900	 
+2401901	 
+2402000	 
+2402100	Unclean wench!
+2402101	Vile monstrosity!
+2402102	Bloody fool!
+2402103	Has the blood gone to your head?
+2402104	Pathetic!
+2402105	As you deserve!
+2402106	The blood!
+2402107	You've spilled my blood!
+2402152	Bloody fool!
+2402153	
+2402154	
+2402155	
+2402156	
+2402157	You've spilled my blood!
+2402200	 
+2402300	You'll... regret this...
+2402301	I had hopes for you...
+2402400	You damned fool...
+2402401	You let the blood get the best of you...
+2402402	Heh heh heh...
+2402450	You damned fool...
+2402451	You let the blood get the best of you...
+2402500	Here I am! At your service!
+2402501	 
+2402600	Ahh, glad you made it!
+2402601	Terrific!
+2402602	Good hunting! To the both of us.
+2402652	Good hunting! To the both of us.
+2402700	 
+2500000	Oh, a hunter, are ya? And an outsider?
+2500001	What a mess you've been caught up in. And tonight, of all nights.
+2500002	Here, to welcome the new hunter.
+2500003	Prepare yourself for the worst.
+2500004	There are no humans left. They're all flesh-hungry beasts, now.
+2500050	Oh, a hunter, are ya? And an outsider?
+2500051	What a mess you've been caught up in. And tonight, of all nights.
+2500052	Here, to welcome the new hunter.
+2500100	Still lingering about?
+2500101	What's wrong? A hunter, unnerved by a few beasts?
+2500102	Heh heh...
+2500103	No matter. Without fear in our hearts, we're little different from the beasts themselves.
+2500151	What's wrong? A hunter, unnerved by a few beasts?
+2500200	What are you still doing here?
+2500201	Enough trembling in your boots.
+2500202	A hunter must hunt.
+2500252	A hunter must hunt.
+2500300	Oh, hello there.
+2500301	Perfect timing. I must warn you...
+2500302	...not to go near the tomb below Oedon Chapel in the Cathedral Ward.
+2500303	Henryk, an old hunter, has gone mad.
+2500304	And he's my mark...
+2500400	Don't go near the tomb below Oedon Chapel in the Cathedral Ward.
+2500401	I have business there first...
+2500402	 
+2500500	You ignored my warning...
+2500501	You killed Henryk...
+2500502	And made it back alive. Not bad at all.
+2500503	You must've killed Gascoigne as well, then?
+2500504	 
+2500505	They were falling apart... I'm sure it had to be done.
+2500506	But try to keep your hands clean.
+2500507	A hunter should hunt beasts.
+2500508	Leave the hunters to me...
+2500509	 
+2500550	You ignored my warning...
+2500551	You killed Henryk...
+2500552	And made it back alive. Not bad at all.
+2500553	You must've killed Gascoigne as well, then?
+2500554	
+2500555	
+2500556	
+2500557	A hunter should hunt beasts.
+2500600	 
+2500601	That wasn't necessary of you...
+2500602	But you have my thanks.
+2500603	We made it, with our lives. You're not bad at all.
+2500604	You must've killed Gascoigne as well, then?
+2500605	 
+2500606	He was falling apart, I'm sure it had to be done.
+2500607	But try to keep your hands clean.
+2500608	A hunter should hunt beasts.
+2500609	Leave the hunting of hunters to me...
+2500610	 
+2500651	That wasn't necessary of you...
+2500652	
+2500653	We made it, with our lives. You're not bad at all.
+2500654	You must've killed Gascoigne as well, then?
+2500655	
+2500656	
+2500657	
+2500658	A hunter should hunt beasts.
+2500700	Try to keep your hands clean.
+2500701	Leave the hunting of hunters to me...
+2500702	 
+2500800	Oh, is that you again?
+2500801	I'm afraid I've made a bit of a blunder. I'm just going to have a short rest.
+2500802	Oh, don't worry, I've taken blood. Enough to save an old woman.
+2500803	No more dreams for me. This is my last chance.
+2500804	What a fool I am. I'll have to tread carefully.
+2500805	But that thing still lies in wait.
+2500806	Turn back. This is my score to settle.
+2500900	My prey lies in wait this way.
+2500901	Turn back. This is my score to settle.
+2501000	Don't you ever listen to your elders?
+2501001	No matter, you did save my life.
+2501002	I don't seem to be apt for this life anymore...
+2501003	My glory days were long ago now...
+2501004	 
+2501005	Hmmm, I know...
+2501006	Here, for you.
+2501007	This too is hunters' work, but it bears no honor. A burden you may choose to carry.
+2501008	The decision is yours alone. 
+2501009	Ahh, my eyes grow heavy...
+2501010	Let me rest a while...
+2501011	...I'll be fine, just wait...
+2501051	No matter, you did save my life.
+2501100	 
+2501200	Intoxicated by the hunt, drenched in the blood of beasts...
+2501201	What a sorry state you're in.
+2501202	I will be merciful, on my hunter's honor...
+2501250	Intoxicated by the hunt, drenched in the blood of beasts...
+2501300	 
+2501301	Few hunters can resist the intoxication of the hunt.
+2501302	Look at you, just the same as all the rest...
+2501303	The hunters must die... The nightmare must end...
+2501304	Only I can stop this madness!
+2501305	 
+2501306	 
+2501352	Look at you, just the same as all the rest...
+2501400	 
+2501500	 
+2501600	 
+2501700	Look at you, you sorry drunk.
+2501701	I'll string you up like the filthy beast you are.
+2501702	You shall not abscond your crimes!
+2501703	Were you not once a hunter?
+2501704	Is this sincerely what you want?
+2501705	That's enough now...
+2501706	No one will blame you...
+2501750	Look at you, you sorry drunk.
+2501751	
+2501752	
+2501753	Were you not once a hunter?
+2501800	You can't go on like this...
+2501801	I pity you. A hunter gone mad for the hunt...
+2501851	I pity you. A hunter gone mad for the hunt...
+2501900	You still have dreams?
+2501901	Then take a rest, and get your feet back on the ground.
+2501902	...Tell the little doll I said hello...
+2502000	The beasts cannot be stopped.
+2502001	What good are hunters now?
+2502002	Your blood is mine!
+2502003	A hunter's blood for me!
+2502004	Your punishment is death!
+2502005	Death to hunters!
+2502006	Enough of this terrible dream!
+2502007	 
+2502008	 
+2502053	A hunter's blood for me!
+2502100	...Ahh... you monsters...
+2502101	All hunters must die!
+2502102	 
+2502200	The hunt makes hunters mad...
+2502201	Look at you, you're no different...
+2502202	 
+2600000	Seek the old blood.
+2600001	Let us pray, let us wish.
+2600002	To partake in communion.
+2600003	Let us partake in communion,
+2600004	and feast upon the old blood.
+2600005	Our thirst for blood satiates us, soothes our fears. Seek the old blood.
+2600006	But beware the frailty of men.
+2600007	Their wills are weak, minds young.
+2600008	The foul beasts will dangle nectar, and lure the meek into the depths.
+2600009	Remain wary of the frailty of men.
+2600010	Their wills are weak, minds young.
+2600011	Were it not for fear, death would go unlamented.
+2700000	What's the password?
+2700100	Ahh, my first visitor in two decades.
+2700101	I suppose it's just that kind of a night.
+2700150	Ahh, my first visitor in two decades.
+2700200	Well go on, then, buzz off!
+2700201	The hunt is on tonight. No need to throw yourself to the wolves.
+2700202	Now, be gone!
+2700300	I don't know how a hunter learned the password, but let me say this much...
+2700301	Down the embankment, beyond the forest, there it stands, old Byrgenwerth.
+2700302	But it's not what you think.
+2700303	They don't welcome newcomers, and their knowledge is better left untouched.
+2700304	No, the old college is not what it once was.
+2700305	Those who enter, never return. At least, not as who they were upon entering.
+2700306	...Don't say you weren't warned...
+2700350	I don't know how a hunter learned the password, but let me say this much...
+2700400	I cannot stop anyone who knows the password.
+2700401	I can only warn them.
+2700402	So, go on, visitor. For that's what the master wishes of you.
+2700403	Sometimes, master's whims are most mystifying...
+2700452	So, go on, visitor. For that's what the master wishes of you.
+2700500	I cannot stop anyone who knows the password.
+2700501	You are free to go.
+2700600	...Ahh, ahh, ahh, a nightmare is upon us...
+2700601	Is this your doing, great master?
+2700602	Does it mean that my work is done?
+2700603	Ahh, ahh...
+2700604	Ohhhhhhh...
+2700700	Pass... word...
+2700701	The password...
+2700702	Say... the password...
+2700703	Say it, now...
+2700800	 
+2700801	 
+2700802	...password... Got to close the...
+2700900	 
+2701000	 
+2701100	Ahh, ahh, ohhhhh....
+2701101	I... I have failed...
+2701102	Forgive me... forgive me, Master Willem...
+2800000	Master Willem, I've come to bid you farewell.
+2800001	No, but you will never listen.
+2800002	I tell you, I will not forget our adage.
+2800003	Fear the old blood.
+2800004	I must take my leave.
+2800100	So, you're intent on hunting beasts?
+2800101	Even if they are men?
+2800102	But why must you...
+2800103	Indeed, Gehrman. It won't be long...
+2800104	…
+2800200	So, you're intent on hunting beasts?
+2800201	Even if... they are...
+2800202	But, Gehrman...
+2800203	Why must you...
+2800204	Indeed. It won't be long...
+2800205	…
+2809004	I must take my leave, Master Willem.
+2900000	...Oh, a hunter of beasts, are you?
+2900001	Glory be. You know not the value you possess.
+2900002	...But, more's the pity...
+2900003	The hours of the night are many, and the beasts more than I can count. A veritable hunt unending!
+2900004	Not even death offers solace, and the blood imbibes you.
+2900005	Ha, a most frightful fate, oh my.
+2900006	But I'm willing to do you a kindness.
+2900007	Step lightly round to the right of the great cathedral, and seek an ancient, shrouded church.
+2900008	...The gift of the godhead will grant you strength...
+2900009	Yes, I'm unquestionably certain, heheh...
+2900050	...Oh, a hunter of beasts, are you?
+2900051	Glory be. You know not the value you possess.
+2900052	
+2900053	
+2900054	
+2900055	Ha, a most frightful fate, oh my.
+2900100	Not even death offers solace, and the blood imbibes you.
+2900101	Seek you the ancient, shrouded church hidden to the right of the main cathedral.
+2900102	...The gift of the godhead will grant you strength...
+2900200	 
+2900201	Oh Amygdala, oh Amygdala...
+2900202	Have mercy on the poor bastard...
+2900203	 
+2900252	Have mercy on the poor bastard...
+2900300	 
+2900301	What a joy it is, to behold the divine.
+2900302	It must be such a pleasure. You're in my debt, you know.
+2900303	You're nigh on a beast of the field, but here you are, treading a measure with the gods.
+2900304	 
+2900400	 
+2900401	Are your feet as fat as your wits?
+2900402	Oh, cease this dithering! Take the plunge! Throw yourself to the wolves!
+2900403	 
+2900404	 
+2900500	 
+2900501	Well, well! Perchance... a shortcut, here?
+2900502	Thank me not, your countenance speaks volumes.
+2900503	 
+2900600	 
+2900601	Don't dally, you lucky scamp!
+2900602	The gift of the godhead cometh!
+2900603	 
+2900604	 
+2900651	Don't dally, you lucky scamp!
+2900700	 
+2900701	Oh, this cannot be, you cannot be...
+2900702	No, you didn't... lord Amygdala...
+2900703	...How did this come to pass?
+2900800	Hmph! Now, wait just a moment...
+2900801	Do you think ill of me, me?
+2900900	Oh, it pains me to hear it. You've made yourself a misreckoning.
+2900901	I shared with you a thing most secret. Now you're witness to a miracle, and all the stronger for it!
+2900902	It's plain as a pikestaff.
+2900903	Now, say in my heart, you were as a lamb to my god.
+2900904	Well, you weren't to know, and it wasn't for you to know. All's well, that ends well, I say.
+2900905	 
+2900951	I shared with you a thing most secret. Now you're witness to a miracle, and all the stronger for it!
+2900952	
+2900953	Now, say in my heart, you were as a lamb to my god.
+2900954	Well, you weren't to know, and it wasn't for you to know. All's well, that ends well, I say.
+2901000	Indeed, I should think not!
+2901001	I shared with you a thing most secret. Now you're witness to a miracle, and all the stronger for it!
+2901002	You should appreciate it, if you've a grain of gratitude in you!
+2901003	 
+2901004	Appreciate it!
+2901051	I shared with you a thing most secret. Now you're witness to a miracle, and all the stronger for it!
+2901052	You should appreciate it, if you've a grain of gratitude in you!
+2901100	No matter.
+2901101	Such details are trifling. We're fast friends by now.
+2901102	Let this express what words cannot.
+2901103	Oh, doubt me not, sweet compeer. What is friendship, but a chance encounter?
+2901104	 
+2901153	Oh, doubt me not, sweet compeer. What is friendship, but a chance encounter?
+2901200	Ahh, well met.
+2901201	My apologies, but I feel a profound thought occurring...
+2901202	On the good grace of a certain god, and the way he meted out his love.
+2901203	 
+2901250	Ahh, well met.
+2901300	Ahh, well met.
+2901301	This is a most pleasing encounter. You see, I must depart erelong.
+2901302	My god is lost to me, so I must away to find another.
+2901303	If the fates are kind, our paths may cross again.
+2901304	Sooner still... if you were you to take the leap...
+2901305	 
+2901306	 
+2901350	Ahh, well met.
+2901400	Oh, think not of poor Amygdala.
+2901401	Upon that piteous bastard, you bestowed salvation.
+2901402	 
+2901403	All's well that ends well.
+2901404	 
+2901500	Aah! The sight of you is as balm to my eyes!
+2901501	Truly, you are an indubitable, irrefutable friend!
+2901502	And, my dear compeer, I vow once more to ease your burden!
+2901503	 
+2901551	Truly, you are an indubitable, irrefutable friend!
+2901552	And, my dear compeer, I vow once more to ease your burden!
+2901600	The time has come again I fear.
+2901601	But if the fates smile upon us, we'll soon meet again.
+2901602	Farewell, dear friend.
+2901603	 
+2901652	Farewell, dear friend.
+2901700	What troubles you, dear companion?
+2901701	Are you in need of my assistance?
+2901750	What troubles you, dear companion?
+2901800	Are you lacking, or just lost?
+2901850	Are you lacking, or just lost?
+2901900	 
+2901901	 
+2902000	 
+2902100	Ergh, that was uncharitably done...
+2902101	That was uncharitably done, dear friend...
+2902102	 
+2902151	That was uncharitably done, dear friend...
+2902200	Betrayer! False friend...
+2902250	Betrayer! False friend...
+3200000	 
+3200001	 
+3200002	Oh, you haven't by any chance... seen my little sister, have you?
+3200003	I told her to look after the house, but she's run off somewhere.
+3200004	She's still quite small, and wears a big white ribbon.
+3200005	Have you seen her out there anywhere?
+3200050	 
+3200051	
+3200052	Oh, you haven't by any chance... seen my little sister, have you?
+3200053	
+3200054	
+3200055	Have you seen her out there anywhere?
+3200100	Oh, how did this happen...
+3200101	Why would she ever go outside?
+3200102	 
+3200103	 
+3200104	 
+3200105	At least... I'll have something to remember her by.
+3200200	What a perfect ribbon... And now it's mine...
+3200201	I can't wait to try it on...
+3200202	 
+3200300	Oh, it's wonderful...
+3200301	 
+3200400	Oh, okay then.
+3200401	But if you do see her, would you give me word?
+3200402	She's a small girl, with a big white ribbon.
+3200403	My good little sister...
+3200500	Oh, back again?
+3200501	Any news of my sister?
+3200600	 
+4000000	Lousy offcomer.
+4000001	Who'd open their door on a night of the hunt!
+4000002	Away with you. Now!
+4000050	Lousy offcomer.
+4100100	What do you want, stranger?
+4100101	I'll have no business with anyone, while the hunt's on.
+4100102	Good luck staying alive till morning.
+4100150	What do you want, stranger?
+4100151	
+4100152	Good luck staying alive till morning.
+4200200	Are you that outsider?
+4200201	Well, sorry, but I don't want anything to do with ya.
+4200202	Trot along, willya.
+4200250	Are you that outsider?
+4300300	No one's home.
+4300301	 
+4400400	 
+4400401	Good hunting, mate.
+4400402	We're all fine in here.
+4400403	Nobody's sick, not even a sniff of a cold.
+4400404	Don't you worry about us at all...
+4400405	 
+4400451	Good hunting, mate.
+4500500	 
+4500501	Praise you... praise the whole damn church...
+4500502	And best of luck hunting, best luck of all!
+4500503	 
+4500504	 
+4500551	Praise you... praise the whole damn church...
+4600600	...Bless us with blood...
+4600601	...Bless us with blood...
+4700700	Who are you?
+4700701	Another one... another beast?
+4700702	Yeah, I knew it...
+4700703	I knew it all along...
+4700704	You can't fool me!
+4800800	 
+4800801	A night of curses, a night to remember!
+4800802	Wouldn't you say, friend?
+4800803	 
+4800852	Wouldn't you say, friend?
+4900900	Help me...
+4900901	Please help...
+4900902	 
+5001000	Ahhhh!
+5001001	Stop! You stop right there!
+5001002	Not an inch closer!
+5001003	 
+5101100	 
+5101101	A celebration, a great night of celebration!
+5101102	 
+5201200	 
+5301300	 
+5401400	 
+5501500	 
+6000000	Wretched outsider!
+6000001	Tryin' to fool me to open this door?
+6000002	Heavens, the depths of depravity...
+6000050	Wretched outsider!
+6100100	I don't reckon you're from 'round here!
+6100101	Well, pffft, stuck outside on a night of the hunt!
+6100102	Ahh, you poor, poor thing...
+6100103	 
+6100151	Well, pffft, stuck outside on a night of the hunt!
+6100152	Ahh, you poor, poor thing...
+6200200	Ohh, I'm terribly sorry...
+6200201	There's no one home...
+6200202	I'm really, really sorry...
+6200203	So sorry for ya...
+6300300	 
+6300301	 
+6400400	 
+6400401	Wh-what is it?
+6400402	We're all fine here, tip-top shape!
+6400403	No sickness here, no sign of trouble!
+6400404	So, don't you worry...
+6400405	 
+6500500	Ahh, ohh...
+6500501	Oh, we've the deepest gratitude!
+6500502	For the church, and all they do for us.
+6500503	The deepest, widest, gratitude, yes!
+6500504	 
+6600600	...Bless us with blood...
+6600601	...Bless us with blood...
+6700700	...Oh, heavens... would you stop that?
+6700701	Every peep you make brings us bad luck!
+6700702	I have it bad enough already...
+6700703	 
+6700704	Please, just leave a poor old woman be...
+6700705	 
+6800800	Too many corpses tonight...
+6800801	This grave is too, too shallow.
+6800802	So, go along home, and do me a favor...
+6800803	Come back as a corpse!
+6800804	 
+6900900	Do you hear the graveyard murmurs?
+6900901	Then it's almost time.
+6900902	Oh, I can't wait.
+6900903	I just can't wait!
+6900904	 
+7001000	Oh! Ah!
+7001001	My baby! My precious, little baby!
+7001002	Stay away, stay away from us!
+7001003	Ahhhhhh!
+7001004	Ahhhhhhhh!
+7101100	 
+7101101	Poor you! Poor, poor you!
+7101102	 
+7101151	Poor you! Poor, poor you!
+7201200	 
+7301300	 
+7401400	 
+7501500	 

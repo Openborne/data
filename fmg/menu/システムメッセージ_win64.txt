@@ -1,0 +1,110 @@
+1	OK
+2	CANCEL
+3	YES
+4	NO
+5	Accept
+6	Do Not Accept
+7	
+8	
+18300	<?selectUD?>:Select <?conclusion?>:Details <?categoryChangeL?>:Previous 100 <?categoryChangeR?>:Next 100 <?shortCutL?>:Show top <?shortCutR?>:Your Grades
+41000	This will delete selected profile.\nIs this OK?
+45000	This game uses an auto-save feature. Do not \npower off the PlayStation®3 system when the \nHDD access indicator is flashing.
+45001	Save file version differs from game version.\nQuit game and sign in to PlayStation®Network\nto download update.
+45100	There is not enough available space on the hard disk drive. \nTo play Dark Souls, at least <?dataSize?> MB is required. \n\nPlease quit the game and make space on the HDD.
+45101	
+45102	
+45103	There is not enough available space on the HDD. \nTo install the Trophy Set, \nat least <?dataSize?>d KB of space is required.  \n\n\nSelect [OK] to start the Delete Utility.\nSelect [CANCEL] to cancel installation.
+45104	
+45105	
+45106	
+45107	
+45108	
+45109	
+45110	SAVE DATA was corrupted.
+45111	SAVE DATA was corrupted.\nWould you like to create new SAVE DATA?\nThe current SAVE DATA will be overwritten.\n\nSelect OK to overwrite SAVE DATA.\nSelect CANCEL to reload current SAVE DATA.
+45112	
+45113	
+45114	
+45115	
+45116	
+45117	
+45118	
+45119	
+45120	Failed to load SAVE DATA.
+45121	Failed to load SAVE DATA\nWould you like to create new SAVE DATA?\nThe current SAVE DATA will be overwritten.\n\nPress the CANCEL button to reload SAVE DATA
+45122	Last time, the game may have been closed before \nquitting to the Title Screen first. To quit to the \nTitle Screen, always select the Quit Game option \nfrom the System tab in the Start Menu.\n\nFailing to quit the game properly can result\nin losing some progress.
+45200	Failed to save SAVE DATA
+45201	Failed to save SAVE DATA
+45250	Failed to install Trophy Set\nQuit the game and reload DARK SOULS\nto reinstall
+45400	You can't create any more characters.\nDelete an existing character and create a new one?\n\n*You can create up to 10 characters.
+47000	Checking number of files
+47100	Loading SAVE DATA\nDo not turn off the system.
+47101	Checking SAVE DATA\nDo not turn off the system.
+47102	Loading...\nDo not turn off the system.
+47103	
+47104	
+47105	
+47106	
+47107	
+47108	
+47109	
+47110	Updating SAVE DATA...\nDo not turn off the system.
+47111	Updating SAVE DATA...\nDo not turn off the system.
+47112	Making SAVE DATA...\nDo not turn off the system.
+47113	Deleting Profile...\nDo not turn off the system.
+47114	
+47115	
+47116	
+47117	
+47118	
+47119	
+47120	Resetting Trophy Set...\nDo not turn off the system.
+47121	Installing Trophy Set...\nDo not turn off the system.
+48000	Discard changes and return
+50001	Acquiring Ranking Data
+50002	Ranking Data cannot be acquired in Offline Mode
+50501	Start game in Offline Mode
+50502	You need to be signed in to PlayStation®Network\nto access Network Play. Please check the\nnetwork connection.
+50503	Parental lock is set on your\nPlayStation®Network account.\nOnline Service cannot be used.
+50504	You are not signed in to PlayStation®Network.\nYou must sign in to access Network Play.\nWould you like to sign in now?
+50505	A network error has occurred.\nCannot use Network Play.
+50506	Network Play cannot be used with this\nversion.
+50507	You are not signed in. Do you still wish\nto start the game? You will only be able\nto play offline.
+50520	Service not available at this time\nYou will only be able to play offline
+50521	Service not yet available\nYou will only be able to play offline
+50522	Currently undergoing maintenance\nYou will only be able to play offline
+50523	No response from server\nYou will only be able to play offline
+50524	Cannot use server at this time\nYou will only be able to play offline
+50525	Cannot use server at this time\nYou will only be able to play offline
+51100	You have been signed out from\nPlayStation®Network.\nReturning to the Title Screen.
+65400	
+65401	
+65402	
+65403	
+65404	
+65405	
+65406	
+65407	
+65408	
+65409	
+65410	Downloading advanced data
+65411	Failed to download advanced data\n\n*Advanced data is only tallied for players near top
+65412	Acquiring your data
+65413	Your data was not found
+70000	
+20001000	Session lost.
+20001001	Network connection has become unstable.\nLeaving session.
+20001002	You have signed out from PlayStation®Network.\nReturning to the Title Screen...
+20001003	Failed to create session.
+20001004	Failed to join session.
+20001005	You have signed out from PlayStation®Network.\nReturning to the Title Screen...
+20001006	
+20001007	
+20001008	
+20001009	
+20001010	You have signed out from PlayStation®Network.\nYou must sign in to access Network Play.\nReturning to the Title Screen...
+20001011	
+20001012	
+20001013	
+20001014	
+20001015	P2P connection has been lost\nReturning to Main Menu

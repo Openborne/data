@@ -1,0 +1,266 @@
+40330	Restore to default settings
+40331	Confirm settings and continue
+101000	View items in your possession
+101001	Change game settings or exit game
+101002	Equip weapon
+101003	Equip protection
+101004	Equip quick items
+101005	Equip magic/bullets
+101006	Check status
+102000	Select item to use
+103000	Select weapon/attire to equip
+104000	Select item to equip
+105000	Check status
+110000	Set controls
+110001	Adjust the game environment
+110002	Adjust the brightness level
+110003	Change network settings
+110004	Exit game and return to title menu
+110005	Change language settings
+111000	Change environment
+111101	Turn subtitles ON/OFF
+111102	Turn HUD ON/OFF
+111103	Adjust music volume
+111104	Adjust sound effects volume
+111105	Adjust voice volume
+112000	Adjust the brightness level
+113000	Change controls
+113100	Change camera x-axis
+113101	Change camera y-axis
+113102	
+113103	Set camera movement speed
+113104	Auto lock-on to new target when former target dies
+113105	
+113106	Set whether the camera automatically avoids walls
+113107	Set strength of controller vibration
+114000	Change network settings
+114100	Set region for matching
+114101	Change options for display of player names
+114102	Edit to match with players using the same password
+115000	Change language settings. Changes applied on exit
+115100	Change text language
+115101	Change voice language
+211000	Select attribute to boost
+211001	
+211002	
+211003	
+211004	
+211005	
+211006	
+211007	
+211008	
+211009	
+211010	Spend Blood Echoes and level up
+212000	Select Caryll Rune to remember
+212001	Select place to remember
+221000	Select weapon to fortify
+222000	Select weapon to fuse blood gem
+222001	Select place to attach
+222002	Select blood gem to fuse
+223000	Select item to repair
+231100	Select item to buy
+231101	Select weapon to use
+232100	Select item to sell
+241000	Select location to awaken in
+251100	Select item to store
+251101	
+251102	
+251103	
+251104	
+251105	
+251106	
+251107	
+251108	
+251109	
+251110	Select item to take
+262000	Conduct Chalice Ritual to create Chalice Dungeon
+262001	Find accessible Chalice Dungeon
+262002	Find Chalice Dungeon using Chalice Glyph
+262003	
+262004	Share Chalice Dungeon after you have completed ritual
+262005	Remove chalice, expunge dungeon, and erase progress.
+262006	
+262007	*
+262008	Expend ritual materials to extract their mysterious haze
+262009	
+262010	
+262011	
+262012	
+262013	
+262014	*
+262015	*
+262101	Select location to awaken in
+263000	Select chalice to use in ritual
+263001	Select additional rite
+263002	Conduct Chalice Ritual to create Chalice Dungeon
+265000	Share with all online players
+265001	Can only be accessed\nusing Chalice Glyph
+266000	Set Chalice Dungeon search preferences
+266001	Search for Chalice Dungeon using set preferences
+266002	Results of the Chalice Dungeon search
+266100	Set Chalice Dungeon search preferences
+266200	Set Chalice Dungeon search preferences
+266300	Set Chalice Dungeon search preferences
+266400	Set Chalice Dungeon search preferences
+269001	Quick-search and join an accessible Chalice Dungeon
+269002	Quick-search Hunters from other worlds and begin co-op
+269003	Quick-search Hunters from other worlds to threaten
+269101	Select location to awaken in
+271000	Select ritual materials to extract haze from
+302000	Select player to part with
+302110	Silence Beckoning Bell and cease co-op
+302111	Silence Bell and stop helping other world's Hunter
+302112	Silence Bell and cease threat
+302113	This function is not currently available
+302114	
+302115	
+302116	
+302117	
+302118	
+302119	
+302120	Silence Small Bell and select Hunter to rebuff
+302121	Silence Small Bell and return to own world
+302122	Silence Sinister Bell and return to own world
+302123	This function is not currently available
+305000	Display Vileblood hierarchy
+305100	Display Vileblood hierarchy
+310000	Write a note
+310001	List of recently written notes
+310002	List of recently read notes
+321000	Edit note contents
+321001	Change bound gesture
+321002	Finalize note
+321003	Select template
+321004	Select gesture to bind
+321005	Select word category
+321006	
+321007	Select word
+321008	Select conjunction
+322000	List of recently written notes
+324000	List of recently read notes
+402011	Add name to Contract Ledger
+402012	Select gender
+402013	Select age
+402014	Enter origin
+402015	
+402016	Fine-tune appearance
+402017	Finish process
+402018	Finish fine-tuning appearance
+402201	Male\nGender has no bearing\non ability
+402202	Female\nGender has no bearing\non ability
+402301	Young\nAge only affects appearance,\nand has no bearing on ability
+402302	Mature\nAge only affects appearance,\nand has no bearing on ability
+402303	Aged\nAge only affects appearance,\nand has no bearing on ability
+402401	Ordinary, happy upbringing.\nAll attributes average.
+402402	Lone survivor of lost hamlet.\nHigh life essence and vigor.
+402403	Suffered misfortune in youth.\nHighly resilient as a result.
+402404	Terribly violent past.\nRash, but stronger for it.
+402405	Born specialist, fit for\nsleuthing or academia.
+402406	Experienced in war. A soldier\nwith strength and skill.
+402407	Scion to a respectable line\nwith faith in your pedigree.
+402408	Faced terrible hardships, but\nnow confident in your purpose.
+402409	You are nothing. Talentless.\nYou shouldn't have been born.
+402410	(Not Needed)
+406000	Select profile to load
+406001	Select profile to delete
+420012	Reset fine-tuned appearance to default
+421100	Select build
+421101	
+421102	
+421103	
+421104	
+421105	
+421106	
+421107	
+421108	
+421109	
+421110	Average physique
+421111	Trim physique
+421112	Very trim physique
+421113	Muscular physique
+421114	Very muscular physique
+421115	Top-heavy\nmuscular physique
+421116	Bottom-heavy\nmuscular physique
+421117	Proportionally large head\nMust be full of brains
+421118	Proportionally small head
+421300	Edit base skin color
+422100	Fine-tune build
+423100	Select a preset face
+423200	Select size of both eyes
+423300	Edit color of both eyes
+423400	Select brow shape
+423500	Edit brow color
+423600	Select eyelash shape
+423700	Edit eyelash color
+424000	Fine-tune facial appearance
+424100	Edit facial characteristics
+424200	Select randomly generated face
+424300	Select face similar to present face
+424400	Edit facial shape
+424600	Edit skin color and makeup
+425100	Edit facial balance
+425200	Edit forehead and glabella
+425300	Edit brow ridge
+425400	Edit eyes
+425500	Edit nose ridge
+425600	Edit nostrils
+425700	Edit cheeks
+425800	Edit lips
+425900	Edit mouth
+426000	Edit chin
+426100	Edit jaw
+426200	Fine-tune skin color
+426300	Edit eye area
+426400	Edit lipstick
+427100	Select size of right pupil
+427200	Edit color of right pupil
+427300	Select size of left pupil
+427400	Edit color of left pupil
+428000	Edit hair/facial hair
+428001	Edit hair/brow/eyelashes
+428100	Select hair style
+428200	Edit hair color
+428300	Select beard type
+428400	Edit beard color
+428700	Edit hair/brow/beard color
+428701	Edit hair/brow color
+429100	Select appearance of tattoo/mark
+429200	Select glasses
+430000	Edit tattoo/mark/glasses
+430100	Edit tattoo/mark color
+430200	Adjust scale and position of tattoo/mark
+430300	Set color of glasses
+431100	Select voice
+431101	
+431102	
+431103	
+431104	
+431105	
+431106	
+431107	
+431108	
+431109	
+431110	Select young voice
+431111	
+431112	
+431113	
+431114	
+431115	
+431116	
+431117	
+431118	
+431119	
+431120	Select mature voice
+431121	
+431122	
+431123	
+431124	
+431125	
+431126	
+431127	
+431128	
+431129	
+431130	Select aged voice
+432100	Load saved favorite
+432200	Save present settings as favorite
+433000	Edit pupils

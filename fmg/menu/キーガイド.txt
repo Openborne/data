@@ -1,0 +1,147 @@
+10000	<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close
+10001	<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close
+10002	<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close
+10003	<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close
+10004	<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close
+11000	<?selectAll?>:Select　<?conclusion?>:Enter　<?cancel?>:Close　<?commando?>:Toggle Display　<?viewChange?>:Toggle Status　<?HelpMenu?>
+11001	<?selectAll?>:Select　<?conclusion?>:Item Menu　<?cancel?>:Close　<?commando?>:Toggle Display　<?viewChange?>:Toggle Status　<?HelpMenu?>
+11002	<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Cancel　<?viewChange?>:Toggle Status
+11003	<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Cancel　<?viewChange?>:Toggle Status
+11004	<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Close
+11005	<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Close
+11006	<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Close
+11007	<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Close
+12000	<?selectAll?>:Select　<?conclusion?>:Enter　<?cancel?>:Close　<?commando?>:Unequip Item　<?viewChange?>:Toggle Status
+12001	<?selectUD?>:Select　<?conclusion?>:Equip　<?cancel?>:Back　<?commando?>:Toggle Display　<?viewChange?>:Toggle Status
+14000	<?viewChange?>:Toggle Display <?cancel?>:Close <?slectMenuSwitch?>:Explanation
+16000	<?selectUD?>:Select <?selectLR?>:Change <?cancel?>:Back
+16001	<?selectUD?>:Select <?selectLR?>:Change <?cancel?>:Back
+16002	
+16003	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back
+16004	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back
+16005	<?selectUD?>:Select <?conclusion?>:Confirm <?cancel?>:Back
+16006	<?selectUD?>:Select <?conclusion?>:Confirm <?cancel?>:Back
+16007	
+16008	
+16009	
+16010	<?selectUD?>:Select　<?selectLR?>:Change　<?cancel?>Back
+16011	<?selectUD?>:Select　<?selectLR?>:Change　<?cancel?>Back
+16100	<?selectUD?>:Select　<?conclusion?>:Delete　<?cancel?>:Close
+16500	<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Close
+16501	
+16502	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close
+16503	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close
+16600	<?selectLR?>:Select <?conclusion?>:Confirm <?viewChange?>:Switch <?cancel?>:Close
+16601	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close
+17300	<?conclusion?>:<?actionHelp?>
+17301	Switch action
+17400	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close
+17900	<?conclusion?>:Close
+18000	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Cancel
+18200	<?sysmsg@18300?>
+18201	<?cancel?>:Close　<?viewChange?>:Change Display
+18202	
+18203	
+18204	
+18205	
+18206	
+18207	
+18208	
+18209	
+18210	<?sysmsg@18300?>
+18211	<?cancel?>:Close　<?viewChange?>:Change Display
+18300	<?sysmsg@18300?>
+18301	<?cancel?>:Close　<?viewChange?>:Change Display
+18302	
+18303	
+18304	
+18305	
+18306	
+18307	
+18308	
+18309	
+18310	<?sysmsg@18300?>
+19000	<?selectAll?>:Select <?cancel?>:Close
+19900	<?slectMenuSwitch?>:Explanation
+20000	<?selectUD?>:Select <?selectLR?>:Change <?conclusion?>:Enter <?cancel?>:Exit <?viewChange?>:Initialize <?slectMenuSwitch?>:Explanation
+20001	<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Cancel
+22010	<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Remove <?viewChange?>:Toggle Status
+22011	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Toggle Display <?viewChange?>:Toggle Status\n
+30000	<?selectAll?>:Select <?conclusion?>:Purchase <?cancel?>:Close <?commando?>:Toggle Display
+30100	<?selectAll?>:Select <?conclusion?>:Feed <?cancel?>:Close <?commando?>:Toggle Display
+31000	<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Toggle Display
+32000	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?commando?>:Toggle Display
+32001	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?commando?>:Toggle Display
+32002	<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?commando?>:Toggle Display
+41000	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?viewChange?>:Toggle Display <?commando?>:Delete
+41001	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?viewChange?>:Toggle Display <?commando?>:Delete
+41002	<?conclusion?>:Enter <?cancel?>:Back <?viewChange?>:Toggle Display <?commando?>:Delete
+42100	<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+42101	<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+42102	<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+42103	<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+42104	<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+42105	<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+42106	<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+42107	<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+42108	<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+42109	<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+42120	<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate
+42121	
+42122	<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate
+42123	<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate
+42124	<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate
+42125	<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate
+42126	<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate
+42127	<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate
+42128	
+42129	
+43001	<?selectUD?>:Select <?selectLR?>:Change Item <?cancel?>:Back <?spin?>:Rotate Face
+43002	<?selectUD?>:Select <?conclusion?>:Execute <?cancel?>:Back <?spin?>:Rotate Face
+43003	<?selectUD?>:Select <?conclusion?>:Execute <?cancel?>:Back <?spin?>:Rotate Face
+43004	<?selectUD?>:Select <?selectLR?>:Change Value <?cancel?>:Back <?spin?>:Rotate Face
+43005	<?selectUD?>:Select <?selectLR?>:Change Value <?cancel?>:Back <?spin?>:Rotate Face
+43006	<?selectUD?>:Select <?conclusion?>:Select <?cancel?>:Back <?spin?>:Rotate Face
+43007	<?selectUD?>:Select <?conclusion?>:Select <?cancel?>:Back <?spin?>:Rotate Face
+43008	
+43009	
+43010	
+43011	<?selectUD?>:Select <?selectLR?>:Change Item <?cancel?>:Back <?spin?>:Rotate Face
+43012	<?selectUD?>:Select <?selectLR?>:Change Item <?cancel?>:Back <?spin?>:Rotate Face
+43013	<?selectUD?>:Select <?selectLR?>:Change Item <?cancel?>:Back <?spin?>:Rotate Face
+43101	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+43102	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+43103	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+43104	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+43105	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+43106	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+43107	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+43108	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+43109	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+43201	<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+43202	<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+43203	<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+43204	<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+43205	<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+43206	<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+43207	<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+43208	<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+43209	<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+43210	<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+43211	<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+43212	<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+43213	<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+43214	<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+43215	<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+43216	<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+43501	<?selectUD?>:Select <?selectLR?>:Change Value <?cancel?>:Back <?spin?>:Rotate Face
+43502	<?selectUD?>:Select <?selectLR?>:Change Attribute <?cancel?>:Back <?spin?>:Rotate Face
+43503	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+44000	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back
+44001	<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Cancel
+45000	<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Toggle Display <?categoryChangeL?><?categoryChangeR?>:Change <?shortCutL?>:Remove all from box <?shortCutR?>:Deposit all to box
+45001	<?selectUD?>:Select　<?selectLR?>:Change <?cancel?>:Back <?commando?>:Toggle Display <?shortCutL?>:Remove all from box <?shortCutR?>:Deposit all to box
+46000	<?selectUD?>:Select　<?selectLR?>:Change　<?conclusion?>:Enter <?cancel?>:Exit <?viewChange?>:Initialize
+46001	<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Cancel
+69001	<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close
+70000	<?cancel?>：Close <?categoryChangeL?><?categoryChangeR?>：LevelMove

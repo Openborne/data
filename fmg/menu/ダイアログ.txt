@@ -1,0 +1,257 @@
+1	<?sysmsg@1?>
+2	<?sysmsg@2?>
+3	<?sysmsg@3?>
+4	<?sysmsg@4?>
+5	Accept
+6	Do Not Accept
+7	
+8	
+9	
+10	
+11000	Drop item.\nSpecify quantity.
+11001	
+11002	Reset item order?
+11003	Drop item
+12010	Cannot equip duplicate rings
+12021	Loss of attunement slots will cause <?removeMagic?> to be removed
+12022	
+12023	
+12024	
+12025	
+12026	
+12027	
+12028	
+12029	
+12030	Insufficient strength to wield this weapon with one hand.\nHold with both hands to use effectively.
+12031	Unable to wield this weapon effectively with present stats
+12032	
+12033	
+12034	
+12035	
+12036	
+12037	
+12038	
+12039	
+12040	This ring breaks when removed.\nOK to equip this ring?
+12041	This ring breaks when removed.\nOK to unequip this ring?
+16000	Restore all settings to default values
+16001	Cancel changes and exit
+16100	Delete the message.
+16500	Are you sure you want to quit the game?
+16600	Reset gesture order
+17800	Some players have not been evaluated
+17801	
+17802	
+17803	
+17804	You've obtained <?getSoulNum?> Souls
+18000	Warp to selected bonfire
+18001	No bonfires available for warping
+18002	
+18003	
+18004	
+18005	
+18006	
+18007	
+18008	
+18009	
+18010	
+18050	You are bound by the <?pcOath?> Covenant
+18051	Abandon and join the <?pcOath?> Covenant?
+18052	
+18053	
+18054	
+18055	
+18056	
+18057	
+18058	
+18059	
+18060	Restore your humanity?
+18061	Offer your humanity?
+18100	Send this phantom home?
+18101	No phantom to send home
+18200	Cannot use indictment
+18201	Cannot use indictment
+18400	Rate this message?
+20020	Confirm reinforcement
+20021	This will cancel reinforcement.\nIs this OK?
+20022	Reset reinforcement.\nIs this OK?
+20120	Trade for humanity
+20121	This will cancel trade.\nIs this OK?
+20122	Parameters will be reset.\nIs this OK?
+22001	Already attuned
+22002	Insufficient attunement slots
+22003	No magic to attune
+22004	Insufficient stats to use this magic
+22005	Wrong covenant for this magic
+23006	Cannot deposit additional items
+23007	Cannot hold additional items
+30000	Purchase for <?demandSoul?> souls?
+30001	Purchase for <?demandSoul?> souls?
+30002	Insufficient souls
+30003	Your stock of this\nitem is at maximum
+30004	
+30005	
+30006	No items to purchase
+30007	Cannot hold additional items
+30100	Specify quantity to feed.\nSouls gained: <?sellSouls?>
+30101	Cannot feed this item
+30102	No items to feed
+30103	Feed this item?
+31000	Repair for <?demandSoul?> souls?
+31001	Insufficient souls
+31002	No equipment requires repair
+31003	Cannot repair crystal weapon
+32000	Reinforce <?itemNameBeforeForge?>\ninto <?itemNameAfterForge?>?
+32001	Insufficient souls
+32002	Insufficient materials
+32003	No weapons for reinforcement
+32004	
+32005	
+32006	Undo ascension?\nMaterials used for ascension will be lost.
+32007	Cannot reinforce this weapon.\nReinforcement would result in exceeding inventory limit.
+32008	
+32009	Cannot restore crystal weapons
+32010	No armor for reinforcing
+32011	No weapons for ascension
+32012	Reinforce <?itemNameBeforeForge?>\ninto <?itemNameAfterForge?>?
+32013	Ascend <?itemNameBeforeForge?>\nto <?itemNameAfterForge?>?
+32014	Cannot reinforce this armor.\nReinforcement would result in exceeding inventory limit.
+32015	Cannot ascend this armor.\nAscension would result in exceeding inventory limit.
+32016	
+32017	
+32018	
+32019	
+32020	<?itemNameBeforeForge?>\nreinforced into <?itemNameAfterForge?>.
+32021	Restored <?itemNameBeforeForge?>\nto <?itemNameAfterForge?>.
+32022	<?itemNameBeforeForge?>\nascended to <?itemNameAfterForge?>.
+32023	<?itemNameBeforeForge?>\nreinforced into <?itemNameAfterForge?>.
+41000	<?sysmsg@41000?>
+42000	Cancel character creation and return to title screen?
+42001	Character name required
+42002	Enter character name
+42003	OK to start game with this character?
+42500	Cancel character creation and return to\ntitle screen?
+43001	Changing gender will cause\nedited face data to be lost.\nChange gender?
+44000	Leave this message?
+44001	
+44002	
+44003	
+44004	
+44005	
+44006	
+44007	
+44008	
+44009	
+44010	Leave a message?
+44500	Erase this message?
+45000	<?sysmsg@45000?>
+45001	<?sysmsg@45001?>
+45100	<?sysmsg@45100?>
+45101	
+45102	
+45103	<?sysmsg@45103?>
+45104	
+45105	
+45106	
+45107	
+45108	
+45109	
+45110	<?sysmsg@45110?>
+45111	<?sysmsg@45111?>
+45112	
+45113	
+45114	
+45115	
+45116	
+45117	
+45118	
+45119	
+45120	<?sysmsg@45120?>
+45121	<?sysmsg@45121?>
+45122	<?sysmsg@45122?>
+45200	<?sysmsg@45200?>
+45201	<?sysmsg@45201?>
+45250	<?sysmsg@45250?>
+45400	<?sysmsg@45400?>
+45500	<?sysmsg@45500?>
+47000	<?sysmsg@47000?>
+47100	<?sysmsg@47100?>
+47101	<?sysmsg@47101?>
+47102	<?sysmsg@47102?>
+47103	
+47104	
+47105	
+47106	
+47107	
+47108	
+47109	
+47110	<?sysmsg@47110?>
+47111	<?sysmsg@47111?>
+47112	<?sysmsg@47112?>
+47113	<?sysmsg@47113?>
+47114	
+47115	
+47116	
+47117	
+47118	
+47119	
+47120	<?sysmsg@47120?>
+47121	<?sysmsg@47121?>
+48000	<?sysmsg@48000?>
+50000	<?sysmsg@50000?>
+50001	<?sysmsg@50001?>
+50002	<?sysmsg@50002?>
+50501	<?sysmsg@50501?>
+50502	<?sysmsg@50502?>
+50503	<?sysmsg@50503?>
+50504	<?sysmsg@50504?>
+50505	<?sysmsg@50505?>
+50506	<?sysmsg@50506?>
+50507	<?sysmsg@50507?>
+51100	<?sysmsg@51100?>
+65000	<?sysmsg@65000?>
+65001	<?sysmsg@65001?>
+65002	<?sysmsg@65002?>
+65003	<?sysmsg@65003?>
+65004	<?sysmsg@65004?>
+65005	<?sysmsg@65005?>
+65100	<?sysmsg@65100?>
+65101	<?sysmsg@65101?>
+65200	<?sysmsg@65200?>
+65201	<?sysmsg@65201?>
+65202	<?sysmsg@65202?>
+65203	<?sysmsg@65203?>
+65204	<?sysmsg@65204?>
+65205	<?sysmsg@65205?>
+65206	<?sysmsg@65206?>
+65207	<?sysmsg@65207?>
+65208	<?sysmsg@65208?>
+65209	<?sysmsg@65209?>
+65210	<?sysmsg@65210?>
+65211	<?sysmsg@65211?>
+65212	<?sysmsg@65212?>
+65213	<?sysmsg@65213?>
+65214	<?sysmsg@65214?>
+65215	<?sysmsg@65215?>
+65216	<?sysmsg@65216?>
+65217	<?sysmsg@65217?>
+65218	<?sysmsg@65218?>
+65219	<?sysmsg@65219?>
+65220	<?sysmsg@65220?>
+65300	<?sysmsg@65300?>
+65301	<?sysmsg@65301?>
+65400	<?sysmsg@65400?>
+65401	<?sysmsg@65401?>
+65402	
+65403	
+65404	
+65405	
+65406	
+65407	
+65408	
+65409	
+65410	<?sysmsg@65410?>
+65411	<?sysmsg@65411?>
+65412	<?sysmsg@65412?>
+65413	<?sysmsg@65413?>
+70000	<?sysmsg@70000?>

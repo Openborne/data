@@ -1,0 +1,511 @@
+20	****
+1000	<img src="KG_R1" vspace='-8'> : Attack (Right hand weapon)
+1001	<img src="KG_L_U" vspace='-8'>: Emergency Quicksilver Bullet replenishment\nUse with caution, performing this action drains HP.
+1002	<img src="KG_R3" vspace='-8'>: Lock-on/Release target
+1003	<img src="KG_R_U" vspace='-8'>: Restore HP (Uses Blood Vial)
+1004	<img src="KG_Start" vspace='-8'>: Open menu
+1100	<img src="KG_L2" vspace='-8'>: Shoot (Left hand weapon)
+1101	<img src="KG_R2" vspace='-8'>: Strong attack\nHold <img src="KG_R2" vspace='-8'>: Charge attack
+1102	<img src="KG_L1" vspace='-8'>: Transform weapon/Transforming attack
+1103	
+1104	
+1105	<img src="KG_LS" vspace='-8'>+<?CancelIcon?>: Run
+1106	<?CancelIcon?>: Backstep\n<img src="KG_LS" vspace='-8'>+<?CancelIcon?>: Roll/Quickstep
+1107	When locked on to a target, you will quickstep instead of rolling.
+1108	<img src="KG_R_L" vspace='-8'>: Use item\n<img src="KG_L_D" vspace='-8'>: Toggle items
+1109	<img src="KG_L_LR" vspace='-8'>: Switch weapons
+1110	<img src="KG_TP_L" vspace='-8'>: Gestures\n<img src="KG_TP_R" vspace='-8'>: Personal Effects
+1111	*
+1112	*
+1113	Shooting your firearm will interrupt and stagger an enemy\nwhen properly timed to their attack.
+1114	Hitting an enemy from behind with a charge attack causes them to stagger.
+1115	<img src="KG_R1" vspace='-8'> when next to staggered enemy: Visceral attack
+1116	After taking damage from an enemy, there is a period of time in which attacking\nthe enemy in return will restore a certain amount of your HP.
+1117	
+1118	
+1119	
+1120	
+1121	Receive assistance from the hunters of other worlds by using\nthe Beckoning Bell.
+1122	Assist the hunters of other worlds by using the Small Resonant Bell.
+1123	The notes held by the messengers contain the written\nwit and wisdom of hunters from other worlds.
+1124	Entrusting your notes with the messengers will allow\nhunters from other worlds to read your words.
+2000	Ring the Beckoning Bell if you require assistance.
+2001	If you require assistance, you need only ring the bell.
+2002	If you require assistance, you need only ring the bell.
+2100	A Holy Chalice is said to be enshrined\nin Old Yharnam across the valley.
+2101	Ascend to Oedon Chapel.
+2102	
+2103	
+2104	
+2105	
+2106	
+2107	
+2108	
+2109	
+2110	To escape this dreadful Hunter's Dream, halt the source\nof the spreading scourge of beasts, lest the night carry on forever.
+2111	The red moon hangs low, and beasts rule the streets.\nAre we left no other choice, than to burn it all to cinders?
+2112	Behold! A paleblood sky!
+2113	Madmen toil surreptitiously in rituals to beckon the moon.\nUncover their secrets.
+2114	A watchman of Byrgenwerth guards the gate with\na password, the sacred adage of the Grand Cathedral.
+2115	The Mensis ritual must be stopped,\nlest we all become beasts.
+2116	This way, to witness a miracle
+10000	fear the <?bmsg?>
+10001	remember the <?bmsg?>
+10002	<?bmsg?> waiting ahead
+10003	reeks of <?bmsg?>
+10004	it's the scourge of <?bmsg?>
+10005	no mercy for the <?bmsg?>
+10006	have mercy, <?bmsg?>
+10007	nothing but <?bmsg?> here
+10008	despicable <?bmsg?>
+10009	<?bmsg?>...
+10010	oh, <?bmsg?>!
+10011	behind you
+10012	I'm not long for this world
+10013	this is the end
+10014	time for beast-hunting
+10015	time for man-hunting
+10016	how long till dawn?
+10017	the bells shall ring
+10018	the bells will resonate
+20000	Categories
+30000	Creatures
+30001	beast
+30002	human
+30003	hunter
+30004	sick person
+30005	friend
+30006	dullard
+30007	rabid dog
+30008	crow
+30009	great beast
+30010	monster
+30011	unknown thing
+30012	doll
+31000	Objects
+31001	blood
+31002	blood vial
+31003	bullets
+31004	fire
+31005	oil
+31006	medicine
+31007	tome
+31008	door
+31009	trap
+31010	remains
+31011	corpse
+31012	eyeball
+38000	Concepts
+38001	hunting
+38002	scourge
+38003	Healing Church
+38004	workshop
+38005	communion
+38006	fear
+38007	disaster
+38008	lie
+38009	prejudice
+38010	echoes
+38011	arcane
+38012	nightmare
+50000	and then 
+50001	but 
+50002	so 
+50003	soon 
+50004	, 
+1000001	fear the beasts
+1000002	fear the human
+1000003	fear the hunter
+1000004	fear the sick person
+1000005	fear your friend
+1000006	fear the dullard
+1000007	fear the rabid dog
+1000008	fear the crow
+1000009	fear the great beast
+1000010	fear the monster
+1000011	fear the unknown thing
+1000012	fear the doll
+1001001	fear the blood
+1001002	fear the blood vial
+1001003	fear the bullets
+1001004	fear the fire
+1001005	fear the oil
+1001006	fear the medicine
+1001007	fear the tome
+1001008	fear the door
+1001009	fear the trap
+1001010	fear the remains
+1001011	fear the corpse
+1001012	fear the eyeball
+1008001	fear hunting
+1008002	fear the scourge
+1008003	fear the Healing Church
+1008004	fear the workshop
+1008005	fear communion
+1008006	fear fear itself
+1008007	fear the disaster
+1008008	fear the lie
+1008009	fear the prejudice
+1008010	fear the echoes
+1008011	fear the arcane
+1008012	fear the nightmare
+1010001	remember the beast
+1010002	remember the human
+1010003	remember the hunter
+1010004	remember the sick person
+1010005	remember the friend
+1010006	remember the dullard
+1010007	remember the rabid dog
+1010008	remember the crow
+1010009	remember the great beast
+1010010	remember the monster
+1010011	remember the unknown thing
+1010012	remember the doll
+1011001	remember the blood
+1011002	remember the blood vial
+1011003	remember the bullets
+1011004	remember the fire
+1011005	remember the oil
+1011006	remember the medicine
+1011007	remember the tome
+1011008	remember the door
+1011009	remember the trap
+1011010	remember the remains
+1011011	remember the corpse
+1011012	remember the eyeball
+1018001	remember hunting
+1018002	remember the scourge
+1018003	remember the Healing Church
+1018004	remember the workshop
+1018005	remember communion
+1018006	remember the fear
+1018007	remember the disaster
+1018008	remember the lie
+1018009	remember the prejudice
+1018010	remember the echoes
+1018011	remember the arcane
+1018012	remember the nightmare
+1020001	beast waiting ahead
+1020002	human waiting ahead
+1020003	hunter waiting ahead
+1020004	sick person waiting ahead
+1020005	friend waiting ahead
+1020006	dullard waiting ahead
+1020007	rabid dog waiting ahead
+1020008	crow waiting ahead
+1020009	great beast waiting ahead
+1020010	monster waiting ahead
+1020011	unknown thing waiting ahead
+1020012	doll waiting ahead
+1021001	blood waiting ahead
+1021002	blood vial waiting ahead
+1021003	bullets waiting ahead
+1021004	fire waiting ahead
+1021005	oil waiting ahead
+1021006	medicine waiting ahead
+1021007	tome waiting ahead
+1021008	door waiting ahead
+1021009	trap lies ahead
+1021010	remains waiting ahead
+1021011	corpse waiting ahead
+1021012	eyeball waiting ahead
+1028001	hunting waits ahead
+1028002	scourge waiting ahead
+1028003	Healing Church waiting ahead
+1028004	workshop waiting ahead
+1028005	communion waiting ahead
+1028006	fear waiting ahead
+1028007	disaster waiting ahead
+1028008	lie waiting ahead
+1028009	prejudice waiting ahead
+1028010	echoes waiting ahead
+1028011	arcane waiting ahead
+1028012	nightmare waiting ahead
+1030001	reeks of beast
+1030002	reeks of human
+1030003	reeks of hunter
+1030004	reeks of a sick person
+1030005	reeks of friend
+1030006	reeks of dullard
+1030007	reeks of rabid dog
+1030008	reeks of crow
+1030009	reeks of great beast
+1030010	reeks of monster
+1030011	reeks of unknown thing
+1030012	reeks of doll
+1031001	reeks of blood
+1031002	reeks of blood vials
+1031003	reeks of bullets
+1031004	reeks of fire
+1031005	reeks of oil
+1031006	reeks of medicine
+1031007	reeks of tome
+1031008	reeks of door
+1031009	reeks of trap
+1031010	reeks of remains
+1031011	reeks of corpse
+1031012	reeks of eyeball
+1038001	reeks of hunting
+1038002	reeks of the scourge
+1038003	reeks of the Healing Church
+1038004	reeks of the workshop
+1038005	reeks of communion
+1038006	reeks of fear
+1038007	reeks of disaster
+1038008	reeks of lies
+1038009	reeks of prejudice
+1038010	reeks of echoes
+1038011	reeks of the arcane
+1038012	reeks of nightmare
+1040001	it's the scourge of the beast
+1040002	it's the scourge of the human
+1040003	it's the scourge of the hunter
+1040004	it's the scourge of the sick person
+1040005	it's the scourge of the friend
+1040006	it's the scourge of the dullard
+1040007	it's the scourge of the rabid dog
+1040008	it's the scourge of the crow
+1040009	it's the scourge of the great beast
+1040010	it's the scourge of the monster
+1040011	it's the scourge of the unknown thing
+1040012	it's the scourge of the doll
+1041001	it's the scourge of the blood
+1041002	it's the scourge of the blood vial
+1041003	it's the scourge of the bullets
+1041004	it's the scourge of the fire
+1041005	it's the scourge of the oil
+1041006	it's the scourge of the medicine
+1041007	it's the scourge of the tome
+1041008	it's the scourge of the door
+1041009	it's the scourge of the trap
+1041010	it's the scourge of the remains
+1041011	it's the scourge of the corpse
+1041012	it's the scourge of the eyeball
+1048001	it's the scourge of hunting
+1048002	it's the scourge itself
+1048003	it's the scourge of the Healing Church
+1048004	it's the scourge of the workshop
+1048005	it's the scourge of communion
+1048006	it's the scourge of the fear
+1048007	it's the scourge of the disaster
+1048008	it's the scourge of lies
+1048009	it's the scourge of prejudice
+1048010	it's the scourge of echoes
+1048011	it's the scourge of the arcane
+1048012	it's the scourge of the nightmare
+1050001	no mercy for the beast
+1050002	no mercy for the human
+1050003	no mercy for the hunter
+1050004	no mercy for the sick person
+1050005	no mercy for the friend
+1050006	no mercy for the dullard
+1050007	no mercy for the rabid dog
+1050008	no mercy for the crow
+1050009	no mercy for the great beast
+1050010	no mercy for the monster
+1050011	no mercy for the unknown thing
+1050012	no mercy for the doll
+1051001	no mercy for the blood
+1051002	no mercy for the blood vial
+1051003	no mercy for the bullets
+1051004	no mercy for the fire
+1051005	no mercy for the oil
+1051006	no mercy for the medicine
+1051007	no mercy for the tome
+1051008	no mercy for the door
+1051009	no mercy for the trap
+1051010	no mercy for the remains
+1051011	no mercy for the corpse
+1051012	no mercy for the eyeball
+1058001	no mercy for hunting
+1058002	no mercy for the scourge
+1058003	no mercy for the Healing Church
+1058004	no mercy for the workshop
+1058005	no mercy for the communion
+1058006	no mercy for the fear
+1058007	no mercy for the disaster
+1058008	no mercy for lies
+1058009	no mercy for prejudice
+1058010	no mercy for the echoes
+1058011	no mercy for the arcane
+1058012	no mercy for the nightmare
+1060001	have mercy, beast
+1060002	have mercy, human
+1060003	have mercy, hunter
+1060004	have mercy, sick person
+1060005	have mercy, friend
+1060006	have mercy, dullard
+1060007	have mercy, rabid dog
+1060008	have mercy, crow
+1060009	have mercy, great beast
+1060010	have mercy, monster
+1060011	have mercy, unknown thing
+1060012	have mercy, doll
+1061001	have mercy, blood
+1061002	have mercy, blood vial
+1061003	have mercy, bullets
+1061004	have mercy, fire
+1061005	have mercy, oil
+1061006	have mercy, medicine
+1061007	have mercy, tome
+1061008	have mercy, door
+1061009	have mercy, trap
+1061010	have mercy, remains
+1061011	have mercy, corpse
+1061012	have mercy, eyeball
+1068001	have mercy, hunting
+1068002	have mercy, scourge
+1068003	have mercy, Healing Church
+1068004	have mercy, workshop
+1068005	have mercy, communion
+1068006	have mercy, fear
+1068007	have mercy, disaster
+1068008	have mercy, lies
+1068009	have mercy, prejudice
+1068010	have mercy, echoes
+1068011	have mercy, arcane
+1068012	have mercy, nightmare
+1070001	nothing but beasts here
+1070002	nothing but humans here
+1070003	nothing but hunters here
+1070004	nothing but sick people here
+1070005	nothing but friends here
+1070006	nothing but dullards here
+1070007	nothing but rabid dogs here
+1070008	nothing but crows here
+1070009	nothing but great beasts here
+1070010	nothing but monsters here
+1070011	nothing but unknown things here
+1070012	nothing but dolls here
+1071001	nothing but blood here
+1071002	nothing but blood vials here
+1071003	nothing but bullets here
+1071004	nothing but fire here
+1071005	nothing but oil here
+1071006	nothing but medicine here
+1071007	nothing but tomes here
+1071008	nothing but doors here
+1071009	nothing but traps here
+1071010	nothing but remains here
+1071011	nothing but corpses here
+1071012	nothing but eyeballs here
+1078001	nothing but hunting here
+1078002	nothing but the scourge here
+1078003	nothing but the Healing Church here
+1078004	nothing but the workshop here
+1078005	nothing but communion here
+1078006	nothing but fear here
+1078007	nothing but disaster here
+1078008	nothing but lies here
+1078009	nothing but prejudice here
+1078010	nothing but echoes here
+1078011	nothing but the arcane here
+1078012	nothing but nightmares here
+1080001	despicable beast
+1080002	despicable human
+1080003	despicable hunter
+1080004	despicable sick person
+1080005	despicable friend
+1080006	despicable dullard
+1080007	despicable rabid dog
+1080008	despicable crow
+1080009	despicable great beast
+1080010	despicable monster
+1080011	despicable unknown thing
+1080012	despicable doll
+1081001	despicable blood
+1081002	despicable blood vial
+1081003	despicable bullets
+1081004	despicable fire
+1081005	despicable oil
+1081006	despicable medicine
+1081007	despicable tome
+1081008	despicable door
+1081009	despicable trap
+1081010	despicable remains
+1081011	despicable corpse
+1081012	despicable eyeball
+1088001	despicable hunting
+1088002	despicable scourge
+1088003	despicable Healing Church
+1088004	despicable workshop
+1088005	despicable communion
+1088006	despicable fear
+1088007	despicable disaster
+1088008	despicable lie
+1088009	despicable prejudice
+1088010	despicable echoes
+1088011	despicable arcane
+1088012	despicable nightmare
+1090001	beast...
+1090002	human...
+1090003	hunter...
+1090004	sick person...
+1090005	friend...
+1090006	dullard...
+1090007	rabid dog...
+1090008	crow...
+1090009	great beast...
+1090010	monster...
+1090011	unknown thing...
+1090012	doll...
+1091001	blood...
+1091002	blood vial...
+1091003	bullets...
+1091004	fire...
+1091005	oil...
+1091006	medicine...
+1091007	tome...
+1091008	door...
+1091009	trap...
+1091010	remains...
+1091011	corpse...
+1091012	eyeball...
+1098001	hunting...
+1098002	the scourge...
+1098003	Healing Church...
+1098004	workshop...
+1098005	communion...
+1098006	fear...
+1098007	disaster...
+1098008	lie...
+1098009	prejudice...
+1098010	echoes...
+1098011	arcane...
+1098012	nightmare...
+1100001	oh, a beast!
+1100002	oh, a human!
+1100003	oh, a hunter!
+1100004	oh, a sick person!
+1100005	oh, a friend!
+1100006	oh, a dullard!
+1100007	oh, a rabid dog!
+1100008	oh, a crow!
+1100009	oh, a great beast!
+1100010	oh, a monster!
+1100011	oh, an unknown thing!
+1100012	oh, a doll!
+1101001	oh, blood!
+1101002	oh, a blood vial!
+1101003	oh, bullets!
+1101004	oh, fire!
+1101005	oh, oil!
+1101006	oh, medicine!
+1101007	oh, a tome!
+1101008	oh, a door!
+1101009	oh, a trap!
+1101010	oh, remains!
+1101011	oh, a corpse!
+1101012	oh, an eyeball!
+1108001	oh, hunting!
+1108002	oh, the scourge!
+1108003	oh, the Healing Church!
+1108004	oh, the workshop!
+1108005	oh, communion!
+1108006	oh, fear!
+1108007	oh, disaster!
+1108008	oh, lies!
+1108009	oh, prejudice!
+1108010	oh, echoes!
+1108011	oh, the arcane!
+1108012	oh, nightmare!

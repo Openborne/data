@@ -1,0 +1,2538 @@
+10100	Name
+10101	Gender
+10102	Origin
+10103	*
+10104	
+10105	
+10106	
+10107	
+10108	Age
+10200	Level
+10201	Blood Echoes
+10202	Required
+10203	
+10204	
+10205	
+10206	
+10207	
+10208	
+10209	
+10210	Insight
+10300	*
+10400	Vitality
+10401	Endurance
+10402	Strength
+10403	Skill
+10404	Bloodtinge
+10405	Arcane
+10500	HP
+10501	
+10502	Stamina
+10503	
+10504	
+10505	
+10506	
+10507	
+10508	
+10509	
+10510	
+10511	
+10512	Discovery
+10513	
+10514	
+10515	
+10516	
+10517	
+10518	
+10519	
+10520	R-hand WPN 1 ATK
+10521	R-hand WPN 2 ATK
+10522	L-hand WPN 1 ATK
+10523	L-hand WPN 2 ATK
+10524	Physical DEF
+10525	VS. Thrust
+10526	VS. Blunt
+10527	Blood DEF
+10528	Arcane DEF
+10529	Fire DEF
+10530	Bolt DEF
+10531	
+10532	
+10533	
+10534	
+10535	
+10536	
+10537	
+10538	
+10539	
+10540	Physical
+10541	VS. Thrust
+10542	VS. Blunt
+10543	Blood
+10544	Arcane
+10545	Fire
+10546	Bolt
+10547	
+10548	
+10549	Damage Reduction
+10550	Slow Poison RES
+10551	Rapid Poison RES
+10552	Frenzy RES
+10553	
+10554	Beasthood
+10555	
+10556	
+10557	
+10558	
+10559	Resistance
+10560	*
+10600	Caryll Rune Effect
+11000	*
+11001	
+11002	
+11003	Physical ATK
+11004	Blood ATK
+11005	Arcane ATK
+11006	Fire ATK
+11007	Bolt ATK
+11008	Blunt
+11009	Physical ATK
+11010	Thrust
+11011	
+11012	*
+11013	*
+11014	*
+11015	*
+11016	QS Bullet Use
+11049	Attribute Bonus
+11050	-
+11051	S
+11052	A
+11053	B
+11054	C
+11055	D
+11056	E
+11057	
+11058	
+11059	
+11060	*
+11061	*
+11062	*
+11063	*
+11064	
+11065	
+11066	
+11067	
+11068	
+11069	Attribute Requirement
+11070	*
+11071	*
+11072	*
+11073	*
+11074	*
+11075	
+11076	
+11077	
+11078	
+11079	
+11080	*
+11081	Durability
+11082	*
+11083	
+11084	
+11085	
+11086	
+11087	
+11088	
+11089	
+11090	Special Attack
+11091	
+11092	
+11093	
+11094	
+11095	
+11096	
+11097	
+11098	
+11099	
+11100	Blood Gem Effects
+11201	R-hand WPN
+11202	R-hand WPN
+11203	R-hand WPN
+11204	R-hand WPN
+11205	R-hand WPN
+11206	R-hand WPN
+11207	R-hand WPN
+11208	R-hand WPN
+11209	R-hand WPN
+11210	R-hand WPN
+11211	R-hand WPN
+11212	R-hand WPN
+11213	R-hand WPN
+11214	R-hand WPN
+11215	R-hand WPN
+11216	R-hand WPN
+11217	L-hand WPN (Gun)
+11218	L-hand WPN (Gun)
+11219	L-hand WPN (Gun)
+11220	L-hand WPN (Gun)
+11221	L-hand WPN (Gun)
+11222	L-hand WPN (Gun)
+11223	L-hand WPN (Gun)
+11224	L-hand WPN (Gun)
+11225	L-hand WPN
+11226	L-hand WPN
+12010	Physical DEF
+12011	VS. Thrust
+12012	VS. Blunt
+12013	Blood DEF
+12014	Arcane
+12015	Fire
+12016	Bolt
+12017	
+12018	
+12019	Damage Reduction
+12020	Slow Poison RES
+12021	Rapid Poison RES
+12022	Frenzy RES
+12023	
+12024	Beasthood
+12025	
+12026	
+12027	
+12028	
+12029	Resistance
+14001	*
+14002	Rating
+14003	Shape
+14004	
+14005	
+14006	
+14007	
+14008	
+14009	
+14010	
+14011	Blood Gem Effects
+14101	*
+14102	*
+14103	*
+14104	*
+14105	*
+14106	*
+14107	*
+14201	Circle
+14202	Triangle
+14203	Radial
+14204	Droplet
+14205	Waning
+15001	Type
+15002	
+15003	
+15004	
+15005	
+15006	
+15007	
+15008	
+15009	
+15010	Caryll Rune Effect
+15101	-
+15102	Oath
+16001	Usage Type
+16002	QS Bullet Use
+16003	
+16004	
+16005	
+16006	
+16007	
+16008	
+16009	
+16010	
+16011	Attribute Bonus
+16012	
+16013	
+16014	
+16015	
+16016	
+16017	
+16018	
+16019	
+16020	
+16021	Attribute Requirement
+16101	Finite
+16102	Unlimited use
+17001	Depth
+17002	Area
+17003	
+17004	
+17005	
+17006	
+17007	
+17008	
+17009	
+17010	
+17011	Additional Rite
+17100	Pthumeru
+17101	Hintertomb
+17102	Loran
+17103	Isz
+17104	*
+17105	*
+17106	*
+17200	Selected Additional Rite
+17201	Additional Rite
+17202	Material Condition List
+17203	Conductor
+17204	Ritual date
+17205	Chalice Glyph
+17206	Privacy
+17207	Date Last Played
+17208	This Chalice Dungeon has been deleted from the server.
+17209	This altar has not been set to any dungeon.
+17210	Mid-ritual
+19001	No. Held
+19002	Stored
+30100	Character's name.
+30101	Character's gender.
+30102	Character's origin.
+30103	
+30104	
+30105	
+30106	
+30107	
+30108	Character's age bracket.
+30200	The total value of a hunter's\noverall attributes.\nUse Blood Echoes to level up.
+30201	The total number of held\nBlood Echoes.\nYou can use them to trade\nwith the messengers.
+30202	The number of Blood Echoes\nneeded to level up.
+30203	
+30204	
+30205	
+30206	
+30207	
+30208	
+30209	
+30210	Level of Insight, or depth\nof inhuman knowledge.\nNeeded to ring special bell,\nbut induces frenzy.
+30300	*
+30400	Attribute governing HP.
+30401	Attribute governing\nstamina and resistances.
+30402	Attribute governing heavy\nphysical weapon ATK.\nDetermines whether or not\nyou can use certain equipment.
+30403	Attribute governing more\nnuanced physical weapon ATK.\nDetermines whether or not\nyou can use certain equipment.
+30404	Attribute governing power of\nweapons that use QS bullets.\nDetermines whether or not\nyou can use certain equipment.
+30405	Attribute governing power of\narcane ATK.\nDetermines whether or not\nyou can use certain equipment.
+30500	The power, or will, to survive.\nIf this falls to 0, your strength\nwill fade away.
+30501	
+30502	Stamina is necessary to\nperform various actions.\nDepletes as actions are taken,\nbut refills automatically.
+30503	
+30504	
+30505	
+30506	
+30507	
+30508	
+30509	
+30510	*
+30511	*
+30512	Governs chances of enemies\ndropping items when defeated.\nThe higher this attribute,\nthe more you will find.
+30513	
+30514	
+30515	
+30516	
+30517	
+30518	
+30519	
+30520	The ATK value of the weapon \nequipped in right hand slot 1.
+30521	The ATK value of the weapon \nequipped in right hand slot 2.
+30522	The ATK value of the weapon \nequipped in left hand slot 1.
+30523	The ATK value of the weapon \nequipped in left hand slot 2.
+30524	Ability to defend against attacks\nmade with bare flesh or against\nfoes with corporeal existence.
+30540	Reduction of physical damage.\nCombined value of effects of\nequipment and Caryll Runes.
+30541	Reduction of damage from\nthrust attacks.\nCombined value of effects of\nequipment and Caryll Runes.
+30542	Reduction of damage from\nblunt attacks.\nCombined value of effects of\nequipment and Caryll Runes.
+30543	Reduction of damage from\nfirearms and other blood attacks.\nCombined value of effects of\nequipment and Caryll Runes.
+30544	Reduction of damage from\narcane attacks.\nCombined value of effects of\nequipment and Caryll Runes.
+30545	Reduction of damage from\nfire attacks.\nCombined value of effects of\nequipment and Caryll Runes.
+30546	Reduction of damage from\nbolt attacks.\nCombined value of effects of\nequipment and Caryll Runes.
+30547	
+30548	
+30549	
+30550	Resistance to slow poisoning.\nThe higher this attribute,\nthe more resistant you are.
+30551	Resistance to rapid poisoning.\nThe higher this attribute,\nthe more resistant you are.
+30552	Resistance to the lure of frenzy.\nThe higher this attribute,\nthe more resistant you are.
+30553	
+30554	The higher this attribute, the\ncloser you are to beasthood\nwhen temporary transformed.
+30555	
+30556	
+30557	
+30558	
+30559	Resistance to slow poisoning,\nrapid poisoning, frenzy,\nand level of beasthood.
+30600	Various effects of\nmemorized Caryll Runes.
+31003	Physical type ATK.
+31004	Blood type ATK,\nmainly dealt by firearms.
+31005	Arcane type ATK.
+31006	Fire type ATK.
+31007	Bolt type ATK.
+31008	Blunt type ATK.
+31009	
+31010	Thrust type ATK.
+31011	
+31012	
+31013	
+31014	
+31015	
+31016	Number of Quicksilver Bullets\nconsumed with use.
+31040	*
+31041	Degree to which ATK is\nboosted by strength
+31042	Degree to which ATK is\nboosted by skill
+31043	Degree to which ATK is\nboosted by bloodtinge
+31044	Degree to which ATK is\nboosted by arcane attribute
+31045	
+31046	
+31047	
+31048	
+31049	Degree to which your attributes\nwill boost ATK.\n(Strength/Skill/Bloodtinge/Arcane)
+31060	Minimum amount of strength\nrequired to use.
+31061	Minimum amount of skill\nrequired to use.
+31062	Minimum amount of bloodtinge\nrequired to use.
+31063	Minimum amount of arcane\nattribute required to use.
+31064	
+31065	
+31066	
+31067	
+31068	
+31069	Minimum attribute\nrequired to equip.
+31070	*
+31071	*
+31072	*
+31073	*
+31074	*
+31075	
+31076	
+31077	
+31078	
+31079	
+31080	*
+31081	Durability of weapon.\nDepleted with use.\nATK reduced when heavily worn.
+31082	*
+31083	
+31084	
+31085	
+31086	
+31087	
+31088	
+31089	
+31090	Strength of slow/rapid poison\nadded to ATK, and extent that\nATK is raised vs kin and\nseverely transformed beasts.
+31091	Strength of slow poison\nadded to attack.
+31092	Strength of rapid poison\nadded to attack
+31093	Bonus to ATK against\nkin of the cosmos.
+31094	Bonus to ATK against\nseverely transformed beasts.
+31095	
+31096	
+31097	
+31098	
+31099	
+31100	Various effects of blood gems\nattached to weapon.
+32000	*
+32001	
+32002	
+32003	
+32004	
+32005	
+32006	
+32007	
+32008	
+32009	
+32010	Reduction of damage\nfrom physical attacks.
+32011	Reduction of damage\nfrom thrust attacks.
+32012	Reduction of damage\nfrom blunt attacks.
+32013	Reduction of damage\nfrom firearms and the like.
+32014	Reduction of damage\nfrom arcane attacks.
+32015	Reduction of damage\nfrom fire attacks.
+32016	Reduction of damage\nfrom bolt attacks.
+32017	
+32018	
+32019	
+32020	Resistance to slow poisoning.\nThe higher this attribute,\nthe more resistant you are.
+32021	Resistance to rapid poisoning.\nThe higher this attribute,\nthe more resistant you are.
+32022	Resistance to the lure of frenzy.\nThe higher this attribute,\nthe more resistant you are.
+32023	*
+32024	The higher this attribute, the\ncloser you are to beasthood\nwhen temporary transformed.
+32025	
+32026	
+32027	
+32028	
+32029	
+32030	*
+32031	*
+33000	*
+33001	*
+33002	*
+33030	*
+33031	*
+34002	Healing Church blood gem rarity.\nThe rarer the gem,\nthe more potent it is.
+34003	Shape of blood gem.\nMust match weapon\nin order to fuse.
+34004	
+34005	
+34006	
+34007	
+34008	
+34009	
+34010	
+34011	Various effects produced\nby blood gem.
+35001	Caryll Rune classifications. \nSome runes can only be used\nwhen under certain Oaths.
+35002	
+35003	
+35004	
+35005	
+35006	
+35007	
+35008	
+35009	
+35010	Caryll Rune's various effects.
+36001	Type of item. \nTells you whether or not\nit will be consumed with use.
+36002	Number of Quicksilver Bullets\nconsumed with use.
+36003	
+36004	
+36005	
+36006	
+36007	
+36008	
+36009	
+36010	
+36011	Degree to which your attributes\nwill boost effects.\n(Strength/Skill/Bloodtinge/Arcane)
+36012	Degree to which the effect\nis boosted by strength.
+36013	Degree to which the effect\nis boosted by skill.
+36014	Degree to which the effect\nis boosted by bloodtinge.
+36015	Degree to which the effect\nis boosted by arcane attribute.
+36016	
+36017	
+36018	
+36019	
+36020	
+36021	Minimum attribute points\nnecessary to use\n(Strength/Skill/Bloodtinge/Arcane)
+36022	Minimum amount of strength\nrequired to use.
+36023	Minimum amount of skill\nrequired to use.
+36024	Minimum amount of bloodtinge\nrequired to use.
+36025	Minimum amount of arcane attribute\nrequired to use.
+37001	Depth of the labyrinth\nunlocked by the Chalice Ritual.\nThe higher the number,\nthe deeper the dungeon.
+37002	An area in the labyrinth\nunlocked by the Chalice Ritual.\nFeatures of each area will differ.
+37003	
+37004	
+37005	
+37006	
+37007	
+37008	
+37009	
+37010	
+37011	Additional rite enabled\nby this Chalice
+39001	Number of this item held.
+39002	Number of this item in storage.
+40000	Standard
+40001	Order acquired
+40002	
+40003	
+40004	
+40005	
+40006	
+40007	
+40008	
+40009	
+40010	No. Held
+40011	
+40012	
+40013	
+40014	
+40015	
+40016	
+40017	
+40018	
+40019	
+40020	Fortification
+40021	Gems Equipped
+40022	Physical ATK
+40023	Arcane ATK
+40024	Fire ATK
+40025	Bolt ATK
+40026	Durability
+40027	
+40028	
+40029	
+40030	Physical DEF
+40031	Thrust
+40032	Blunt
+40033	Blood DEF
+40034	Arcane DEF
+40035	Fire DEF
+40036	Bolt DEF
+40037	Slow Poison RES
+40038	Rapid Poison RES
+40039	Frenzy RES
+40040	Beasthood
+40041	
+40042	
+40043	
+40044	
+40045	
+40046	
+40047	
+40048	
+40049	
+40050	Rating
+40051	No. of Effects
+40052	Shape
+40053	
+40054	
+40055	
+40056	
+40057	
+40058	
+40059	
+40060	Depth
+40061	Area
+40100	*
+40101	*
+40102	*
+40300	On
+40301	Off
+40302	*
+40303	
+40304	
+40305	
+40306	
+40307	
+40308	
+40309	
+40310	Normal
+40311	Reversed
+40312	
+40313	
+40314	
+40315	
+40316	
+40317	
+40318	
+40319	
+40320	Worldwide
+40321	Local
+40322	
+40323	
+40324	
+40325	
+40326	
+40327	
+40328	
+40329	
+40330	Defaults
+40331	Next
+40332	
+40333	
+40334	
+40335	
+40336	
+40337	
+40338	
+40339	
+40340	Name
+40341	Online ID
+40342	
+40343	
+40344	
+40345	
+40346	
+40347	
+40348	
+40349	
+40350	No Password
+40400	Consumables
+40401	Materials
+40402	Key Items
+40403	Right Hand Weapons
+40404	Left Hand Weapons
+40405	Attire
+40406	Blood Gems
+40407	Caryll Runes
+40408	Chalices
+40420	Workshop R-hand Weapons
+40421	Church R-hand Weapons
+40422	Vileblood R-hand Weapons
+40423	Workshop L-hand Weapons
+40424	Church L-hand Weapons
+40425	Vileblood L-hand Weapons
+40426	Workshop Attire
+40427	Church Attire
+40428	Vileblood Attire
+40429	Other Attire
+40430	Radial Blood Gems
+40431	Triangular Blood Gems
+40432	Waning Blood Gems
+40433	Circular Blood Gems
+40434	Droplet Blood Gems
+40435	Pthumeru Chalice
+40436	Hintertomb Chalice
+40437	Loran Chalice
+40438	Isz Chalice
+40439	
+40440	Right Hand Weapon 1
+40441	Right Hand Weapon 2
+40442	Left Hand Weapon 1
+40443	Left Hand Weapon 2
+40444	Head
+40445	Chest
+40446	Arms
+40447	Legs
+40448	Quick Item 1
+40449	Quick Item 2
+40450	Quick Item 3
+40451	Quick Item 4
+40452	Quick Item 5
+40453	Quick Item 6
+40454	Personal Effects 1
+40455	Personal Effects 2
+40456	Personal Effects 3
+40457	Personal Effects 4
+40458	Personal Effects 5
+40459	Personal Effects 6
+40470	Blood Gem Imprint 1
+40471	Blood Gem Imprint 2
+40472	Blood Gem Imprint 3
+40473	
+40474	
+40475	
+40476	
+40477	
+40478	
+40479	
+40480	Memory Slot 1
+40481	Memory Slot 2
+40482	Memory Slot 3
+40483	Oath Memory
+50000	None
+50001	Blood
+50002	
+50003	
+50004	
+50005	
+50006	
+50007	
+50008	
+50009	
+50010	Physical
+50011	Physical/Blood
+50100	Physical
+50101	Physical/Blood
+50102	
+50103	
+50104	
+50105	
+50106	
+50107	
+50108	
+50109	
+50110	Physical
+50111	Physical/Blood
+51000	Physical
+51001	Physical/Blood
+51002	
+51003	
+51004	
+51005	
+51006	
+51007	
+51008	
+51009	
+51010	Physical
+51011	Physical/Blood
+51100	Physical
+51101	Physical/Blood
+51102	
+51103	
+51104	
+51105	
+51106	
+51107	
+51108	
+51109	
+51110	Physical
+51111	Physical/Blood
+101000	Inventory
+101001	Settings
+101002	Arms
+101003	Attire
+101004	Quick Items
+101005	*
+101006	Stats
+102010	Use
+102011	Discard
+102012	*
+102013	*
+102014	Use Multiple
+102015	
+102016	
+102017	
+102018	
+102019	
+102020	Inventory
+103000	Equipment
+104000	Quick Items
+104001	Personal Effects
+105100	Right Hand Weapon 1
+105101	Right Hand Weapon 2
+105102	Left Hand Weapon 1
+105103	Left Hand Weapon 2
+105104	Attire
+105105	Quick Items
+105106	Personal Effects
+105107	Caryll Runes
+110000	Controls
+110001	Environment
+110002	Brightness
+110003	Network
+110004	Exit Game 
+110005	Language
+110020	Settings
+111000	
+111001	Subtitles
+111002	Display HUD
+111003	Music
+111004	Sound Effects
+111005	Voice
+111006	
+111007	
+111008	
+111009	
+111010	Display
+111011	Sound
+111012	
+111013	
+111014	
+111015	
+111016	
+111017	
+111018	
+111019	
+111020	Environment
+112000	Adjust Brightness
+112001	
+112002	
+112003	
+112004	
+112005	
+112006	
+112007	
+112008	
+112009	
+112010	Adjust slider until the man is visible and beast invisible.
+112011	
+112012	
+112013	
+112014	
+112015	
+112016	
+112017	
+112018	
+112019	
+112020	Brightness
+113000	Camera X-Axis
+113001	Camera Y-Axis
+113002	
+113003	Camera Sensitivity
+113004	Auto Target Switch
+113005	
+113006	Camera Auto-Adjust
+113007	Controller Vibration
+113020	Controls
+114000	Matching Regions
+114001	Player Name Display
+114002	Password Matching 
+114003	
+114004	
+114005	
+114006	
+114007	
+114008	
+114009	
+114010	Network
+114011	
+114012	
+114013	
+114014	
+114015	
+114016	
+114017	
+114018	
+114019	
+114020	Blocked by parental control.
+114100	Enter Chalice Glyph
+115000	Text
+115001	Voice
+115002	
+115003	
+115004	
+115005	
+115006	
+115007	
+115008	
+115009	
+115010	Language
+115011	
+115012	
+115013	
+115014	
+115015	
+115016	
+115017	
+115018	
+115019	
+115020	Note: Settings will be applied upon exit
+115100	Japanese
+115101	English (United Kingdom)
+115102	French
+115103	Italian
+115104	German
+115105	Spanish (Spain)
+115106	Spanish (Latin America)
+115107	Portuguese (Brasil)
+115108	English (United States)
+115109	Dutch
+115110	Polish
+115111	Russian
+115112	Danish
+115113	Norwegian
+115114	Finnish
+115115	Swedish
+115116	Turkish
+115117	Portuguese (Portugal)
+115118	Traditional Chinese
+115119	Korean
+115120	Simplified Chinese
+115199	Default
+211000	Level Up
+211001	
+211002	
+211003	
+211004	
+211005	
+211006	
+211007	
+211008	
+211009	
+211010	Confirm
+212000	Caryll Runes
+221000	Fortify Weapon
+221001	
+221002	
+221003	
+221004	
+221005	
+221006	
+221007	
+221008	
+221009	
+221010	Current
+221011	After
+221012	
+221013	
+221014	
+221015	
+221016	
+221017	
+221018	
+221019	
+221020	Required
+222000	Blood Gems
+223000	Repair
+231000	Required
+231001	Blood Echoes
+231002	Insight
+231003	Required
+231004	
+231005	
+231006	
+231007	
+231008	
+231009	
+231010	Buy
+231011	Buy with Insight
+231012	Choose weapon
+232000	Echoes earned
+232001	
+232002	
+232003	
+232004	
+232005	
+232006	
+232007	
+232008	
+232009	
+232010	Sell
+241000	Awaken Above Ground
+251020	Storage
+262000	Chalice Ritual
+262001	Chalice Dungeon Search
+262002	Search by Chalice Glyph
+262003	
+262004	
+262005	Remove Chalice
+262100	Ritual Altar
+263002	Conduct Ritual
+263003	Blood Echoes
+263004	
+263005	Basic Materials
+263006	Rite Materials
+263100	Chalice Ritual
+265000	Open
+265001	Closed
+266000	Chalice Dungeon Search
+266001	Begin Search
+266002	Search Results
+266100	Depth
+266101	Depth 1
+266102	Depth 2
+266103	Depth 3
+266104	Depth 4
+266105	Depth 5
+266106	Depth 6
+266107	Depth 7
+266108	Depth 8
+266109	Depth 9
+266110	-
+266200	Area
+266201	Pthumerian Labyrinth
+266202	Ailing Loran
+266203	Isz Gravestone
+266204	-
+266205	Hintertomb
+266300	Additional Rite
+266301	Fetid Offering
+266302	Sinister Bell
+266303	Curse
+266304	Rotted Offering
+266305	No additional rite
+266306	-
+266400	Chalice type
+266401	Standard chalice
+266402	Root Chalice
+266500	By Last Time Played
+266501	By most shared
+266502	By Ritual Date
+266503	By depth
+266504	By area
+266505	By additional rite
+267000	Enter Chalice Glyph
+269000	Awaken in the labyrinth
+269001	Quick-search Dungeon
+269002	Quick-search for co-op
+269003	Quick-search for threat
+269100	Short ritual
+269101	Awaken in the labyrinth
+270000	*
+270001	*
+271000	Extract Haze
+271001	
+271002	Haze Extracted
+280000	*
+280100	*
+280101	*
+280102	*
+280103	*
+280104	*
+280105	*
+280106	
+280107	
+280108	
+280109	
+280110	Fetid Offering
+280111	
+280112	
+280113	
+280114	
+280115	
+280116	
+280117	
+280118	
+280119	
+280120	Rotted Offering
+280140	Sinister bell
+280170	Curse
+280171	Defilement
+280200	*
+280201	*
+280202	*
+280203	*
+280204	*
+280205	
+280206	
+280207	
+280208	
+280209	
+280210	*
+280211	Fetid Offering
+280212	*
+280213	
+280214	
+280215	
+280216	
+280217	
+280218	
+280219	
+280220	Rotted Offering
+280221	Rotted Offering
+280222	Rotted Offering
+280223	Rotted Offering
+280224	Rotted Offering
+280225	Rotted Offering
+280226	Rotted Offering
+280227	Rotted Offering
+280228	Rotted Offering
+280229	Rotted Offering
+280230	*
+280231	*
+280232	
+280233	
+280234	
+280235	*
+280236	
+280237	
+280238	
+280239	
+280240	Sinister Bell
+280241	*
+280242	*
+280243	*
+280244	
+280245	*
+280246	*
+280247	*
+280248	*
+280249	
+280250	
+280251	*
+280252	*
+280253	*
+280254	*
+280255	*
+280256	*
+280257	
+280258	
+280259	
+280260	*
+280261	
+280262	
+280263	
+280264	
+280265	
+280266	
+280267	
+280268	
+280269	
+280270	Curse
+280271	Defilement
+280272	Terrible Defilement
+280411	Fetid Offering
+280412	
+280413	
+280414	
+280415	
+280416	
+280417	
+280418	
+280419	
+280420	Rotted Offering
+280421	Rotted Offering
+280422	Rotted Offering
+280423	Rotted Offering
+280424	Rotted Offering
+280425	Rotted Offering
+280426	Rotted Offering
+280427	Rotted Offering
+280428	Rotted Offering
+280429	Rotted Offering
+280430	
+280431	
+280432	
+280433	
+280434	
+280435	*
+301000	Point Forward
+301001	Hunter's Salutation
+301002	Conviction
+301003	Joy
+301004	Shake off Cape
+301005	Church Bow (male)
+301006	Curtsy
+301007	Church Bow (female)
+301008	Wave
+301009	Pray
+301010	Wait
+301011	Shh!
+301012	Hunter's Rally
+301013	Triumph
+301014	Approval
+301015	Roar
+301016	Beg for Life
+301017	Brush off Dust
+301018	Respect
+301019	Deep Respect
+301020	Make Contact
+301021	Sit Down
+301200	Gestures
+302000	Silencing Blank
+302100	Silencing Blank
+302101	
+302102	
+302103	
+302104	
+302105	
+302106	
+302107	
+302108	
+302109	
+302110	Silence beckoning bell
+302111	Silence small bell
+302112	Silence sinister bell
+302113	Silence the Bell
+302114	
+302115	
+302116	
+302117	
+302118	
+302119	
+302120	Send Hunter to Own World
+302121	Return to Your Own World
+302122	Return to Your Own World
+302123	Disrupt Resonance
+304000	Personal Effects
+304001	*
+304002	*
+304003	*
+304004	*
+304005	*
+304006	*
+305000	Vileblood Register
+305001	
+305002	
+305003	
+305004	
+305005	
+305006	
+305007	
+305008	
+305009	
+305010	Hierarchy
+305011	Name
+305012	Seeds Offered
+310000	Write Note
+310001	Notes Made
+310002	Notes Read
+310003	
+310004	
+310005	
+310006	
+310007	
+310008	
+310009	
+310010	Notebook
+311000	Fine notes
+311001	Foul notes
+311002	Protect
+321000	Templates
+321001	Words
+321002	Conjunctions
+321003	Templates (2nd Line)
+321004	Words (2nd Line)
+321005	Gestures
+321006	Finish
+321007	
+321008	
+321009	
+321010	Write Note
+322000	Fine
+322001	Foul
+322002	
+322003	
+322004	
+322005	
+322006	
+322007	
+322008	
+322009	
+322010	Notes Made
+323000	Appraisals
+323001	
+323002	
+323003	
+323004	
+323005	
+323006	
+323007	
+323008	
+323009	
+323010	*
+324000	Notes Read
+325000	*
+325001	*
+401000	PRESS THE X BUTTON
+401001	*
+401002	*
+401003	
+401004	
+401005	
+401006	
+401007	
+401008	
+401009	
+401010	PLAY OFFLINE
+401011	PLAY ONLINE
+401110	Checking save data...
+401111	Creating save data...
+401112	Updating save data...
+401113	Checking for DLC...
+401114	
+401115	
+401116	
+401117	
+401118	
+401119	
+401120	Checking network status...
+401150	Connecting to Bloodborne server...
+401151	
+401152	
+401153	
+401154	
+401155	
+401156	
+401157	
+401158	
+401159	
+401160	Acquiring data from Bloodborne server...
+401161	
+401162	
+401163	
+401164	
+401165	
+401166	
+401167	
+401168	
+401169	
+401170	Registering data with Bloodborne server...
+401301	Continue
+401302	Load Game
+401303	New Game
+401304	Settings
+401305	Information
+401306	Log In
+401307	Opinion Box
+401308	
+401309	
+401310	Online
+401311	Offline
+401312	*
+401313	*
+401314	
+401315	
+401316	
+401317	
+401318	
+401319	
+401320	App ver.
+401321	Server ver.
+401400	Information
+401401	There is no new information.
+401500	User Agreement
+401501	
+401502	
+401503	
+401504	
+401505	
+401506	
+401507	
+401508	
+401509	
+401510	Accept
+401511	Decline
+402000	Contract
+402011	Enter Name
+402012	Gender
+402013	Age
+402014	Origin
+402015	*
+402016	Appearance
+402017	Finish
+402018	Complete
+402101	Please Enter Name
+402102	
+402103	
+402104	
+402105	
+402106	
+402107	
+402108	
+402109	
+402110	
+402111	Entry Incomplete
+402201	Male
+402202	Female
+402203	
+402204	
+402205	
+402206	
+402207	
+402208	
+402209	
+402210	
+402211	*
+402212	*
+402301	Young
+402302	Mature
+402303	Aged
+402304	
+402305	
+402306	
+402307	
+402308	
+402309	
+402310	
+402311	*
+402312	*
+402313	*
+402401	Milquetoast
+402402	Lone Survivor
+402403	Troubled Childhood
+402404	Violent Past
+402405	Professional
+402406	Military Veteran
+402407	Noble Scion
+402408	Cruel Fate
+402409	Waste of Skin
+402410	(Not needed)
+402421	*
+402422	*
+402423	*
+402424	*
+402425	*
+402426	*
+402427	*
+402428	*
+402429	*
+402430	*
+402501	*
+402502	*
+402503	*
+402504	*
+402505	*
+402506	*
+402507	*
+402508	*
+402509	*
+402510	*
+402511	*
+402512	
+402513	
+402514	
+402515	
+402516	
+402517	
+402518	
+402519	
+402520	
+402521	*
+402522	*
+402523	*
+402524	*
+402525	*
+402526	*
+402527	*
+402528	*
+402529	*
+402530	*
+402531	*
+402600	Please Enter Name
+407000	Cleaver Saw/Blunderbuss\n(Standard)
+407001	Hunter’s Axe/Pistol\n(Heavy)
+407002	Kirkhammer/Blunderbuss\n(Sword & heavy attack)
+407003	Warped Twinblades/Pistol\n(Agile)
+407004	*
+407005	
+407006	
+407007	
+407008	
+407009	
+407010	Saw Hunter
+407011	Axe Hunter
+407012	Church Hunter
+407013	Blackplume Hunter
+420000	Appearance
+420001	
+420002	
+420003	
+420004	
+420005	
+420006	
+420007	
+420008	
+420009	
+420010	*
+420011	*
+420012	Default
+421000	*
+421100	Build
+421101	
+421102	
+421103	
+421104	
+421105	
+421106	
+421107	
+421108	
+421109	
+421110	Standard
+421111	Slim
+421112	Very Slim
+421113	Burly
+421114	Very Burly
+421115	Burly Upper-body
+421116	Burly Lower-body
+421117	Large Head
+421118	Small Head
+421200	*
+421201	
+421202	
+421203	
+421204	
+421205	
+421206	
+421207	
+421208	
+421209	
+421210	*
+421211	*
+421212	*
+421300	Base Skin Color
+422000	*
+422100	Scale Adjustment
+422210	Head
+422211	Small
+422212	Large
+422213	
+422214	
+422215	
+422216	
+422217	
+422218	
+422219	
+422220	Chest
+422221	Small
+422222	Large
+422223	
+422224	
+422225	
+422226	
+422227	
+422228	
+422229	
+422230	Abdomen
+422231	Small
+422232	Large
+422233	
+422234	
+422235	
+422236	
+422237	
+422238	
+422239	
+422240	Arms
+422241	Small
+422242	Large
+422243	
+422244	
+422245	
+422246	
+422247	
+422248	
+422249	
+422250	Legs
+422251	Small
+422252	Large
+423000	*
+423100	Face Presets
+423200	Size of Pupils
+423300	Color of Pupils
+423400	Brow
+423500	Brow Color
+423600	Eyelashes
+423700	Eyelash Color
+424000	Face Details
+424100	Features
+424101	
+424102	
+424103	
+424104	
+424105	
+424106	
+424107	
+424108	
+424109	
+424110	Apparent Age
+424111	Young
+424112	Aged
+424113	
+424114	
+424115	
+424116	
+424117	
+424118	
+424119	
+424120	Facial Aesthetic
+424121	Masculine
+424122	Feminine
+424123	
+424124	
+424125	
+424126	
+424127	
+424128	
+424129	
+424130	Form Emphasis
+424131	Weak
+424132	Strong
+424200	Random
+424300	Similar Face
+424400	Face Shape
+424500	*
+424600	Skin Color/Makeup
+425000	*
+425100	Facial Balance
+425101	
+425102	
+425103	
+425104	
+425105	
+425106	
+425107	
+425108	
+425109	
+425110	Nose Size
+425111	Wide
+425112	Narrow
+425113	
+425114	
+425115	
+425116	
+425117	
+425118	
+425119	
+425120	Nose/Forehead Ratio
+425121	Nose
+425122	Forehead
+425123	
+425124	
+425125	
+425126	
+425127	
+425128	
+425129	
+425130	Face Aspect Ratio
+425131	Horizontal
+425132	Vertical
+425133	
+425134	
+425135	
+425136	
+425137	
+425138	
+425139	
+425140	Face Protrusion
+425141	Concave
+425142	Convex
+425143	
+425144	
+425145	
+425146	
+425147	
+425148	
+425149	
+425150	Vert. Facial Spacing
+425151	Wide
+425152	Narrow
+425153	
+425154	
+425155	
+425156	
+425157	
+425158	
+425159	
+425160	Facial Feature Slant
+425161	Up
+425162	Down
+425163	
+425164	
+425165	
+425166	
+425167	
+425168	
+425169	
+425170	Horiz. Facial Spacing
+425171	Wide
+425172	Narrow
+425200	Forehead/Glabella
+425201	
+425202	
+425203	
+425204	
+425205	
+425206	
+425207	
+425208	
+425209	
+425210	Forehead Width
+425211	Narrow
+425212	Wide
+425213	
+425214	
+425215	
+425216	
+425217	
+425218	
+425219	
+425220	Forehead Depth
+425221	Slight
+425222	Deep
+425223	
+425224	
+425225	
+425226	
+425227	
+425228	
+425229	
+425230	Forehead Protrusion
+425231	Convex
+425232	Concave
+425233	
+425234	
+425235	
+425236	
+425237	
+425238	
+425239	
+425240	Nose Bridge Height
+425241	Low
+425242	High
+425243	
+425244	
+425245	
+425246	
+425247	
+425248	
+425249	
+425250	Bridge Protrusion 1
+425251	Concave
+425252	Convex
+425253	
+425254	
+425255	
+425256	
+425257	
+425258	
+425259	
+425260	Bridge Protrusion 2
+425261	Concave
+425262	Convex
+425263	
+425264	
+425265	
+425266	
+425267	
+425268	
+425269	
+425270	Nose Bridge Width
+425271	Narrow
+425272	Wide
+425300	Brow Ridge
+425301	
+425302	
+425303	
+425304	
+425305	
+425306	
+425307	
+425308	
+425309	
+425310	Brow Ridge Height
+425311	High
+425312	Low
+425313	
+425314	
+425315	
+425316	
+425317	
+425318	
+425319	
+425320	Inner Brow Ridge
+425321	Low
+425322	High
+425323	
+425324	
+425325	
+425326	
+425327	
+425328	
+425329	
+425330	Outer Brow Ridge
+425331	High
+425332	Low
+425400	Eyes
+425401	
+425402	
+425403	
+425404	
+425405	
+425406	
+425407	
+425408	
+425409	
+425410	Eye Position
+425411	Down
+425412	Up
+425413	
+425414	
+425415	
+425416	
+425417	
+425418	
+425419	
+425420	Eye Size
+425421	Small
+425422	Large
+425423	
+425424	
+425425	
+425426	
+425427	
+425428	
+425429	
+425430	Eye Slant
+425431	In
+425432	Out
+425433	
+425434	
+425435	
+425436	
+425437	
+425438	
+425439	
+425440	Eye Spacing
+425441	Wide
+425442	Narrow
+425500	Nose Ridge
+425501	
+425502	
+425503	
+425504	
+425505	
+425506	
+425507	
+425508	
+425509	
+425510	Nose Ridge Depth
+425511	Short
+425512	Long
+425513	
+425514	
+425515	
+425516	
+425517	
+425518	
+425519	
+425520	Nose Ridge Length
+425521	Short
+425522	Long
+425523	
+425524	
+425525	
+425526	
+425527	
+425528	
+425529	
+425530	Nose Position
+425531	Down
+425532	Up
+425533	
+425534	
+425535	
+425536	
+425537	
+425538	
+425539	
+425540	Nose Tip Height
+425541	Low
+425542	High
+425543	
+425544	
+425545	
+425546	
+425547	
+425548	
+425549	
+425550	Nose Protrusion
+425551	Concave
+425552	Convex
+425553	
+425554	
+425555	
+425556	
+425557	
+425558	
+425559	
+425560	Nose Height
+425561	Low
+425562	High
+425563	
+425564	
+425565	
+425566	
+425567	
+425568	
+425569	
+425570	Nose Slant
+425571	Down
+425572	Up
+425600	Nostrils
+425601	
+425602	
+425603	
+425604	
+425605	
+425606	
+425607	
+425608	
+425609	
+425610	Nostril Slant
+425611	Down
+425612	Up
+425613	
+425614	
+425615	
+425616	
+425617	
+425618	
+425619	
+425620	Nostril Size
+425621	Small
+425622	Large
+425623	
+425624	
+425625	
+425626	
+425627	
+425628	
+425629	
+425630	Nostril Width
+425631	Wide
+425632	Narrow
+425633	
+425634	
+425635	
+425636	
+425637	
+425638	
+425639	
+425640	Nasal Size
+425641	Small
+425642	Large
+425700	Cheeks
+425701	
+425702	
+425703	
+425704	
+425705	
+425706	
+425707	
+425708	
+425709	
+425710	Cheekbone Height
+425711	Low
+425712	High
+425713	
+425714	
+425715	
+425716	
+425717	
+425718	
+425719	
+425720	Cheekbone Depth
+425721	Low
+425722	High
+425723	
+425724	
+425725	
+425726	
+425727	
+425728	
+425729	
+425730	Cheekbone Width
+425731	Low
+425732	High
+425733	
+425734	
+425735	
+425736	
+425737	
+425738	
+425739	
+425740	Cheekbone Protrusion
+425741	Concave
+425742	Convex
+425743	
+425744	
+425745	
+425746	
+425747	
+425748	
+425749	
+425750	Cheek Thickness
+425751	Thick
+425752	Thin
+425753	
+425754	
+425755	
+425756	
+425757	
+425758	
+425759	
+425760	Laugh Lines
+425761	Light
+425762	Dark
+425800	Lips
+425801	
+425802	
+425803	
+425804	
+425805	
+425806	
+425807	
+425808	
+425809	
+425810	Lip Shape
+425811	Open
+425812	Purse
+425813	
+425814	
+425815	
+425816	
+425817	
+425818	
+425819	
+425820	Mouth Expression
+425821	Happy
+425822	Sad
+425823	
+425824	
+425825	
+425826	
+425827	
+425828	
+425829	
+425830	Lip Fullness
+425831	Small
+425832	Large
+425833	
+425834	
+425835	
+425836	
+425837	
+425838	
+425839	
+425840	Lip Size
+425841	Large
+425842	Small
+425843	
+425844	
+425845	
+425846	
+425847	
+425848	
+425849	
+425850	Lip Protrusion
+425851	Convex
+425852	Concave
+425853	
+425854	
+425855	
+425856	
+425857	
+425858	
+425859	
+425860	Lip Thickness
+425861	Thin
+425862	Thick
+425900	Mouth
+425901	
+425902	
+425903	
+425904	
+425905	
+425906	
+425907	
+425908	
+425909	
+425910	Mouth Protrusion
+425911	Convex
+425912	Concave
+425913	
+425914	
+425915	
+425916	
+425917	
+425918	
+425919	
+425920	Mouth Slant
+425921	Up
+425922	Down
+425923	
+425924	
+425925	
+425926	
+425927	
+425928	
+425929	
+425930	Occlusion
+425931	Down
+425932	Up
+425933	
+425934	
+425935	
+425936	
+425937	
+425938	
+425939	
+425940	Mouth Position
+425941	Up
+425942	Down
+425943	
+425944	
+425945	
+425946	
+425947	
+425948	
+425949	
+425950	Mouth Width
+425951	Wide
+425952	Narrow
+425953	
+425954	
+425955	
+425956	
+425957	
+425958	
+425959	
+425960	Mouth-Chin Distance
+425961	Short
+425962	Long
+426000	Chin
+426001	
+426002	
+426003	
+426004	
+426005	
+426006	
+426007	
+426008	
+426009	
+426010	Chin Tip Position
+426011	Front
+426012	Back
+426013	
+426014	
+426015	
+426016	
+426017	
+426018	
+426019	
+426020	Chin Length
+426021	Long
+426022	Short
+426023	
+426024	
+426025	
+426026	
+426027	
+426028	
+426029	
+426030	Chin Protrusion
+426031	Small
+426032	Large
+426033	
+426034	
+426035	
+426036	
+426037	
+426038	
+426039	
+426040	Chin Depth
+426041	Slight
+426042	Deep
+426043	
+426044	
+426045	
+426046	
+426047	
+426048	
+426049	
+426050	Chin Size
+426051	Small
+426052	Large
+426053	
+426054	
+426055	
+426056	
+426057	
+426058	
+426059	
+426060	Chin Height
+426061	Low
+426062	High
+426063	
+426064	
+426065	
+426066	
+426067	
+426068	
+426069	
+426070	Chin Width
+426071	Wide
+426072	Narrow
+426100	Jaw
+426101	
+426102	
+426103	
+426104	
+426105	
+426106	
+426107	
+426108	
+426109	
+426110	Jaw Protrusion
+426111	Small
+426112	Large
+426113	
+426114	
+426115	
+426116	
+426117	
+426118	
+426119	
+426120	Jaw Width
+426121	Wide
+426122	Narrow
+426123	
+426124	
+426125	
+426126	
+426127	
+426128	
+426129	
+426130	Lower Jaw
+426131	High
+426132	Low
+426133	
+426134	
+426135	
+426136	
+426137	
+426138	
+426139	
+426140	Jaw Contour
+426141	Thin
+426142	Thick
+426200	Skin Color
+426201	
+426202	
+426203	
+426204	
+426205	
+426206	
+426207	
+426208	
+426209	
+426210	Skin Tone
+426211	Dark
+426212	Light
+426213	
+426214	
+426215	
+426216	
+426217	
+426218	
+426219	
+426220	Nose Bridge Color
+426221	Pale
+426222	Red
+426223	
+426224	
+426225	
+426226	
+426227	
+426228	
+426229	
+426230	Cheek Color
+426231	White
+426232	Red
+426233	
+426234	
+426235	
+426236	
+426237	
+426238	
+426239	
+426240	Skin Color Layer 1
+426241	Orange
+426242	Blue
+426243	
+426244	
+426245	
+426246	
+426247	
+426248	
+426249	
+426250	Skin Color Layer 2
+426251	Purple
+426252	Yellow
+426253	
+426254	
+426255	
+426256	
+426257	
+426258	
+426259	
+426260	Skin Color Layer 3
+426261	Red
+426262	Green
+426263	
+426264	
+426265	
+426266	
+426267	
+426268	
+426269	
+426270	*
+426271	*
+426272	*
+426300	Eye Area
+426301	
+426302	
+426303	
+426304	
+426305	
+426306	
+426307	
+426308	
+426309	
+426310	Eye Socket Color
+426311	Dark
+426312	Light
+426313	
+426314	
+426315	
+426316	
+426317	
+426318	
+426319	
+426320	Eye Socket Brightness
+426321	Dark
+426322	Light
+426323	
+426324	
+426325	
+426326	
+426327	
+426328	
+426329	
+426330	Eyelid Brightness
+426331	Light
+426332	Dark
+426333	
+426334	
+426335	
+426336	
+426337	
+426338	
+426339	
+426340	Eyelid Color
+426341	Pale
+426342	Red
+426343	
+426344	
+426345	
+426346	
+426347	
+426348	
+426349	
+426350	Eyeliner
+426351	Light
+426352	Dark
+426353	
+426354	
+426355	
+426356	
+426357	
+426358	
+426359	
+426360	Eye Shadow
+426361	Light
+426362	Dark
+426400	Lipstick
+426401	
+426402	
+426403	
+426404	
+426405	
+426406	
+426407	
+426408	
+426409	
+426410	Lipstick 1
+426411	Dark Red
+426412	Powder Blue
+426413	
+426414	
+426415	
+426416	
+426417	
+426418	
+426419	
+426420	Lipstick 2
+426421	Dark Blue
+426422	Bright Red
+427000	*
+427100	Right Pupil Size
+427200	Right Pupil Color
+427300	Left Pupil Size
+427400	Left Pupil Color
+428000	Hair/Facial Hair
+428001	Hair/brow/eyelash
+428100	Hair
+428200	Hair Color
+428300	Beard
+428400	Beard Color
+428500	*
+428600	*
+428700	Hair/Brow/Beard Color
+428701	Hair/brow color
+428800	*
+429100	Tattoo/Mark
+429200	Glasses
+430000	Tattoo/Mark/Glasses
+430100	Tattoo/Mark Color
+430200	Tweak Tattoo/Mark
+430201	
+430202	
+430203	
+430204	
+430205	
+430206	
+430207	
+430208	
+430209	
+430210	Position (Vertical)
+430211	Up
+430212	Down
+430213	
+430214	
+430215	
+430216	
+430217	
+430218	
+430219	
+430220	Position (Horizontal)
+430221	Left
+430222	Right
+430223	
+430224	
+430225	
+430226	
+430227	
+430228	
+430229	
+430230	Angle
+430231	Rotate Left
+430232	Rotate Right
+430233	
+430234	
+430235	
+430236	
+430237	
+430238	
+430239	
+430240	Expansion
+430241	Small
+430242	Large
+430300	Color of Glasses
+431100	Voice
+431101	
+431102	
+431103	
+431104	
+431105	
+431106	
+431107	
+431108	
+431109	
+431110	Young Voice
+431111	
+431112	
+431113	
+431114	
+431115	
+431116	
+431117	
+431118	
+431119	
+431120	Mature Voice
+431121	
+431122	
+431123	
+431124	
+431125	
+431126	
+431127	
+431128	
+431129	
+431130	Aged Voice
+431131	
+431132	
+431133	
+431134	
+431135	
+431136	
+431137	
+431138	
+431139	
+431140	*
+431141	
+431142	
+431143	
+431144	
+431145	
+431146	
+431147	
+431148	
+431149	
+431150	*
+431151	
+431152	
+431153	
+431154	
+431155	
+431156	
+431157	
+431158	
+431159	
+431160	*
+432100	Load Favorite
+432200	Save to Favorites
+433000	Pupils
+522000	PREY SLAUGHTERED
+522001	YOU DIED
+522002	UNLOCKED
+522003	PREY SLAUGHTERED
+522004	SINISTER PRESENCE EXPUNGED
+522005	BLOOD ECHOES RETRIEVED
+522006	
+522007	NIGHTMARE SLAIN

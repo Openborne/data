@@ -1,0 +1,100 @@
+2100	Hunter's Dream
+2101	
+2102	
+2103	
+2104	
+2105	
+2106	
+2107	
+2108	
+2109	
+2110	Abandoned Old Workshop 
+2200	Hemwick Charnel Lane
+2300	Old Yharnam
+2400	Cathedral Ward
+2401	
+2402	
+2403	
+2404	
+2405	
+2406	
+2407	
+2408	
+2409	
+2410	Central Yharnam
+2411	Iosefka's Clinic
+2412	
+2413	
+2414	
+2415	
+2416	
+2417	
+2418	
+2419	
+2420	Upper Cathedral Ward
+2421	Healing Church Workshop 
+2422	Altar of Despair 
+2500	Forsaken Cainhurst Castle
+2600	Nightmare of Mensis
+2700	Forbidden Woods
+2800	Yahar'gul, Unseen Village
+3200	Byrgenwerth
+3201	Lecture Building
+3202	Moonside Lake
+3300	Nightmare Frontier
+90301	 Lvl 1
+90302	 Lvl 2
+90303	 Lvl 3
+90304	 Lvl 4
+90900	Gremia Tomb: Depth 1 
+100000	Pthumerian Labyrinth 
+100110	Fetid Pthumerian Labyrinth 
+200000	Central Pthumerian Labyrinth 
+200110	Fetid Central Pthumerian Labyrinth 
+201000	Hintertomb 
+201110	Fetid Hintertomb 
+300000	Lower Pthumerian Labyrinth 
+300110	Fetid Lower Pthumerian Labyrinth 
+300200	Rotted Lower Pthumerian Labyrinth 
+300400	Sinister Lower Pthumerian Labyrinth 
+301000	Lower Hintertomb 
+301110	Fetid Lower Hintertomb 
+301200	Rotted Lower Hintertomb 
+301400	Sinister Lower Hintertomb 
+302000	Ailing Loran: Depth 3 
+302110	Shadow Loran: Depth 3 
+302400	Sinister Loran: Depth 3 
+400000	Pthumerian Defilement 
+400110	Fetid Pthumerian Defilement 
+400200	Rotted Pthumerian Defilement 
+400400	Sinister Pthumerian Labyrinth: Depth 4 
+400700	Cursed Pthumerian Defilement 
+401000	Hintertomb: Depth 4 
+401110	Shadow Hintertomb: Depth 4 
+401400	Sinister Hintertomb: Depth 4 
+402000	Ailing Loran 
+402110	Fetid Ailing Loran 
+402200	Rotted Ailing Loran 
+402400	Sinister Loran: Depth 4 
+403000	Isz Gravestone: Depth 4 
+403110	Shadow Isz Gravestone: Depth 4 
+403400	Sinister Isz Gravestone: Depth 4 
+500000	Pthumeru Ihyll 
+500110	Fetid Pthumeru Ihyll 
+500200	Rotted Pthumeru Ihyll 
+500400	Sinister Pthumeru Ihyll 
+500700	Cursed Pthumeru Ihyll 
+501000	Hintertomb: Depth 5 
+501110	Shadow Hintertomb: Depth 5 
+501400	Sinister Hintertomb: Depth 5 
+501700	Cursed Hintertomb: Depth 5 
+502000	Lower Loran 
+502110	Fetid Lower Loran 
+502200	Rotted Lower Loran 
+502400	Sinister Lower Loran 
+502700	Cursed Lower Loran 
+503000	Isz Gravestone 
+503110	Fetid Isz Gravestone 
+503200	Rotted Isz Gravestone 
+503400	Sinister Isz Gravestone 
+503700	Cursed Isz Gravestone 

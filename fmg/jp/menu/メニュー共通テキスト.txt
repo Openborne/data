@@ -1,0 +1,979 @@
+1000	∞
+3000	OK
+3001	CANCEL
+3002	YES
+3003	NO
+3004	決定
+3005	キャンセル
+10000	なし
+10001	銃撃
+10002	
+10003	
+10004	
+10005	
+10006	
+10007	
+10008	
+10009	
+10010	打撃
+10011	打撃／銃撃
+10100	斬撃
+10101	斬撃／銃撃
+10102	
+10103	
+10104	
+10105	
+10106	
+10107	
+10108	
+10109	
+10110	打撃／斬撃
+10111	打撃／斬撃／銃撃
+11000	刺突
+11001	刺突／銃撃
+11002	
+11003	
+11004	
+11005	
+11006	
+11007	
+11008	
+11009	
+11010	打撃／刺突
+11011	打撃／刺突／銃撃
+11100	斬撃／刺突
+11101	斬撃／刺突／銃撃
+11102	
+11103	
+11104	
+11105	
+11106	
+11107	
+11108	
+11109	
+11110	打撃／斬撃／刺突
+11111	打撃／斬撃／刺突／銃撃
+101000	名前
+101001	性別
+101002	契約
+101003	生命力
+101004	血清量
+101005	-
+101006	力強さ
+101007	巧妙さ
+101008	-
+101009	血の力
+101010	血の神秘
+101011	-
+101012	真実知
+101013	レベル
+101014	思い出の品
+101015	
+101016	プレイ時間
+101017	生まれ
+101018	現在地
+101030	HP
+101031	
+101032	SP
+101033	耐性：急性毒
+101034	耐性：毒
+101035	耐性：汚染
+101036	耐性：発狂
+101037	気付き
+101038	
+101039	
+101040	装備重量
+101041	所持鮮血
+101042	右　武器1
+101043	右　武器2
+101044	左　武器1
+101045	左　武器2
+101046	防御力：銃撃
+101047	防御力：打撃
+101048	防御力：斬撃
+101049	防御力：刺突
+101050	防御力：神秘
+101051	防御力：炎
+101052	防御力：雷
+101053	-
+101054	
+101055	
+101056	
+101057	
+101058	
+101059	
+101060	スロット数
+101061	
+101062	-
+101063	-
+102000	重量
+102001	耐久度
+102100	攻撃力
+102101	物理
+102102	神秘
+102103	炎
+102104	雷
+102105	致命
+102106	銃撃威力
+102107	神秘威力
+102108	距離
+102109	-
+102120	ダメージカット率
+102121	物理
+102122	神秘
+102123	炎
+102124	雷
+102125	ガード能力
+102126	
+102127	
+102128	
+102129	
+102130	能力値補正
+102131	特殊効果
+102132	必要能力値
+102150	-
+102151	S
+102152	A
+102153	B
+102154	C
+102155	D
+102156	E
+102157	
+102158	
+102159	
+102160	攻撃属性：
+102161	
+102162	
+102163	
+102164	
+102165	
+102166	
+102167	
+102168	
+102169	
+102170	武器種別：
+102200	防御力：銃撃
+102201	防御力：打撃
+102202	防御力：斬撃
+102203	防御力：刺突
+102204	防御力：神秘
+102205	防御力：炎
+102206	防御力：雷
+102207	強靭度
+102208	
+102209	
+102210	耐性：急性毒
+102211	耐性：毒
+102212	耐性：汚染
+102213	耐性：発狂
+102214	
+102215	
+102216	
+102217	
+102218	
+102219	
+102220	男女両用
+102221	男性専用
+102222	女性専用
+103001	威力
+103002	種別：
+103003	使用スロット
+103004	必要能力値：血の力
+103005	必要能力値：血の神秘
+103006	
+103007	
+103008	
+103009	
+103010	神秘
+103011	短銃
+103012	長銃
+104000	プレイ時間
+105000	所持数
+105001	要求鮮血量
+105002	要求アイテム
+105100	なし
+105101	白教
+105102	王女の守り
+105103	太陽の戦士
+105104	ダークレイス
+105105	古竜への道
+105106	墓王の眷属
+105107	森の狩猟者
+105108	暗月の剣
+105109	混沌の従者
+105110	なし
+105111	白教＋１
+105112	王女の守り＋１
+105113	太陽の戦士＋１
+105114	ダークレイス＋１
+105115	古竜への道＋１
+105116	墓王の眷属＋１
+105117	森の狩猟者＋１
+105118	暗月の剣＋１
+105119	混沌の従者＋１
+105120	なし
+105121	白教＋２
+105122	王女の守り＋２
+105123	太陽の戦士＋２
+105124	ダークレイス＋２
+105125	古竜への道＋２
+105126	墓王の眷属＋２
+105127	森の狩猟者＋２
+105128	暗月の剣＋２
+105129	混沌の従者＋２
+105130	なし
+105131	白教＋３
+105132	王女の守り＋３
+105133	太陽の戦士＋３
+105134	ダークレイス＋３
+105135	古竜への道＋３
+105136	墓王の眷属＋３
+105137	森の狩猟者＋３
+105138	暗月の剣＋３
+105139	混沌の従者＋３
+201000	<?pcName?>
+201001	<?pcGender?>
+201002	<?pcOath?>
+201003	<?pcVitality?>
+201004	<?pcWill?>
+201005	<?pcEndur?>
+201006	<?pcStrength?>
+201007	<?pcDexter?>
+201008	<?pcDurability?>
+201009	<?pcIntellect?>
+201010	<?pcForce?>
+201011	<?pcLuck?>
+201012	<?pcHeroic?>
+201013	<?pcLevel?>
+201014	<?pcGift?>
+201015	<?pcAppearance?>
+201016	<?pcPlayTime?>
+201017	<?pcFeature?>
+201018	<?mapName?>
+201019	
+201020	
+201021	
+201022	
+201023	
+201024	
+201025	<?pcFaceType?>
+201026	<?pcHairType?>
+201027	<?pcHairEyeColor?>
+201028	<?warpName7?>
+201029	<?warpName8?>
+201030	<?pcHP?>/<?pcMaxHp?>
+201031	<?pcMP?>/<?pcMaxMp?>
+201032	<?pcMaxStamina?>
+201033	<?resistBleedingTotal?>
+201034	<?resistPoisonTotal?>
+201035	<?resistPlagueTotal?>
+201036	<?resistCurseTotal?>
+201037	<?pcItemOccur?>
+201038	<?magicCount?>/<?magicMaxCount?>
+201039	
+201040	<?equipWeight?>/<?maxEquipWeight?>
+201041	<?souls?>
+201042	<?atckR1?>
+201043	<?atckR2?>
+201044	<?atckL1?>
+201045	<?atckL2?>
+201046	<?defPhysicalTotal?>(<?defPhysicalPC?>)
+201047	<?defBluntTotal?>
+201048	<?defCutTotal?>
+201049	<?defStabTotal?>
+201050	<?defMagicTotal?>(<?defMagicPC?>)
+201051	<?defFireTotal?>(<?defFirePC?>)
+201052	<?defThunderboltTotal?>(<?defThunderboltPC?>)
+201053	<?defSAToughnessTotal?>
+201054	
+201055	
+201056	
+201057	
+201058	
+201059	
+201060	<?magicSlotNum?>
+201061	<?miracleSlotNum?>
+201062	
+201063	
+201064	
+201065	
+201066	
+201067	
+201068	
+201069	
+201070	<?lvUpAfterSouls?>
+201071	<?lvUpCostSouls?>
+201072	
+201073	
+201074	
+201075	
+201076	
+201077	
+201078	
+201079	
+201080	<?pcMaxHp?>
+201081	<?pcMaxMp?>
+201082	<?defPhysicalTotal?>
+201083	<?defMagicTotal?>
+201084	<?defFireTotal?>
+201085	<?defThunderboltTotal?>
+201086	<?maxEquipWeight?>
+201103	<?lvUpPcVitality?>
+201104	<?lvUpPcWill?>
+201105	<?lvUpPcEndur?>
+201106	<?lvUpPcStrength?>
+201107	<?lvUpPcDexter?>
+201108	<?lvUpPcDurability?>
+201109	<?lvUpPcIntellect?>
+201110	<?lvUpPcForce?>
+201111	<?lvUpPcLuck?>
+201112	<?lvUpPcHeroic?>
+201113	<?lvUpPcLevel?>
+201132	<?lvUpPcMaxStamina?>
+201133	<?lvUpResistBleedingTotal?>
+201134	<?lvUpResistPoisonTotal?>
+201135	<?lvUpResistPlagueTotal?>
+201136	<?lvUpResistCurseTotal?>
+201137	<?lvUpPcItemOccur?>
+201138	
+201139	
+201140	<?lvUpMaxEquipWeight?>
+201141	
+201142	<?lvUpAtkR1?>
+201143	<?lvUpAtkR2?>
+201144	<?lvUpAtkL1?>
+201145	<?lvUpAtkL2?>
+201146	
+201147	<?lvUpDefBlunt?>
+201148	<?lvUpDefCut?>
+201149	<?lvUpDefStab?>
+201160	<?lvUpMagicSlotNum?>
+201161	<?lvUpMiracleSlotNum?>
+201180	<?lvUpPcMaxHp?>
+201181	<?lvUpPcMaxMp?>
+201182	<?lvUpDefPhysicalTotal?>
+201183	<?lvUpDefMagicTotal?>
+201184	<?lvUpDefFireTotal?>
+201185	<?lvUpDefThunderboltTotal?>
+201186	
+201187	<?lvUpDefSAToughnessTotal?>
+201188	
+201189	
+201190	<?lvUpWpPhysicalAtkPlus?>
+201191	<?lvUpWpAttributeAtkPlus?>
+201192	<?lvUpWpCriticalAtkPlus?>
+201193	<?lvUpWpMagicAtkPlus?>
+201194	<?lvUpWpFireAtkPlus?>
+201195	<?lvUpWpThunderboltAtkPlus?>
+201196	<?lvUpWpMagicAdjust?>
+201197	<?lvUpWpMiracleAdjust?>
+202000	<?itemListName1?>
+202001	<?itemListName2?>
+202002	<?itemListName3?>
+202003	<?itemListName4?>
+202004	<?itemListName5?>
+202005	
+202006	
+202007	
+202008	
+202009	
+202010	<?itemListNum1?>
+202011	<?itemListNum2?>
+202012	<?itemListNum3?>
+202013	<?itemListNum4?>
+202014	<?itemListNum5?>
+202015	
+202016	
+202017	
+202018	
+202019	
+202020	<?itemListLineMsg1?>
+202021	<?itemListLineMsg2?>
+202022	<?itemListLineMsg3?>
+202023	<?itemListLineMsg4?>
+202024	<?itemListLineMsg5?>
+202025	
+202026	
+202027	
+202028	
+202029	
+202030	<?itemListWeight1?>
+202031	<?itemListWeight2?>
+202032	<?itemListWeight3?>
+202033	<?itemListWeight4?>
+202034	<?itemListWeight5?>
+202035	<?itemListDuration1?>
+202036	<?itemListDuration2?>
+202037	<?itemListDuration3?>
+202038	<?itemListDuration4?>
+202039	<?itemListDuration5?>
+202040	<?itemListWpPhysicalAtk1?>
+202041	<?itemListWpPhysicalAtk2?>
+202042	<?itemListWpPhysicalAtk3?>
+202043	<?itemListWpPhysicalAtk4?>
+202044	<?itemListWpPhysicalAtk5?>
+202045	<?itemListWpAttributeAtk1?>
+202046	<?itemListWpAttributeAtk2?>
+202047	<?itemListWpAttributeAtk3?>
+202048	<?itemListWpAttributeAtk4?>
+202049	<?itemListWpAttributeAtk5?>
+202050	<?itemListDefPhysical1?>
+202051	<?itemListDefPhysical2?>
+202052	<?itemListDefPhysical3?>
+202053	<?itemListDefPhysical4?>
+202054	<?itemListDefPhysical5?>
+202055	<?itemListDefMagic1?>
+202056	<?itemListDefMagic2?>
+202057	<?itemListDefMagic3?>
+202058	<?itemListDefMagic4?>
+202059	<?itemListDefMagic5?>
+202060	<?itemListDefFire1?>
+202061	<?itemListDefFire2?>
+202062	<?itemListDefFire3?>
+202063	<?itemListDefFire4?>
+202064	<?itemListDefFire5?>
+202065	<?itemListDefThunderbolt1?>
+202066	<?itemListDefThunderbolt2?>
+202067	<?itemListDefThunderbolt3?>
+202068	<?itemListDefThunderbolt4?>
+202069	<?itemListDefThunderbolt5?>
+202080	<?itemName?>
+202081	<?itemLineMsg?>
+202082	<?itemDetail?>
+202083	<?itemNum?>
+202084	<?duration?>
+202085	<?maxDuration?>
+202086	<?weight?>
+202087	<?itemNameBeforeForge?>
+202088	<?itemNameAfterForge?>
+202100	<?wpAtkType?>
+202101	<?wpType?>
+202102	<?wpPhysicalAtk?>
+202103	<?wpAttributeAtk?>
+202104	<?wpCriticalAtk?>
+202105	<?wpPhysicalAtkPlus?>
+202106	<?wpAttributeAtkPlus?>
+202107	<?wpCriticalAtkPlus?>
+202108	<?wpShotRange?>
+202109	
+202110	<?wpCutPhysical?>
+202111	<?wpCutMagic?>
+202112	<?wpCutFire?>
+202113	<?wpCutThunderbolt?>
+202114	<?wpHitRes?>
+202115	<?atkPlusPcStrength?>
+202116	<?atkPlusPcDexter?>
+202117	<?atkPlusPcIntellect?>
+202118	<?atkPlusPcForce?>
+202119	<?reqPcStrength?>
+202120	<?reqPcDexter?>
+202121	<?reqPcIntellect?>
+202122	<?reqPcForce?>
+202123	<?effectBleeding?>
+202124	<?effectPoison?>
+202125	<?effectPlague?>
+202126	<?effectCurse?>
+202127	<?wpMagicAtk?>
+202128	<?wpFireAtk?>
+202129	<?wpThunderboltAtk?>
+202130	<?wpMagicAtkPlus?>
+202131	<?wpFireAtkPlus?>
+202132	<?wpThunderboltAtkPlus?>
+202133	<?wpMagicAdjust?>
+202134	<?wpMiracleAdjust?>
+202135	
+202136	
+202137	
+202138	
+202139	
+202140	(<?wpAtkType?>)
+202152	<?forgedWpPhysicalAtk?>
+202153	<?forgedWpAttributeAtk?>
+202154	<?forgedWpCriticalAtk?>
+202155	<?forgedWpPhysicalAtkPlus?>
+202156	<?forgedWpAttributeAtkPlus?>
+202157	<?forgedWpCriticalAtkPlus?>
+202158	<?forgedWpShotRange?>
+202159	
+202160	<?forgedWpCutPhysical?>
+202161	<?forgedWpCutMagic?>
+202162	<?forgedWpCutFire?>
+202163	<?forgedWpCutThunderbolt?>
+202164	<?forgedWpHitRes?>
+202165	<?forgedAtkPlusPcStrength?>
+202166	<?forgedAtkPlusPcDexter?>
+202167	<?forgedAtkPlusPcIntellect?>
+202168	<?forgedAtkPlusPcForce?>
+202169	<?forgedReqPcStrength?>
+202170	<?forgedReqPcDexter?>
+202171	<?forgedReqPcIntellect?>
+202172	<?forgedReqPcForce?>
+202173	<?forgedEffectBleeding?>
+202174	<?forgedEffectPoison?>
+202175	<?forgedEffectPlague?>
+202176	<?forgedEffectCurse?>
+202177	<?forgedWpMagicAtk?>
+202178	<?forgedWpFireAtk?>
+202179	<?forgedWpThunderboltAtk?>
+202180	<?forgedWpMagicAtkPlus?>
+202181	<?forgedWpFireAtkPlus?>
+202182	<?forgedWpThunderboltAtkPlus?>
+202183	<?forgedWpMagicAdjust?>
+202184	<?forgedWpMiracleAdjust?>
+202200	<?reqGender?>
+202201	<?defPhysical?>
+202202	<?defBlunt?>
+202203	<?defCut?>
+202204	<?defStab?>
+202205	<?defMagic?>
+202206	<?defFire?>
+202207	<?defThunderbolt?>
+202208	<?resistBleeding?>
+202209	<?resistPoison?>
+202210	<?resistPlague?>
+202211	<?resistCurse?>
+202212	<?defSAToughness?>
+202251	<?forgedDefPhysical?>
+202252	<?forgedDefBlunt?>
+202253	<?forgedDefCut?>
+202254	<?forgedDefStab?>
+202255	<?forgedDefMagic?>
+202256	<?forgedDefFire?>
+202257	<?forgedDefThunderbolt?>
+202258	<?forgedResistBleeding?>
+202259	<?forgedResistPoison?>
+202260	<?forgedResistPlague?>
+202261	<?forgedResistCurse?>
+202262	<?forgedDefSAToughness?>
+202300	<?forgedItemListName1?>
+202301	<?forgedItemListName2?>
+202302	<?forgedItemListName3?>
+202303	<?forgedItemListName4?>
+202304	<?forgedItemListName5?>
+202340	<?forgedItemListWpPhysicalAtk1?>
+202341	<?forgedItemListWpPhysicalAtk2?>
+202342	<?forgedItemListWpPhysicalAtk3?>
+202343	<?forgedItemListWpPhysicalAtk4?>
+202344	<?forgedItemListWpPhysicalAtk5?>
+202345	<?forgedItemListWpAttributeAtk1?>
+202346	<?forgedItemListWpAttributeAtk2?>
+202347	<?forgedItemListWpAttributeAtk3?>
+202348	<?forgedItemListWpAttributeAtk4?>
+202349	<?forgedItemListWpAttributeAtk5?>
+202350	<?forgedItemListDefPhysical1?>
+202351	<?forgedItemListDefPhysical2?>
+202352	<?forgedItemListDefPhysical3?>
+202353	<?forgedItemListDefPhysical4?>
+202354	<?forgedItemListDefPhysical5?>
+202355	<?forgedItemListDefMagic1?>
+202356	<?forgedItemListDefMagic2?>
+202357	<?forgedItemListDefMagic3?>
+202358	<?forgedItemListDefMagic4?>
+202359	<?forgedItemListDefMagic5?>
+202360	<?forgedItemListDefFire1?>
+202361	<?forgedItemListDefFire2?>
+202362	<?forgedItemListDefFire3?>
+202363	<?forgedItemListDefFire4?>
+202364	<?forgedItemListDefFire5?>
+202365	<?forgedItemListDefThunderbolt1?>
+202366	<?forgedItemListDefThunderbolt2?>
+202367	<?forgedItemListDefThunderbolt3?>
+202368	<?forgedItemListDefThunderbolt4?>
+202369	<?forgedItemListDefThunderbolt5?>
+203000	<?reqSlot?>
+203001	<?costMP?>
+203002	<?curMagicSlotNum?>
+203003	<?magicListReqOath?>
+203004	<?magicCount?>
+203005	<?magicMaxCount?>
+203100	<?equipMagicInfo1?>
+203101	<?equipMagicInfo2?>
+203102	<?equipMagicInfo3?>
+203103	<?equipMagicInfo4?>
+203104	<?equipMagicInfo5?>
+203105	<?equipMagicInfo6?>
+203106	<?equipMagicInfo7?>
+203107	<?equipMagicInfo8?>
+203108	<?equipMagicInfo9?>
+203109	<?equipMagicInfo10?>
+203110	<?equipMagicInfo11?>
+203111	<?equipMagicInfo12?>
+203112	<?equipMagicInfo13?>
+203113	<?equipMagicInfo14?>
+203114	<?equipMagicInfo15?>
+203115	<?equipMagicInfo16?>
+210000	<?titleName?>
+210001	<?playTime?>
+210002	<?saveDataSize?>
+210003	<?ptTime?>
+210004	<?ptMinute?>
+210005	<?ptSecond?>
+210006	
+210007	
+210008	
+210009	
+210010	<?ptTime?>:<?ptMinute?>
+210100	<?optCameraLR?>
+210101	<?optCameraUD?>
+210102	<?optCameraSpeed?>
+210103	<?optVibration?>
+210104	<?optLockOnAuto?>
+210105	<?optCamAvoidWall?>
+210106	
+210107	
+210108	
+210109	
+210110	<?optShowBlood?>
+210111	<?optSubtitles?>
+210112	<?optHUD?>
+210113	
+210114	
+210115	
+210116	
+210117	
+210118	
+210119	
+210120	<?optBGMVol?>
+210121	<?optSEVol?>
+210122	<?optVoiceVol?>
+210123	
+210124	
+210125	
+210126	
+210127	
+210128	
+210129	
+210130	<?optRegisterRanking?>
+210200	<?optBrightness?>
+215000	<?messageList1?>
+215001	<?messageList2?>
+215002	<?messageList3?>
+215003	<?messageList4?>
+215004	<?messageList5?>
+215005	
+215006	
+215007	
+215008	
+215009	
+215010	<?messageListMap1?>
+215011	<?messageListMap2?>
+215012	<?messageListMap3?>
+215013	<?messageListMap4?>
+215014	<?messageListMap5?>
+222050	<?sellSouls?>
+226000	<?magicListName1?>
+226001	<?magicListName2?>
+226002	<?magicListName3?>
+226003	<?magicListName4?>
+226004	<?magicListName5?>
+226005	
+226006	
+226007	
+226008	
+226009	
+226010	<?magicListReqIntellect1?>
+226011	<?magicListReqIntellect2?>
+226012	<?magicListReqIntellect3?>
+226013	<?magicListReqIntellect4?>
+226014	<?magicListReqIntellect5?>
+226015	
+226016	
+226017	
+226018	
+226019	
+226020	<?magicListReqForce1?>
+226021	<?magicListReqForce2?>
+226022	<?magicListReqForce3?>
+226023	<?magicListReqForce4?>
+226024	<?magicListReqForce5?>
+226025	
+226026	
+226027	
+226028	
+226029	
+226030	<?magicListCostMP1?>
+226031	<?magicListCostMP2?>
+226032	<?magicListCostMP3?>
+226033	<?magicListCostMP4?>
+226034	<?magicListCostMP5?>
+226050	<?magicListReqOath1?>
+226051	<?magicListReqOath2?>
+226052	<?magicListReqOath3?>
+226053	<?magicListReqOath4?>
+226054	<?magicListReqOath5?>
+232000	<?menuTitle?>
+232001	<?pmOptionsText?>
+232002	
+232003	
+232004	
+232005	
+232006	
+232007	
+232008	
+232009	
+232010	<?pmOptions1?>
+232011	<?pmOptions2?>
+232012	<?pmOptions3?>
+232013	<?pmOptions4?>
+232014	<?pmOptions5?>
+232015	<?pmOptions6?>
+232016	<?pmOptions7?>
+232017	<?pmOptions8?>
+232018	<?pmOptions9?>
+232019	<?pmOptions10?>
+232020	<?pmOptions11?>
+232021	<?pmOptions12?>
+232022	<?pmOptions13?>
+232023	<?pmOptions14?>
+232024	<?pmOptions15?>
+232025	<?pmOptions16?>
+232026	<?pmOptions17?>
+232027	<?pmOptions18?>
+232028	<?pmOptions19?>
+232029	<?pmOptions20?>
+240000	<?onLineID?>
+240001	<?multiPlayNum?>
+243000	<?message?>
+243001	
+243002	
+243003	
+243050	<?selectGesture?>
+243100	<?enemyPC1?>
+243101	<?enemyPC2?>
+243102	<?enemyPC3?>
+243103	
+243104	
+243105	
+243106	
+243107	
+243108	
+243109	
+243110	<?remainSec?>秒
+243200	<?goodsNameId@110?>
+243201	<?registerItemNum?>
+245000	<?rank1?>
+245001	<?rank2?>
+245002	<?rank3?>
+245003	<?rank4?>
+245004	<?rank5?>
+245005	<?rank6?>
+245006	<?rank7?>
+245007	<?rank8?>
+245008	<?rank9?>
+245009	<?rank10?>
+245020	<?rankPlayerName1?>
+245021	<?rankPlayerName2?>
+245022	<?rankPlayerName3?>
+245023	<?rankPlayerName4?>
+245024	<?rankPlayerName5?>
+245025	<?rankPlayerName6?>
+245026	<?rankPlayerName7?>
+245027	<?rankPlayerName8?>
+245028	<?rankPlayerName9?>
+245029	<?rankPlayerName10?>
+245040	<?rankScore1?>
+245041	<?rankScore2?>
+245042	<?rankScore3?>
+245043	<?rankScore4?>
+245044	<?rankScore5?>
+245045	<?rankScore6?>
+245046	<?rankScore7?>
+245047	<?rankScore8?>
+245048	<?rankScore9?>
+245049	<?rankScore10?>
+245090	<?rankCategory?>
+250000	<?inventoryNum0?>
+250001	<?inventoryNum1?>
+250002	<?inventoryNum2?>
+250003	<?inventoryNum3?>
+250004	
+250005	
+250006	
+250007	
+250008	
+250009	
+250010	<?repositoryNum0?>
+250011	<?repositoryNum1?>
+250012	<?repositoryNum2?>
+250013	<?repositoryNum3?>
+250050	<?warpName1?>
+250051	<?warpName2?>
+250052	<?warpName3?>
+250053	<?warpName4?>
+250054	<?warpName5?>
+250055	<?warpName6?>
+250056	<?warpName7?>
+250057	<?warpName8?>
+250058	<?warpName9?>
+251000	<?loadHintName?>
+251001	<?loadHintCaption?>
+290000	<?evntAcquittalPrice?>
+301000	このキャラクターの名前
+301001	このキャラクターの性別
+301002	交わしている誓約の名前
+301003	HPを決める能力値
+301004	魔法の記憶スロット数を決める能力値
+301005	スタミナ、装備重量、出血への耐性を決める能力値
+301006	重く強い武器を使用するために必要な能力値\n武器の攻撃力も高める
+301007	扱いの難しい武器を使用するために必要な能力\n武器の攻撃力も高める
+301008	防御力と、毒への耐性を決める能力値
+301009	魔術を使用するために必要な能力値\n魔術や魔術武器の威力も高める
+301010	奇跡を使用するために必要な能力値\n奇跡や神聖武器の威力も高める
+301011	アイテム発見力と、呪死への耐性を決める能力値
+301012	人中にある黒い精の数。人の本質、人らしさの象徴といわれ\nアイテム発見力と、呪死への耐性を決める
+301013	総合的な能力の高さを示す値\nソウルによってレベルアップができる
+301014	このキャラクターが故郷から持ち出せた特別な何か
+301015	
+301016	このキャラクターのゲームプレイ時間総計
+301017	このキャラクターの故郷での立場
+301018	このキャラクターが最後にいた場所
+301030	生命力。これがゼロになると死ぬ
+301031	
+301032	様々なアクションをするために必要なもの\nアクションすると減るが、自動回復する
+301033	鋭い刃や棘の武器などが引き起こす、出血に対する耐性\n高いほど出血し難い
+301034	様々な毒に対する耐性。高いほど毒状態になり難い
+301035	猛毒耐性の説明
+301036	禍々しい呪死に対する耐性。高いほど呪死し難い
+301037	敵を倒したときに、その死体にアイテムを発見できる力
+301038	
+301039	
+301040	装備しているアイテム重量の総計。\n増えるほど動きが鈍くなり\n限界値を超えると極端に動きが鈍くなる
+301041	所持しているソウルの総計\n様々な用途があるが、死ぬとその場所に残ってしまう
+301042	右手第一スロットに装備している武器の攻撃力
+301043	右手第二スロットに装備している武器の攻撃力
+301044	左手第一スロットに装備している武器の攻撃力
+301045	左手第二スロットに装備している武器の攻撃力
+301046	物理的な攻撃に対する防御力
+301047	物理的な攻撃、特に打撃属性に対する防御力
+301048	物理的な攻撃、特に斬撃属性に対する防御力
+301049	物理的な攻撃、特に刺突属性に対する防御力
+301050	魔法属性攻撃に対する防御力
+301051	炎属性攻撃に対する防御力
+301052	雷属性攻撃に対する防御力
+301053	攻撃を受けても崩されずに耐える度合い
+301054	
+301055	
+301056	
+301057	
+301058	
+301059	
+301060	魔術／呪術／奇跡を記憶できる領域の数
+302000	物理的な重さ
+302001	頑丈さ。使用などにより減っていき\n減りすぎるとアイテムの効果が下がる
+302100	攻撃に使用したとき、ダメージを与える力
+302101	物理的なダメージを与える力
+302102	魔法属性のダメージを与える力
+302103	炎属性のダメージを与える力
+302104	雷属性のダメージを与える力
+302105	パリィ後の追い討ち、背後からの一撃などの\n致命攻撃でダメージを与える力
+302106	魔法（魔術／呪術／奇跡）の威力を高める度合い
+302107	奇跡の威力を高める度合い
+302108	射撃の届く距離
+302109	呪術の威力を高める度合い
+302120	防御に使用したとき、与えられるダメージをカットする割合
+302121	物理的なダメージをカットする割合
+302122	魔法属性のダメージをカットする割合
+302123	炎属性のダメージをカットする割合
+302124	雷属性のダメージをカットする割合
+302125	防御の安定度。高いほど\n攻撃を受けたときに減るスタミナ量が小さくなる
+302126	
+302127	
+302128	
+302129	
+302130	筋力／技量／理力／信仰の値により\n攻撃力が高められる度合い
+302131	出血／毒状態にする効果の強さ\nおよび特定の敵に有効な神聖／邪教効果の強さ
+302132	まともに使用するために最低限必要となる\n筋力／技量／理力／信仰の値
+302160	攻撃に使用したときの、物理的ダメージの属性
+302161	
+302162	
+302163	
+302164	
+302165	
+302166	
+302167	
+302168	
+302169	
+302170	武器のカテゴリ。同カテゴリの武器は特性も似ている
+302200	物理的な攻撃に対する防御力
+302201	物理的な攻撃、特に打撃属性に対する防御力
+302202	物理的な攻撃、特に斬撃属性に対する防御力
+302203	物理的な攻撃、特に刺突属性に対する防御力
+302204	魔法属性攻撃に対する防御力
+302205	炎属性攻撃に対する防御力
+302206	雷属性攻撃に対する防御力
+302207	攻撃を受けても崩されずに耐える度合い
+302208	
+302209	
+302210	鋭い刃や棘の武器などが引き起こす、出血に対する耐性\n高いほど出血し難い
+302211	様々な毒に対する耐性。高いほど毒状態になり難い
+302212	猛毒耐性の説明
+302213	禍々しい呪死に対する耐性。高いほど呪死し難い
+302214	
+302215	
+302216	
+302217	
+302218	
+302219	
+302220	男性、女性ともに装備することのできる防具
+302221	男性だけが装備することのできる防具
+302222	女性だけが装備することのできる防具
+303000	魔法の種別。魔術、呪術、奇跡の三種類がある
+303001	記憶するために必要な記憶スロットの数
+303002	使用できる回数。篝火で休息することで回復する
+303003	使用するために必要となる理力／信仰の値
+305001	レベルアップし、能力値を１上げるために必要なソウル
+800000	<?lineHelp?>
+800001	<?keyGuide?>
+800002	<?title?>
+800100	㌃
+800101	㌍
+800102	㌔
+800103	
+800104	
+800105	㌘
+800106	
+800107	
+800108	
+800109	
+800110	㌢
+800111	
+800112	
+800113	
+800114	
+800115	㌣
+800116	
+800117	
+800118	
+800119	
+800120	㌦
+800121	㌧
+800122	㌫
+800123	
+800124	
+800125	㌶
+800126	㌻
+800127	
+800128	
+800129	
+800130	㍉
+800131	
+800132	
+800133	
+800134	
+800135	㍊
+800136	㍍
+800137	
+800138	
+800139	
+800140	㍑
+800141	
+800142	
+800143	
+800144	
+800145	㍗
+800146	
+800147	
+800148	
+800149	
+800150	㍻
+800151	㍼

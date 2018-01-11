@@ -1,0 +1,18 @@
+no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
+1	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000E08	s32	msgId	 30e1 30c3 30bb 30fc 30b8 0049 0044			 30e1 30c3 30bb 30fc 30b8 3092 6307 5b9a 002d 003e 30e1 30cb 30e5 30fc		
+2	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000E26	s32	voiceId	 30dc 30a4 30b9 0049 0044			 30dc 30a4 30b9 3092 6307 5b9a 002d 003e 30b5 30a6 30f3 30c9		
+3	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000E40	s32	spEffectId0	 7279 6b8a 52b9 679c 0049 0044 0030			 7279 6b8a 52b9 679c 3092 6307 5b9a 002d 003e 30ad 30e3 30e9		
+4	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000E5A	s32	motionId0	 30e2 30fc 30b7 30e7 30f3 0049 0044 0030			 30e2 30fc 30b7 30e7 30f3 3092 6307 5b9a 002d 003e 30ad 30e3 30e9		
+5	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000E76	s32	spEffectId1	 7279 6b8a 52b9 679c 0049 0044 0031			 7279 6b8a 52b9 679c 3092 6307 5b9a 002d 003e 30ad 30e3 30e9		
+6	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000E90	s32	motionId1	 30e2 30fc 30b7 30e7 30f3 0049 0044 0031			 30e2 30fc 30b7 30e7 30f3 3092 6307 5b9a 002d 003e 30ad 30e3 30e9		
+7	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000EAC	s32	spEffectId2	 7279 6b8a 52b9 679c 0049 0044 0032			 7279 6b8a 52b9 679c 3092 6307 5b9a 002d 003e 30ad 30e3 30e9		
+8	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000EC6	s32	motionId2	 30e2 30fc 30b7 30e7 30f3 0049 0044 0032			 30e2 30fc 30b7 30e7 30f3 3092 6307 5b9a 002d 003e 30ad 30e3 30e9		
+9	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000EE2	s32	spEffectId3	 7279 6b8a 52b9 679c 0049 0044 0033			 7279 6b8a 52b9 679c 3092 6307 5b9a 002d 003e 30ad 30e3 30e9		
+10	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000EFC	s32	motionId3	 30e2 30fc 30b7 30e7 30f3 0049 0044 0033			 30e2 30fc 30b7 30e7 30f3 3092 6307 5b9a 002d 003e 30ad 30e3 30e9		
+11	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000F18	s32	spEffectId4	 7279 6b8a 52b9 679c 0049 0044 0034			 7279 6b8a 52b9 679c 3092 6307 5b9a 002d 003e 30ad 30e3 30e9		
+12	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000F32	s32	motionId4	 30e2 30fc 30b7 30e7 30f3 0049 0044 0034			 30e2 30fc 30b7 30e7 30f3 3092 6307 5b9a 002d 003e 30ad 30e3 30e9		
+13	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000F4E	s32	spEffectId5	 7279 6b8a 52b9 679c 0049 0044 0035			 7279 6b8a 52b9 679c 3092 6307 5b9a 002d 003e 30ad 30e3 30e9		
+14	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000F68	s32	motionId5	 30e2 30fc 30b7 30e7 30f3 0049 0044 0035			 30e2 30fc 30b7 30e7 30f3 3092 6307 5b9a 002d 003e 30ad 30e3 30e9		
+15	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000F84	s32	returnPos	 5fa9 5e30 4f4d 7f6e			 5fa9 5e30 3059 308b 4f1a 8a71 306e 76f8 5bfe 4f4d 7f6e 002d 003e 4f1a 8a71		
+16	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000FA4	s32	reactionId	 30ea 30a2 30af 30b7 30e7 30f3 0049 0044			 5fa9 5e30 6642 306e 4f1a 8a71 6307 5b9a 002d 003e 4f1a 8a71		
+17	paramdef/INTERROOT_ps4\paramdef\64bit\TalkParam.paramdef	TALK_PARAM_ST	s32	%d	0x00000FBE	s32	eventId	 30a4 30d9 30f3 30c8 0049 0044			 30a4 30d9 30f3 30c8 0049 0044 002d 003e 30a4 30d9 30f3 30c8		

@@ -1,0 +1,24 @@
+no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
+1	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	u32	%d	0x000012E8	u32	subFeatureNameId	 30b5 30d6 7279 5fb4 5019 88dc 540d 0049 0044			 30b5 30d6 7279 5fb4 5019 88dc 540d 0049 0044		
+2	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	u32	%d	0x000012FC	u32	requiredMaterialId	 5fc5 8981 7d20 6750 0049 0044			 5fc5 8981 7d20 6750 0049 0044		
+3	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	s8	%d	0x0000130A	s8	subFeatureId_1	 2460 30b5 30d6 7279 5fb4 0049 0044			 2460 30b5 30d6 7279 5fb4 0049 0044		
+4	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	s8	%d	0x0000131A	s8	subFeatureId_2	 2461 30b5 30d6 7279 5fb4 0049 0044			 2461 30b5 30d6 7279 5fb4 0049 0044		
+5	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	s8	%d	0x0000132A	s8	subFeatureId_3	 2462 30b5 30d6 7279 5fb4 0049 0044			 2462 30b5 30d6 7279 5fb4 0049 0044		
+6	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	s8	%d	0x0000133A	s8	subFeatureId_4	 2463 30b5 30d6 7279 5fb4 0049 0044			 2463 30b5 30d6 7279 5fb4 0049 0044		
+7	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	s8	%d	0x0000134A	s8	subFeatureId_5	 2464 30b5 30d6 7279 5fb4 0049 0044			 2464 30b5 30d6 7279 5fb4 0049 0044		
+8	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	s8	%d	0x0000135A	s8	subFeatureId_6	 2465 30b5 30d6 7279 5fb4 0049 0044			 2465 30b5 30d6 7279 5fb4 0049 0044		
+9	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	s8	%d	0x0000136A	s8	subFeatureId_7	 2466 30b5 30d6 7279 5fb4 0049 0044			 2466 30b5 30d6 7279 5fb4 0049 0044		
+10	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	s8	%d	0x0000137A	s8	subFeatureId_8	 2467 30b5 30d6 7279 5fb4 0049 0044			 2467 30b5 30d6 7279 5fb4 0049 0044		
+11	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	s8	%d	0x0000138A	s8	subFeatureId_9	 2468 30b5 30d6 7279 5fb4 0049 0044			 2468 30b5 30d6 7279 5fb4 0049 0044		
+12	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	s8	%d	0x0000139A	s8	subFeatureId_10	 2469 30b5 30d6 7279 5fb4 0049 0044			 2469 30b5 30d6 7279 5fb4 0049 0044		
+13	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	dummy8	%d	0x00000000	dummy8	pad_0[2]	 30d1 30c7 30a3 30f3 30b0					
+14	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	f32	%0.2f	0x000013AA	f32	rate_1	 2460 78ba 7387			 2460 78ba 7387		
+15	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	f32	%0.2f	0x000013B2	f32	rate_2	 2461 78ba 7387			 2461 78ba 7387		
+16	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	f32	%0.2f	0x000013BA	f32	rate_3	 2462 78ba 7387			 2462 78ba 7387		
+17	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	f32	%0.2f	0x000013C2	f32	rate_4	 2463 78ba 7387			 2463 78ba 7387		
+18	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	f32	%0.2f	0x000013CA	f32	rate_5	 2464 78ba 7387			 2464 78ba 7387		
+19	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	f32	%0.2f	0x000013D2	f32	rate_6	 2465 78ba 7387			 2465 78ba 7387		
+20	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	f32	%0.2f	0x000013DA	f32	rate_7	 2466 78ba 7387			 2466 78ba 7387		
+21	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	f32	%0.2f	0x000013E2	f32	rate_8	 2467 78ba 7387			 2467 78ba 7387		
+22	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	f32	%0.2f	0x000013EA	f32	rate_9	 2468 78ba 7387			 2468 78ba 7387		
+23	paramdef/INTERROOT_ps4\paramdef\64bit\DungeonSubFeatLotParam.paramdef	DUNGEON_SUB_FEAT_LOT_PARAM	f32	%0.2f	0x000013F2	f32	rate_10	 2469 78ba 7387			 2469 78ba 7387		

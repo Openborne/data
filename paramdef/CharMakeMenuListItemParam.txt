@@ -1,0 +1,5 @@
+no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
+1	paramdef/INTERROOT_ps4\paramdef\64bit\CharMakeMenuListItemParam.paramdef	CHARMAKEMENU_LISTITEM_PARAM_ST	s32	%d	0x00000000	s32	Value	 5024					
+2	paramdef/INTERROOT_ps4\paramdef\64bit\CharMakeMenuListItemParam.paramdef	CHARMAKEMENU_LISTITEM_PARAM_ST	s32	%d	0x00000000	s32	CaptionID	 9805 76ee 30c6 30ad 30b9 30c8 0049 0044					
+3	paramdef/INTERROOT_ps4\paramdef\64bit\CharMakeMenuListItemParam.paramdef	CHARMAKEMENU_LISTITEM_PARAM_ST	u8	%d	0x00000000	u8	IconID	 30a2 30a4 30b3 30f3 0049 0044					
+4	paramdef/INTERROOT_ps4\paramdef\64bit\CharMakeMenuListItemParam.paramdef	CHARMAKEMENU_LISTITEM_PARAM_ST	dummy8	%d	0x00000000	dummy8	reserved[7]	 4e88 7d04					

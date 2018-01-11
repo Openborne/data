@@ -1,0 +1,11 @@
+no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
+1	paramdef/INTERROOT_ps4\paramdef\64bit\GemeffectParam.paramdef	GEMEFFECT_PARAM_ST	s32	%d	0x00000858	s32	speffectId	 7279 6b8a 52b9 679c 0049 0044			 7279 6b8a 52b9 679c 30d1 30e9 30e1 30fc 30bf 306e 0049 0044		
+2	paramdef/INTERROOT_ps4\paramdef\64bit\GemeffectParam.paramdef	GEMEFFECT_PARAM_ST	s32	%d	0x00000872	s32	categoryId	 30ab 30c6 30b4 30ea 0049 0044			 30ab 30c6 30b4 30ea 0049 0044		
+3	paramdef/INTERROOT_ps4\paramdef\64bit\GemeffectParam.paramdef	GEMEFFECT_PARAM_ST	s32	%d	0x00000880	s32	effectRank	 52b9 679c 30e9 30f3 30af			 52b9 679c 30e9 30f3 30af		
+4	paramdef/INTERROOT_ps4\paramdef\64bit\GemeffectParam.paramdef	GEMEFFECT_PARAM_ST	s32	%d	0x0000088C	s32	rankMin	 51fa 73fe 30e9 30f3 30af 005f 4e0b 9650			 51fa 73fe 30e9 30f3 30af 005f 4e0b 9650 0028 002d 0031 003a 4e0b 9650 306a 3057 0029		
+5	paramdef/INTERROOT_ps4\paramdef\64bit\GemeffectParam.paramdef	GEMEFFECT_PARAM_ST	s32	%d	0x000008B0	s32	rankMax	 51fa 73fe 30e9 30f3 30af 005f 4e0a 9650			 51fa 73fe 30e9 30f3 30af 005f 4e0a 9650 0028 002d 0031 003a 4e0a 9650 306a 3057 0029		
+6	paramdef/INTERROOT_ps4\paramdef\64bit\GemeffectParam.paramdef	GEMEFFECT_PARAM_ST	s32	%d	0x000008D4	s32	disposalPrice	 58f2 5374 4fa1 683c			 58f2 5374 4fa1 683c		
+7	paramdef/INTERROOT_ps4\paramdef\64bit\GemeffectParam.paramdef	GEMEFFECT_PARAM_ST	u16	%d	0x000008DE	u16	gemIconIdOffset	 9b54 77f3 30a2 30a4 30b3 30f3 0049 0044 30aa 30d5 30bb 30c3 30c8			 9b54 77f3 30a2 30a4 30b3 30f3 0049 0044 30aa 30d5 30bb 30c3 30c8		
+8	paramdef/INTERROOT_ps4\paramdef\64bit\GemeffectParam.paramdef	GEMEFFECT_PARAM_ST	dummy8	%d	0x000008FA	dummy8	pad0[2]	 30d1 30c7 30a3 30f3 30b0			 30d1 30c7 30a3 30f3 30b0		
+9	paramdef/INTERROOT_ps4\paramdef\64bit\GemeffectParam.paramdef	GEMEFFECT_PARAM_ST	u32	%d	0x00000906	u32	gemNameIdOffset	 9b54 77f3 540d 0049 0044 30aa 30d5 30bb 30c3 30c8			 9b54 77f3 540d 0049 0044 30aa 30d5 30bb 30c3 30c8		
+10	paramdef/INTERROOT_ps4\paramdef\64bit\GemeffectParam.paramdef	GEMEFFECT_PARAM_ST	s32	%d	0x0000091C	s32	speffectId_forAtk	 653b 6483 30d2 30c3 30c8 6642 7279 6b8a 52b9 679c 0049 0044			 653b 6483 30d2 30c3 30c8 6642 7528 306e 7279 6b8a 52b9 679c 30d1 30e9 30e1 30fc 30bf 306e 0049 0044		

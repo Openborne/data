@@ -1,0 +1,40 @@
+no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
+1	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00001FE8	s32	stayId	 5f85 6a5f			 5f85 6a5f		
+2	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00001FEE	s32	walkF	 6b69 884c 0020 524d			 6b69 884c 0020 524d		
+3	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00001FF8	s32	walkB	 6b69 884c 0020 5f8c			 6b69 884c 0020 5f8c		
+4	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00002002	s32	walkL	 6b69 884c 0020 5de6			 6b69 884c 0020 5de6		
+5	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x0000200C	s32	walkR	 6b69 884c 0020 53f3			 6b69 884c 0020 53f3		
+6	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00002016	s32	dashF	 8d70 884c 0020 524d			 8d70 884c 0020 524d		
+7	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00002020	s32	dashB	 8d70 884c 0020 5f8c			 8d70 884c 0020 5f8c		
+8	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x0000202A	s32	dashL	 8d70 884c 0020 5de6			 8d70 884c 0020 5de6		
+9	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00002034	s32	dashR	 8d70 884c 0020 53f3			 8d70 884c 0020 53f3		
+10	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x0000203E	s32	superDash	 30c0 30c3 30b7 30e5 79fb 52d5			 30c0 30c3 30b7 30e5 79fb 52d5		
+11	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x0000204C	s32	escapeF	 7dca 6025 56de 907f 0020 524d			 7dca 6025 56de 907f 0020 524d		
+12	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x0000205A	s32	escapeB	 7dca 6025 56de 907f 0020 5f8c			 7dca 6025 56de 907f 0020 5f8c		
+13	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00002068	s32	escapeL	 7dca 6025 56de 907f 0020 5de6			 7dca 6025 56de 907f 0020 5de6		
+14	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00002076	s32	escapeR	 7dca 6025 56de 907f 0020 53f3			 7dca 6025 56de 907f 0020 53f3		
+15	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00002084	s32	turnL	 0039 0030 5ea6 65cb 56de 0020 5de6			 0039 0030 5ea6 65cb 56de 0020 5de6		
+16	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00002094	s32	trunR	 0039 0030 5ea6 65cb 56de 0020 53f3			 0039 0030 5ea6 65cb 56de 0020 53f3		
+17	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x000020A4	s32	largeTurnL	 0031 0038 0030 5ea6 65cb 56de 0020 5de6			 0031 0038 0030 5ea6 65cb 56de 0020 5de6		
+18	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x000020B6	s32	largeTurnR	 0031 0038 0030 5ea6 65cb 56de 0020 53f3			 0031 0038 0030 5ea6 65cb 56de 0020 53f3		
+19	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x000020C8	s32	stepMove	 30b9 30c6 30c3 30d7 79fb 52d5			 0031 0038 0030 5ea6 65cb 56de 0020 53f3		
+20	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x000020DA	s32	flyStay	 98db 884c 5f85 6a5f			 98db 884c 5f85 6a5f		
+21	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x000020E4	s32	flyWalkF	 98db 884c 524d 9032			 98db 884c 524d 9032		
+22	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x000020EE	s32	flyWalkFL	 98db 884c 5de6 524d 9032			 98db 884c 5de6 524d 9032 3002 4f4e 56de 8ee2		
+23	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00002102	s32	flyWalkFR	 98db 884c 53f3 524d 9032			 98db 884c 53f3 524d 9032 3002 4f4e 56de 8ee2		
+24	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00002116	s32	flyWalkFL2	 98db 884c 5de6 524d 9032 0032			 98db 884c 5de6 524d 9032 0032 3002 9ad8 56de 8ee2		
+25	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x0000212C	s32	flyWalkFR2	 98db 884c 53f3 524d 9032 0032			 98db 884c 53f3 524d 9032 0032 3002 9ad8 56de 8ee2		
+26	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00002142	s32	flyDashF	 9ad8 901f 98db 884c 524d 9032			 9ad8 901f 98db 884c 524d 9032		
+27	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00002150	s32	flyDashFL	 9ad8 901f 98db 884c 5de6 524d 9032			 9ad8 901f 98db 884c 5de6 524d 9032 3002 4f4e 56de 8ee2		
+28	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00002168	s32	flyDashFR	 9ad8 901f 98db 884c 53f3 524d 9032			 9ad8 901f 98db 884c 53f3 524d 9032 3002 4f4e 56de 8ee2		
+29	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00002180	s32	flyDashFL2	 9ad8 901f 98db 884c 5de6 524d 9032 0032			 9ad8 901f 98db 884c 5de6 524d 9032 0032 3002 9ad8 56de 8ee2		
+30	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x0000219A	s32	flyDashFR2	 9ad8 901f 98db 884c 53f3 524d 9032 0032			 9ad8 901f 98db 884c 53f3 524d 9032 0032 3002 9ad8 56de 8ee2		
+31	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x000021B4	s32	dashEscapeF	 30c0 30c3 30b7 30e5 7dca 6025 56de 907f 524d			 30c0 30c3 30b7 30e5 7dca 6025 56de 907f 524d		
+32	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x000021C8	s32	dashEscapeB	 30c0 30c3 30b7 30e5 7dca 6025 56de 907f 5f8c			 30c0 30c3 30b7 30e5 7dca 6025 56de 907f 5f8c		
+33	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x000021DC	s32	dashEscapeL	 30c0 30c3 30b7 30e5 7dca 6025 56de 907f 5de6			 30c0 30c3 30b7 30e5 7dca 6025 56de 907f 5de6		
+34	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x000021F0	s32	dashEscapeR	 30c0 30c3 30b7 30e5 7dca 6025 56de 907f 53f3			 30c0 30c3 30b7 30e5 7dca 6025 56de 907f 53f3		
+35	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	s32	%d	0x00002204	s32	analogMoveParamId	 30a2 30ca 30ed 30b0 79fb 52d5 30d1 30e9 ff29 ff24			 79fb 52d5 30a2 30cb 30e1 30d6 30ec 30f3 30c9 3067 4f7f 7528 3055 308c 308b 79fb 52d5 30a2 30cb 30e1 30d1 30e9 30e1 30fc 30bf ff29 ff24		
+36	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	u8	%d	0x0000223C	u8	turnNoAnimAngle	 30a2 30cb 30e1 306a 3057 65cb 56de 89d2 5ea6 005b 0064 0065 0067 005d			 65cb 56de 89d2 5ea6 304c 3053 306e 5024 4ee5 4e0b 3060 3068 65cb 56de 30a2 30cb 30e1 3092 518d 751f 3057 307e 305b 3093 ff08 6575 65cb 56de 5236 5fa1 306e 307f 6709 52b9 ff09		
+37	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	u8	%d	0x00002284	u8	turn45Angle	 0034 0035 5ea6 65cb 56de 30a2 30cb 30e1 89d2 5ea6 005b 0064 0065 0067 005d			 65cb 56de 89d2 5ea6 304c 3053 306e 5024 4ee5 4e0b 3060 3068 0034 0035 5ea6 65cb 56de 30a2 30cb 30e1 3092 518d 751f 3057 307e 3059 ff08 30dc 30b9 0032 8db3 306e 307f 6709 52b9 ff09		
+38	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	u8	%d	0x000022CE	u8	turn90Angle	 0039 0030 5ea6 65cb 56de 30a2 30cb 30e1 89d2 5ea6 005b 0064 0065 0067 005d			 65cb 56de 89d2 5ea6 304c 3053 306e 5024 4ee5 4e0b 3060 3068 0039 0030 5ea6 65cb 56de 30a2 30cb 30e1 3092 518d 751f 3057 307e 3059 ff08 6575 65cb 56de 5236 5fa1 306e 307f 6709 52b9 ff09		
+39	paramdef/INTERROOT_ps4\paramdef\64bit\MoveParam.paramdef	MOVE_PARAM_ST	u8	%d	0x0000231A	u8	turnWaitNoAnimAngle	 505c 6b62 6642 30a2 30cb 30e1 306a 3057 65cb 56de 89d2 5ea6 005b 0064 0065 0067 005d			 65cb 56de 89d2 5ea6 304c 3053 306e 5024 4ee5 4e0b 3060 3068 65cb 56de 30a2 30cb 30e1 3092 518d 751f 3057 307e 305b 3093 005b 505c 6b62 6642 005d ff08 30dc 30b9 0032 8db3 306e 307f 6709 52b9 ff09		

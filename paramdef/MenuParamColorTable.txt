@@ -1,0 +1,5 @@
+no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
+1	paramdef/INTERROOT_ps4\paramdef\64bit\MenuParamColorTable.paramdef	MENU_PARAM_COLOR_TABLE_ST	u8	%d	0x00000378	u8	r	 d490 4690			 4a83 8983 5b81 6583 5b81 7583 8b83 cc82 d490 4690 8300 834a 8189 835b 8165 835b 8375 828b 97cc 00ce 4a83 8983 5b81 6583 5b81 7583 8b83 cc82 c290 8300 834a 8189 835b 8165 835b 8375 828b 83cc 8341 838b 8374 0040		
+2	paramdef/INTERROOT_ps4\paramdef\64bit\MenuParamColorTable.paramdef	MENU_PARAM_COLOR_TABLE_ST	u8	%d	0x0000038D	u8	g	 ce97 4690			 4a83 8983 5b81 6583 5b81 7583 8b83 cc82 ce97 8300 834a 8189 835b 8165 835b 8375 828b 90cc 00c2 4a83 8983 5b81 6583 5b81 7583 8b83 cc82 4183 8b83 7483 4083		
+3	paramdef/INTERROOT_ps4\paramdef\64bit\MenuParamColorTable.paramdef	MENU_PARAM_COLOR_TABLE_ST	u8	%d	0x000003A0	u8	b	 c290 4690			 4a83 8983 5b81 6583 5b81 7583 8b83 cc82 c290 8300 834a 8189 835b 8165 835b 8375 828b 83cc 8341 838b 8374 0040		
+4	paramdef/INTERROOT_ps4\paramdef\64bit\MenuParamColorTable.paramdef	MENU_PARAM_COLOR_TABLE_ST	u8	%d	0x000003B3	u8	a	 4183 8b83 7483 4083			 4a83 8983 5b81 6583 5b81 7583 8b83 cc82 4183 8b83 7483 4083		

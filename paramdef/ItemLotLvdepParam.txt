@@ -1,0 +1,3 @@
+no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
+1	paramdef/INTERROOT_ps4\paramdef\64bit\ItemLotLvdepParam.paramdef	ITEMLOT_LVDEP_PARAM_ST	s32	%d	0x000001D8	ITEMLOT_LVDEP_ITEMCATEGORY	itemCategory	 30a2 30a4 30c6 30e0 30ab 30c6 30b4 30ea			 53d6 5f97 3067 304d 308b 30a2 30a4 30c6 30e0 306e 30ab 30c6 30b4 30ea		
+2	paramdef/INTERROOT_ps4\paramdef\64bit\ItemLotLvdepParam.paramdef	ITEMLOT_LVDEP_PARAM_ST	s32	%d	0x000001F6	s32	itemId	 30a2 30a4 30c6 30e0 0049 0044			 53d6 5f97 3067 304d 308b 30a2 30a4 30c6 30e0 306e 0049 0044		

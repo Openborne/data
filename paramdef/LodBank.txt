@@ -1,0 +1,6 @@
+no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
+1	paramdef/INTERROOT_ps4\paramdef\64bit\LodBank.paramdef	LOD_BANK	f32	%0.3f	0x00000448	f32	lv01_BorderDist	 004c 004f 0044 30ec 30d9 30eb 0030 002d 0031 5883 754c 8ddd 96e2 005b 006d 005d			 5207 308a 66ff 308f 308b 4e2d 5fc3		
+2	paramdef/INTERROOT_ps4\paramdef\64bit\LodBank.paramdef	LOD_BANK	f32	%0.3f	0x00000458	f32	lv01_PlayDist	 004c 004f 0044 30ec 30d9 30eb 0030 002d 0031 904a 3073 8ddd 96e2 005b 006d 005d			 5883 754c 4e2d 5fc3 3067 00b1 904a 3073		
+3	paramdef/INTERROOT_ps4\paramdef\64bit\LodBank.paramdef	LOD_BANK	f32	%0.3f	0x0000046A	f32	lv12_BorderDist	 004c 004f 0044 30ec 30d9 30eb 0031 002d 0032 5883 754c 8ddd 96e2 005b 006d 005d			 5207 308a 66ff 308f 308b 4e2d 5fc3		
+4	paramdef/INTERROOT_ps4\paramdef\64bit\LodBank.paramdef	LOD_BANK	f32	%0.3f	0x0000047A	f32	lv12_PlayDist	 004c 004f 0044 30ec 30d9 30eb 0031 002d 0032 904a 3073 8ddd 96e2 005b 006d 005d			 5883 754c 4e2d 5fc3 3067 00b1 904a 3073		
+5	paramdef/INTERROOT_ps4\paramdef\64bit\LodBank.paramdef	LOD_BANK	u32	%d	0x0000048C	u32	textureLod:1	 30c6 30af 30b9 30c1 30e3 004c 004f 0044			 30c6 30af 30b9 30c1 30e3 004c 004f 0044 0028 0030 003a 7121 52b9 002c 0020 0031 003a 6709 52b9 0029		

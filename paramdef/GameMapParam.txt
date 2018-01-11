@@ -1,0 +1,5 @@
+no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
+1	paramdef/INTERROOT_ps4\paramdef\64bit\GameMapParam.paramdef	GAME_MAP_PARAM_ST	u8	%d	0x00000378	u8	settingNo_timeSlotA	 ff11 ff15 6642 005f 30e9 30a4 30c8 30b0 30eb 30fc 30d7 0049 0044			 ff11 ff15 6642 005f 30e9 30a4 30c8 30b0 30eb 30fc 30d7 0049 0044		
+2	paramdef/INTERROOT_ps4\paramdef\64bit\GameMapParam.paramdef	GAME_MAP_PARAM_ST	u8	%d	0x00000394	u8	settingNo_timeSlotB	 5915 65b9 005f 30e9 30a4 30c8 30b0 30eb 30fc 30d7 0049 0044			 5915 65b9 005f 30e9 30a4 30c8 30b0 30eb 30fc 30d7 0049 0044		
+3	paramdef/INTERROOT_ps4\paramdef\64bit\GameMapParam.paramdef	GAME_MAP_PARAM_ST	u8	%d	0x000003AE	u8	settingNo_timeSlotC	 591c 005f 30e9 30a4 30c8 30b0 30eb 30fc 30d7 0049 0044			 591c 005f 30e9 30a4 30c8 30b0 30eb 30fc 30d7 0049 0044		
+4	paramdef/INTERROOT_ps4\paramdef\64bit\GameMapParam.paramdef	GAME_MAP_PARAM_ST	u8	%d	0x000003C6	u8	settingNo_timeSlotD	 7570 69d8 306a 6708 005f 30e9 30a4 30c8 30b0 30eb 30fc 30d7 0049 0044			 7570 69d8 306a 6708 005f 30e9 30a4 30c8 30b0 30eb 30fc 30d7 0049 0044		

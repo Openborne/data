@@ -1,0 +1,10 @@
+infoStartAddr:	0x0310
+numEntries:	0x06	6
+title:	REINFORCE_PARAM_WEAPON_ST
+paramStartAddr:	0x000000D0
+entryID   	paramAddr 	infoAddr  	physicsAtkRate	magicAtkRate	fireAtkRate	thunderAtkRate	staminaAtkRate	saWeaponAtkRate	saDurabilityRate	correctStrengthRate	correctAgilityRate	correctMagicRate	correctFaithRate	physicsGuardCutRate	magicGuardCutRate	fireGuardCutRate	thunderGuardCutRate	poisonGuardResistRate	diseaseGuardResistRate	bloodGuardResistRate	curseGuardResistRate	staminaGuardDefRate	spEffectId1	spEffectId2	spEffectId3	residentSpEffectId1	residentSpEffectId2	residentSpEffectId3	materialSetId	pad[9]
+0x00000000	0x000000D0	0x00000310	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	0	0	0	0	0	0	0		 901a 5e38
+0x00000001	0x00000130	0x00000316	1.10	1.10	1.10	1.10	1.10	1.00	1.00	1.05	1.05	1.05	1.05	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	0	0	0	0	0	0	1		 901a 5e38 ff0b 0031
+0x00000002	0x00000190	0x00000320	1.20	1.20	1.20	1.20	1.20	1.00	1.00	1.05	1.05	1.05	1.05	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	0	0	0	0	0	0	2		 901a 5e38 ff0b 0032
+0x00000003	0x000001F0	0x0000032A	1.30	1.30	1.30	1.30	1.30	1.00	1.00	1.05	1.05	1.05	1.05	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	0	0	0	0	0	0	3		 901a 5e38 ff0b 0033
+0x00000004	0x00000250	0x00000334	1.40	1.40	1.40	1.40	1.40	1.00	1.00	1.05	1.05	1.05	1.05	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	0	0	0	0	0	0	4		 901a 5e38 ff0b 0034

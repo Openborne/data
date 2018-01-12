@@ -1,0 +1,7 @@
+infoStartAddr:	0x0208
+numEntries:	0x03	3
+title:	KNOCKBACK_PARAM_ST
+paramStartAddr:	0x00000088
+entryID   	paramAddr 	infoAddr  	damage_Min_ContTime	damage_S_ContTime	damage_M_ContTime	damage_L_ContTime	damage_BlowS_ContTime	damage_BlowM_ContTime	damage_Strike_ContTime	damage_Uppercut_ContTime	damage_Push_ContTime	damage_Breath_ContTime	damage_HeadShot_ContTime	guard_S_ContTime	guard_L_ContTime	guard_LL_ContTime	guardBrake_ContTime	damage_Min_DecTime	damage_S_DecTime	damage_M_DecTime	damage_L_DecTime	damage_BlowS_DecTime	damage_BlowM_DecTime	damage_Strike_DecTime	damage_Uppercut_DecTime	damage_Push_DecTime	damage_Breath_DecTime	damage_HeadShot_DecTime	guard_S_DecTime	guard_L_DecTime	guard_LL_DecTime	guardBrake_DecTime	pad[8]
+0x00000000	0x00000088	0x00000208	0.06	0.06	0.06	0.05	0.00	0.00	0.10	0.81	0.10	0.00	0.00	0.05	0.02	0.00	0.07	0.06	0.15	0.50	1.00	0.00	0.00	0.00	0.18	0.90	0.00	0.00	0.20	0.70	0.00	0.20		 6c4e 7528
+0x00000001	0x00000108	0x0000020E	0.06	0.09	0.12	0.39	0.00	0.00	0.09	0.81	0.09	0.00	0.00	0.06	0.03	0.00	0.06	0.18	0.21	0.72	0.60	0.00	0.00	0.60	0.18	0.81	0.00	0.00	0.30	0.70	0.00	0.54		 0050 0043 7528

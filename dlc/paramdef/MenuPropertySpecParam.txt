@@ -1,7 +1,7 @@
 no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
-1	/home/synt/misc/data/dlc/paramdef/MenuPropertySpecParam.paramdef	MENUPROPERTY_SPEC	s32	%d	0x00000000	s32	CaptionTextID	 9805 76ee 540d 30c6 30ad 30b9 30c8 0049 0044					
-2	/home/synt/misc/data/dlc/paramdef/MenuPropertySpecParam.paramdef	MENUPROPERTY_SPEC	s32	%d	0x00000000	s32	IconID	 9805 76ee 30a2 30a4 30b3 30f3 0049 0044					
-3	/home/synt/misc/data/dlc/paramdef/MenuPropertySpecParam.paramdef	MENUPROPERTY_SPEC	s32	%d	0x00000000	MENU_PROPERTY_ID	RequiredPropertyID	 5fc5 8981 30b9 30ad 30eb					
-4	/home/synt/misc/data/dlc/paramdef/MenuPropertySpecParam.paramdef	MENUPROPERTY_SPEC	s8	%d	0x00000000	MENU_PROPERTY_CMP_TYPE	CompareType	 512a 52a3 5224 5b9a					
-5	/home/synt/misc/data/dlc/paramdef/MenuPropertySpecParam.paramdef	MENUPROPERTY_SPEC	u8	%d	0x00000000	MENU_PROPERTY_FORMAT_TYPE	FormatType	 66f8 5f0f					
-6	/home/synt/misc/data/dlc/paramdef/MenuPropertySpecParam.paramdef	MENUPROPERTY_SPEC	fixstrW	%d	0x00000000	fixstrW	AdhocCaption[9]	 9805 76ee 540d 4eee 30c6 30ad 30b9 30c8					
+1	paramdef/paramdef/64bit/MenuPropertySpecParam.paramdef	MENUPROPERTY_SPEC	s32	%d	0x00000000	s32	CaptionTextID	 9805 76ee 540d 30c6 30ad 30b9 30c8 0049 0044					
+2	paramdef/paramdef/64bit/MenuPropertySpecParam.paramdef	MENUPROPERTY_SPEC	s32	%d	0x00000000	s32	IconID	 9805 76ee 30a2 30a4 30b3 30f3 0049 0044					
+3	paramdef/paramdef/64bit/MenuPropertySpecParam.paramdef	MENUPROPERTY_SPEC	s32	%d	0x00000000	MENU_PROPERTY_ID	RequiredPropertyID	 5fc5 8981 30b9 30ad 30eb					
+4	paramdef/paramdef/64bit/MenuPropertySpecParam.paramdef	MENUPROPERTY_SPEC	s8	%d	0x00000000	MENU_PROPERTY_CMP_TYPE	CompareType	 512a 52a3 5224 5b9a					
+5	paramdef/paramdef/64bit/MenuPropertySpecParam.paramdef	MENUPROPERTY_SPEC	u8	%d	0x00000000	MENU_PROPERTY_FORMAT_TYPE	FormatType	 66f8 5f0f					
+6	paramdef/paramdef/64bit/MenuPropertySpecParam.paramdef	MENUPROPERTY_SPEC	fixstrW	%d	0x00000000	fixstrW	AdhocCaption[9]	 9805 76ee 540d 4eee 30c6 30ad 30b9 30c8					

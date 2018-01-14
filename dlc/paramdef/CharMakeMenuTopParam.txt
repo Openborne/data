@@ -1,8 +1,8 @@
 no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
-1	/home/synt/misc/data/dlc/paramdef/CharMakeMenuTopParam.paramdef	CHARMAKEMENUTOP_PARAM_ST	s32	%d	0x00000000	CHARMAKEMENU_CMD_TYPE	CommandID	 9805 76ee 30bf 30a4 30d7					
-2	/home/synt/misc/data/dlc/paramdef/CharMakeMenuTopParam.paramdef	CHARMAKEMENUTOP_PARAM_ST	s32	%d	0x00000000	s32	CaptionID	 9805 76ee 30c6 30ad 30b9 30c8 0049 0044					
-3	/home/synt/misc/data/dlc/paramdef/CharMakeMenuTopParam.paramdef	CHARMAKEMENUTOP_PARAM_ST	s32	%d	0x00000000	FACE_PARAM	FaceParamID	 9854 30d1 30e9 30e0 0049 0044					
-4	/home/synt/misc/data/dlc/paramdef/CharMakeMenuTopParam.paramdef	CHARMAKEMENUTOP_PARAM_ST	s32	%d	0x000005E8	s32	TableID	 30c6 30fc 30d6 30eb 0049 0044			 30bf 30a4 30d7 304c 300c 30b0 30ea 30c3 30c9 300d 306e 6642 306f 5148 982d 30ea 30b9 30c8 30a2 30a4 30c6 30e0 306e 0049 0044 3001 300c 30ab 30e9 30fc 300d 306e 6642 306f 30ab 30e9 30fc 30d1 30ec 30c3 30c8 5148 982d 306e 0049 0044		
-5	/home/synt/misc/data/dlc/paramdef/CharMakeMenuTopParam.paramdef	CHARMAKEMENUTOP_PARAM_ST	s32	%d	0x00000000	CHARMAKEMENU_VIEW_CONDITION	ViewCondition	 8868 793a 6761 4ef6					
-6	/home/synt/misc/data/dlc/paramdef/CharMakeMenuTopParam.paramdef	CHARMAKEMENUTOP_PARAM_ST	s8	%d	0x00000000	CHARMAKEMENU_PREVIEW_MODE	PreviewMode	 30d7 30ec 30d3 30e5 30fc 30e2 30fc 30c9					
-7	/home/synt/misc/data/dlc/paramdef/CharMakeMenuTopParam.paramdef	CHARMAKEMENUTOP_PARAM_ST	dummy8	%d	0x00000000	dummy8	reserved[11]	 4e88 7d04					
+1	paramdef/paramdef/64bit/CharMakeMenuTopParam.paramdef	CHARMAKEMENUTOP_PARAM_ST	s32	%d	0x00000000	CHARMAKEMENU_CMD_TYPE	CommandID	 9805 76ee 30bf 30a4 30d7					
+2	paramdef/paramdef/64bit/CharMakeMenuTopParam.paramdef	CHARMAKEMENUTOP_PARAM_ST	s32	%d	0x00000000	s32	CaptionID	 9805 76ee 30c6 30ad 30b9 30c8 0049 0044					
+3	paramdef/paramdef/64bit/CharMakeMenuTopParam.paramdef	CHARMAKEMENUTOP_PARAM_ST	s32	%d	0x00000000	FACE_PARAM	FaceParamID	 9854 30d1 30e9 30e0 0049 0044					
+4	paramdef/paramdef/64bit/CharMakeMenuTopParam.paramdef	CHARMAKEMENUTOP_PARAM_ST	s32	%d	0x000005E8	s32	TableID	 30c6 30fc 30d6 30eb 0049 0044			 30bf 30a4 30d7 304c 300c 30b0 30ea 30c3 30c9 300d 306e 6642 306f 5148 982d 30ea 30b9 30c8 30a2 30a4 30c6 30e0 306e 0049 0044 3001 300c 30ab 30e9 30fc 300d 306e 6642 306f 30ab 30e9 30fc 30d1 30ec 30c3 30c8 5148 982d 306e 0049 0044		
+5	paramdef/paramdef/64bit/CharMakeMenuTopParam.paramdef	CHARMAKEMENUTOP_PARAM_ST	s32	%d	0x00000000	CHARMAKEMENU_VIEW_CONDITION	ViewCondition	 8868 793a 6761 4ef6					
+6	paramdef/paramdef/64bit/CharMakeMenuTopParam.paramdef	CHARMAKEMENUTOP_PARAM_ST	s8	%d	0x00000000	CHARMAKEMENU_PREVIEW_MODE	PreviewMode	 30d7 30ec 30d3 30e5 30fc 30e2 30fc 30c9					
+7	paramdef/paramdef/64bit/CharMakeMenuTopParam.paramdef	CHARMAKEMENUTOP_PARAM_ST	dummy8	%d	0x00000000	dummy8	reserved[11]	 4e88 7d04					

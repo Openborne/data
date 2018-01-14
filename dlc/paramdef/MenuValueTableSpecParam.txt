@@ -1,5 +1,5 @@
 no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
-1	/home/synt/misc/data/dlc/paramdef/MenuValueTableSpecParam.paramdef	MENU_VALUE_TABLE_SPEC	f32	%.1f	0x00000378	f32	value	 6bd4 8f03 3059 308b 5024			 6bd4 8f03 3059 308b 5024		
-2	/home/synt/misc/data/dlc/paramdef/MenuValueTableSpecParam.paramdef	MENU_VALUE_TABLE_SPEC	s32	%d	0x00000384	s32	textId	 5909 63db 5f8c 306e 30c6 30ad 30b9 30c8 0049 0044			 5909 63db 5f8c 306e 30c6 30ad 30b9 30c8 0049 0044		
-3	/home/synt/misc/data/dlc/paramdef/MenuValueTableSpecParam.paramdef	MENU_VALUE_TABLE_SPEC	s8	%d	0x0000039A	MENU_VALUE_TABLE_CMP_TYPE	compareType	 6bd4 8f03 30bf 30a4 30d7			 6bd4 8f03 30bf 30a4 30d7		
-4	/home/synt/misc/data/dlc/paramdef/MenuValueTableSpecParam.paramdef	MENU_VALUE_TABLE_SPEC	dummy8	%d	0x000003A6	dummy8	padding[3]	 30d1 30c7 30a3 30f3 30b0			 30d1 30c7 30a3 30f3 30b0		
+1	paramdef/paramdef/64bit/MenuValueTableSpecParam.paramdef	MENU_VALUE_TABLE_SPEC	f32	%.1f	0x00000378	f32	value	 6bd4 8f03 3059 308b 5024			 6bd4 8f03 3059 308b 5024		
+2	paramdef/paramdef/64bit/MenuValueTableSpecParam.paramdef	MENU_VALUE_TABLE_SPEC	s32	%d	0x00000384	s32	textId	 5909 63db 5f8c 306e 30c6 30ad 30b9 30c8 0049 0044			 5909 63db 5f8c 306e 30c6 30ad 30b9 30c8 0049 0044		
+3	paramdef/paramdef/64bit/MenuValueTableSpecParam.paramdef	MENU_VALUE_TABLE_SPEC	s8	%d	0x0000039A	MENU_VALUE_TABLE_CMP_TYPE	compareType	 6bd4 8f03 30bf 30a4 30d7			 6bd4 8f03 30bf 30a4 30d7		
+4	paramdef/paramdef/64bit/MenuValueTableSpecParam.paramdef	MENU_VALUE_TABLE_SPEC	dummy8	%d	0x000003A6	dummy8	padding[3]	 30d1 30c7 30a3 30f3 30b0			 30d1 30c7 30a3 30f3 30b0		

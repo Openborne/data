@@ -1,9 +1,9 @@
 no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
-1	/home/synt/misc/data/dlc/paramdef/AiSoundParam.paramdef	AI_SOUND_PARAM_ST	f32	%f	0x000006B8	f32	radius	 97f3 534a 5f84 005b 006d 005d			 0041 0049 97f3 306e 534a 5f84		
-2	/home/synt/misc/data/dlc/paramdef/AiSoundParam.paramdef	AI_SOUND_PARAM_ST	f32	%f	0x000006C6	f32	lifeFrame	 6d88 6ec5 6642 9593 005b 79d2 005d			 0041 0049 97f3 304c 6b8b 308b 6642 9593		
-3	/home/synt/misc/data/dlc/paramdef/AiSoundParam.paramdef	AI_SOUND_PARAM_ST	u8	%d	0x000006D8	ON_OFF	bSpEffectEnable	 7279 6b8a 52b9 679c 304b 3089 306e 5f71 97ff 3092 53d7 3051 308b 304b			 7279 6b8a 52b9 679c 306e 201d 97f3 534a 5f84 500d 7387 201d 306e 5f71 97ff 3092 53d7 3051 308b 304b 3069 3046 304b		
-4	/home/synt/misc/data/dlc/paramdef/AiSoundParam.paramdef	AI_SOUND_PARAM_ST	u8	%d	0x00000708	AI_SOUND_RATE_TYPE	type	 7a2e 5225			 0041 0049 97f3 306e 7a2e 5225		
-5	/home/synt/misc/data/dlc/paramdef/AiSoundParam.paramdef	AI_SOUND_PARAM_ST	u8	%d	0x00000716	AI_SOUND_FAKE_TARGET_TYPE	fakeTargetType	 507d 30bf 30fc 30b2 30c3 30c8 7a2e 985e			 507d 30bf 30fc 30b2 30c3 30c8 306e 7a2e 985e		
-6	/home/synt/misc/data/dlc/paramdef/AiSoundParam.paramdef	AI_SOUND_PARAM_ST	u8	%d	0x0000072A	u8	interestCategory	 8208 5473 97f3 30ab 30c6 30b4 30ea 5024			 8208 5473 97f3 30ab 30c6 30b4 30ea 5024		
-7	/home/synt/misc/data/dlc/paramdef/AiSoundParam.paramdef	AI_SOUND_PARAM_ST	u8	%d	0x0000073C	ON_OFF	useHitDamageTeam	 53ef 8074 6761 4ef6 3092 653b 6483 5224 5b9a 306b 3059 308b 304b			 0041 0049 97f3 304c 805e 3053 3048 308b 5bfe 8c61 3092 653b 6483 30d1 30e9 30e1 30fc 30bf 306e 5bfe 8c61 306b 5408 308f 305b 308b		
-8	/home/synt/misc/data/dlc/paramdef/AiSoundParam.paramdef	AI_SOUND_PARAM_ST	dummy8		0x00000772	dummy8	pad1[19]	 30d1 30c3 30c9			 0070 0061 0064		
+1	paramdef/paramdef/64bit/AiSoundParam.paramdef	AI_SOUND_PARAM_ST	f32	%f	0x000006B8	f32	radius	 97f3 534a 5f84 005b 006d 005d			 0041 0049 97f3 306e 534a 5f84		
+2	paramdef/paramdef/64bit/AiSoundParam.paramdef	AI_SOUND_PARAM_ST	f32	%f	0x000006C6	f32	lifeFrame	 6d88 6ec5 6642 9593 005b 79d2 005d			 0041 0049 97f3 304c 6b8b 308b 6642 9593		
+3	paramdef/paramdef/64bit/AiSoundParam.paramdef	AI_SOUND_PARAM_ST	u8	%d	0x000006D8	ON_OFF	bSpEffectEnable	 7279 6b8a 52b9 679c 304b 3089 306e 5f71 97ff 3092 53d7 3051 308b 304b			 7279 6b8a 52b9 679c 306e 201d 97f3 534a 5f84 500d 7387 201d 306e 5f71 97ff 3092 53d7 3051 308b 304b 3069 3046 304b		
+4	paramdef/paramdef/64bit/AiSoundParam.paramdef	AI_SOUND_PARAM_ST	u8	%d	0x00000708	AI_SOUND_RATE_TYPE	type	 7a2e 5225			 0041 0049 97f3 306e 7a2e 5225		
+5	paramdef/paramdef/64bit/AiSoundParam.paramdef	AI_SOUND_PARAM_ST	u8	%d	0x00000716	AI_SOUND_FAKE_TARGET_TYPE	fakeTargetType	 507d 30bf 30fc 30b2 30c3 30c8 7a2e 985e			 507d 30bf 30fc 30b2 30c3 30c8 306e 7a2e 985e		
+6	paramdef/paramdef/64bit/AiSoundParam.paramdef	AI_SOUND_PARAM_ST	u8	%d	0x0000072A	u8	interestCategory	 8208 5473 97f3 30ab 30c6 30b4 30ea 5024			 8208 5473 97f3 30ab 30c6 30b4 30ea 5024		
+7	paramdef/paramdef/64bit/AiSoundParam.paramdef	AI_SOUND_PARAM_ST	u8	%d	0x0000073C	ON_OFF	useHitDamageTeam	 53ef 8074 6761 4ef6 3092 653b 6483 5224 5b9a 306b 3059 308b 304b			 0041 0049 97f3 304c 805e 3053 3048 308b 5bfe 8c61 3092 653b 6483 30d1 30e9 30e1 30fc 30bf 306e 5bfe 8c61 306b 5408 308f 305b 308b		
+8	paramdef/paramdef/64bit/AiSoundParam.paramdef	AI_SOUND_PARAM_ST	dummy8		0x00000772	dummy8	pad1[19]	 30d1 30c3 30c9			 0070 0061 0064		

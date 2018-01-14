@@ -1,9 +1,9 @@
 no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
-1	/home/synt/misc/data/dlc/paramdef/LockCamParam.paramdef	LOCK_CAM_PARAM_ST	f32	%0.3f	0x000006B8	f32	camDistTarget	 30ab 30e1 30e9 8ddd 96e2 76ee 6a19 005b 006d 005d			 30ab 30e1 30e9 7528		
-2	/home/synt/misc/data/dlc/paramdef/LockCamParam.paramdef	LOCK_CAM_PARAM_ST	f32	%0.3f	0x000006C2	f32	rotRangeMinX	 0058 8ef8 56de 8ee2 6700 5c0f 5024 005b 0064 0065 0067 005d			 30ab 30e1 30e9 7528		
-3	/home/synt/misc/data/dlc/paramdef/LockCamParam.paramdef	LOCK_CAM_PARAM_ST	f32	%0.3f	0x000006CC	f32	lockRotXShiftRatio	 30ed 30c3 30af 0058 56de 8ee2 30b7 30d5 30c8 7387 0028 0030 002e 0030 ff5e 0031 002e 0030 0029			 30ab 30e1 30e9 7528		
-4	/home/synt/misc/data/dlc/paramdef/LockCamParam.paramdef	LOCK_CAM_PARAM_ST	f32	%0.3f	0x000006D6	f32	chrOrgOffset_Y	 30ad 30e3 30e9 57fa 70b9 30aa 30d5 30bb 30c3 30c8 0028 30ad 30e3 30e9 7a7a 9593 0029			 30ab 30e1 30e9 7528		
-5	/home/synt/misc/data/dlc/paramdef/LockCamParam.paramdef	LOCK_CAM_PARAM_ST	f32	%0.3f	0x000006E0	f32	chrLockRangeMaxRadius	 30ad 30e3 30e9 7bc4 56f2 6700 5927 534a 5f84 005b 006d 005d			 30ed 30c3 30af 7528		
-6	/home/synt/misc/data/dlc/paramdef/LockCamParam.paramdef	LOCK_CAM_PARAM_ST	f32	%0.3f	0x000006EA	f32	camFovY	 7e26 753b 89d2 005b 0064 0065 0067 005d			 30ab 30e1 30e9 7528		
-7	/home/synt/misc/data/dlc/paramdef/LockCamParam.paramdef	LOCK_CAM_PARAM_ST	f32	%0.3f	0x000006F4	f32	chrLockRangeMaxRadius_forD	 6697 95c7 7528 30ad 30e3 30e9 7bc4 56f2 6700 5927 534a 5f84 005b 006d 005d			 30ed 30c3 30af 7528		
-8	/home/synt/misc/data/dlc/paramdef/LockCamParam.paramdef	LOCK_CAM_PARAM_ST	f32	%0.3f	0x000006FE	f32	chrLockRangeMaxRadius_forPD	 771f 3063 6697 95c7 7528 30ad 30e3 30e9 7bc4 56f2 6700 5927 534a 5f84 005b 006d 005d			 30ed 30c3 30af 7528		
+1	paramdef/paramdef/64bit/LockCamParam.paramdef	LOCK_CAM_PARAM_ST	f32	%0.3f	0x000006B8	f32	camDistTarget	 30ab 30e1 30e9 8ddd 96e2 76ee 6a19 005b 006d 005d			 30ab 30e1 30e9 7528		
+2	paramdef/paramdef/64bit/LockCamParam.paramdef	LOCK_CAM_PARAM_ST	f32	%0.3f	0x000006C2	f32	rotRangeMinX	 0058 8ef8 56de 8ee2 6700 5c0f 5024 005b 0064 0065 0067 005d			 30ab 30e1 30e9 7528		
+3	paramdef/paramdef/64bit/LockCamParam.paramdef	LOCK_CAM_PARAM_ST	f32	%0.3f	0x000006CC	f32	lockRotXShiftRatio	 30ed 30c3 30af 0058 56de 8ee2 30b7 30d5 30c8 7387 0028 0030 002e 0030 ff5e 0031 002e 0030 0029			 30ab 30e1 30e9 7528		
+4	paramdef/paramdef/64bit/LockCamParam.paramdef	LOCK_CAM_PARAM_ST	f32	%0.3f	0x000006D6	f32	chrOrgOffset_Y	 30ad 30e3 30e9 57fa 70b9 30aa 30d5 30bb 30c3 30c8 0028 30ad 30e3 30e9 7a7a 9593 0029			 30ab 30e1 30e9 7528		
+5	paramdef/paramdef/64bit/LockCamParam.paramdef	LOCK_CAM_PARAM_ST	f32	%0.3f	0x000006E0	f32	chrLockRangeMaxRadius	 30ad 30e3 30e9 7bc4 56f2 6700 5927 534a 5f84 005b 006d 005d			 30ed 30c3 30af 7528		
+6	paramdef/paramdef/64bit/LockCamParam.paramdef	LOCK_CAM_PARAM_ST	f32	%0.3f	0x000006EA	f32	camFovY	 7e26 753b 89d2 005b 0064 0065 0067 005d			 30ab 30e1 30e9 7528		
+7	paramdef/paramdef/64bit/LockCamParam.paramdef	LOCK_CAM_PARAM_ST	f32	%0.3f	0x000006F4	f32	chrLockRangeMaxRadius_forD	 6697 95c7 7528 30ad 30e3 30e9 7bc4 56f2 6700 5927 534a 5f84 005b 006d 005d			 30ed 30c3 30af 7528		
+8	paramdef/paramdef/64bit/LockCamParam.paramdef	LOCK_CAM_PARAM_ST	f32	%0.3f	0x000006FE	f32	chrLockRangeMaxRadius_forPD	 771f 3063 6697 95c7 7528 30ad 30e3 30e9 7bc4 56f2 6700 5927 534a 5f84 005b 006d 005d			 30ed 30c3 30af 7528		

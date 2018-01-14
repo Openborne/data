@@ -1,12 +1,12 @@
 no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
-1	/home/synt/misc/data/dlc/paramdef/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x00000928	u32	useSoul	 30bd 30a6 30eb 91cf			 5fc5 8981 30bd 30a6 30eb 91cf 0028 0030 003a 306a 3057 0029		
-2	/home/synt/misc/data/dlc/paramdef/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x00000942	u32	materialItemId_1	 2460 7d20 6750 30a2 30a4 30c6 30e0 0049 0044			 2460 7d20 6750 30a2 30a4 30c6 30e0 0049 0044		
-3	/home/synt/misc/data/dlc/paramdef/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x00000956	u32	materialItemId_2	 2461 7d20 6750 30a2 30a4 30c6 30e0 0049 0044			 2461 7d20 6750 30a2 30a4 30c6 30e0 0049 0044		
-4	/home/synt/misc/data/dlc/paramdef/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x0000096A	u32	materialItemId_3	 2462 7d20 6750 30a2 30a4 30c6 30e0 0049 0044			 2462 7d20 6750 30a2 30a4 30c6 30e0 0049 0044		
-5	/home/synt/misc/data/dlc/paramdef/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x0000097E	u32	materialItemId_4	 2463 7d20 6750 30a2 30a4 30c6 30e0 0049 0044			 2463 7d20 6750 30a2 30a4 30c6 30e0 0049 0044		
-6	/home/synt/misc/data/dlc/paramdef/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x00000992	u32	materialItemId_5	 2464 7d20 6750 30a2 30a4 30c6 30e0 0049 0044			 2464 7d20 6750 30a2 30a4 30c6 30e0 0049 0044		
-7	/home/synt/misc/data/dlc/paramdef/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x000009A6	u32	num_1	 2460 6570 91cf			 2460 6570 91cf 0028 0030 003a 306a 3057 0029		
-8	/home/synt/misc/data/dlc/paramdef/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x000009BA	u32	num_2	 2461 6570 91cf			 2461 6570 91cf 0028 0030 003a 306a 3057 0029		
-9	/home/synt/misc/data/dlc/paramdef/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x000009CE	u32	num_3	 2462 6570 91cf			 2462 6570 91cf 0028 0030 003a 306a 3057 0029		
-10	/home/synt/misc/data/dlc/paramdef/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x000009E2	u32	num_4	 2463 6570 91cf			 2463 6570 91cf 0028 0030 003a 306a 3057 0029		
-11	/home/synt/misc/data/dlc/paramdef/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x000009F6	u32	num_5	 2464 6570 91cf			 2464 6570 91cf 0028 0030 003a 306a 3057 0029		
+1	paramdef/paramdef/64bit/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x00000928	u32	useSoul	 30bd 30a6 30eb 91cf			 5fc5 8981 30bd 30a6 30eb 91cf 0028 0030 003a 306a 3057 0029		
+2	paramdef/paramdef/64bit/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x00000942	u32	materialItemId_1	 2460 7d20 6750 30a2 30a4 30c6 30e0 0049 0044			 2460 7d20 6750 30a2 30a4 30c6 30e0 0049 0044		
+3	paramdef/paramdef/64bit/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x00000956	u32	materialItemId_2	 2461 7d20 6750 30a2 30a4 30c6 30e0 0049 0044			 2461 7d20 6750 30a2 30a4 30c6 30e0 0049 0044		
+4	paramdef/paramdef/64bit/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x0000096A	u32	materialItemId_3	 2462 7d20 6750 30a2 30a4 30c6 30e0 0049 0044			 2462 7d20 6750 30a2 30a4 30c6 30e0 0049 0044		
+5	paramdef/paramdef/64bit/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x0000097E	u32	materialItemId_4	 2463 7d20 6750 30a2 30a4 30c6 30e0 0049 0044			 2463 7d20 6750 30a2 30a4 30c6 30e0 0049 0044		
+6	paramdef/paramdef/64bit/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x00000992	u32	materialItemId_5	 2464 7d20 6750 30a2 30a4 30c6 30e0 0049 0044			 2464 7d20 6750 30a2 30a4 30c6 30e0 0049 0044		
+7	paramdef/paramdef/64bit/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x000009A6	u32	num_1	 2460 6570 91cf			 2460 6570 91cf 0028 0030 003a 306a 3057 0029		
+8	paramdef/paramdef/64bit/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x000009BA	u32	num_2	 2461 6570 91cf			 2461 6570 91cf 0028 0030 003a 306a 3057 0029		
+9	paramdef/paramdef/64bit/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x000009CE	u32	num_3	 2462 6570 91cf			 2462 6570 91cf 0028 0030 003a 306a 3057 0029		
+10	paramdef/paramdef/64bit/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x000009E2	u32	num_4	 2463 6570 91cf			 2463 6570 91cf 0028 0030 003a 306a 3057 0029		
+11	paramdef/paramdef/64bit/RitualRequiredMatParam.paramdef	RITUAL_REQUIRED_MAT_PARAM	u32	%d	0x000009F6	u32	num_5	 2464 6570 91cf			 2464 6570 91cf 0028 0030 003a 306a 3057 0029		

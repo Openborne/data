@@ -1,0 +1,6 @@
+no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
+1	/home/synt/misc/data/dlc/paramdef/MenuPropertyLayoutParam.paramdef	MENUPROPERTY_LAYOUT	fixstr	%d	0x00000000	fixstr	LayoutPath[16]	 30ec 30a4 30a2 30a6 30c8 30d1 30b9					
+2	/home/synt/misc/data/dlc/paramdef/MenuPropertyLayoutParam.paramdef	MENUPROPERTY_LAYOUT	s32	%d	0x00000000	MENU_PROPERTY_ID	PropertyID	 30d7 30ed 30d1 30c6 30a3 0049 0044					
+3	/home/synt/misc/data/dlc/paramdef/MenuPropertyLayoutParam.paramdef	MENUPROPERTY_LAYOUT	s32	%d	0x00000448	s32	CaptionTextID	 9805 76ee 540d 30c6 30ad 30b9 30c8 0049 0044			 6709 52b9 306a 30c6 30ad 30b9 30c8 0049 0044 306e 5834 5408 3001 30d7 30ed 30d1 30c6 30a3 306e 30c6 30ad 30b9 30c8 0049 0044 3092 4e0a 66f8 304d 3057 3066 8868 793a 3057 307e 3059 3002		
+4	/home/synt/misc/data/dlc/paramdef/MenuPropertyLayoutParam.paramdef	MENUPROPERTY_LAYOUT	s32	%d	0x00000494	s32	HelpTextID	 30d8 30eb 30d7 30c6 30ad 30b9 30c8 0049 0044			 6709 52b9 306a 30c6 30ad 30b9 30c8 0049 0044 306e 5834 5408 3001 9805 76ee 30d8 30eb 30d7 3067 9078 629e 3067 304d 308b 3088 3046 306b 306a 308a 307e 3059 3002		
+5	/home/synt/misc/data/dlc/paramdef/MenuPropertyLayoutParam.paramdef	MENUPROPERTY_LAYOUT	dummy8	%d	0x00000000	dummy8	reserved[4]	 4e88 7d04					

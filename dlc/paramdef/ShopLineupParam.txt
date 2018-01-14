@@ -1,0 +1,11 @@
+no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
+1	/home/synt/misc/data/dlc/paramdef/ShopLineupParam.paramdef	SHOP_LINEUP_PARAM	s32	%d	0x00000858	s32	equipId	 8ca9 58f2 54c1 306e 88c5 5099 0049 0044			 8ca9 58f2 3057 3066 3044 308b 88c5 5099 54c1 306e 0049 0044		
+2	/home/synt/misc/data/dlc/paramdef/ShopLineupParam.paramdef	SHOP_LINEUP_PARAM	s32	%d	0x00000872	s32	value	 8ca9 58f2 4fa1 683c			 8ca9 58f2 4fa1 683c		
+3	/home/synt/misc/data/dlc/paramdef/ShopLineupParam.paramdef	SHOP_LINEUP_PARAM	s32	%d	0x0000087C	s32	mtrlId	 8cfc 5165 306b 5fc5 8981 306a 7d20 6750 0049 0044			 8cfc 5165 306b 5fc5 8981 306a 7d20 6750 0049 0044		
+4	/home/synt/misc/data/dlc/paramdef/ShopLineupParam.paramdef	SHOP_LINEUP_PARAM	s32	%d	0x00000892	s32	eventFlag	 30a4 30d9 30f3 30c8 30d5 30e9 30b0			 500b 6570 3092 4fdd 6301 3057 3066 3042 308b 30a4 30d9 30f3 30c8 30d5 30e9 30b0 5024		
+5	/home/synt/misc/data/dlc/paramdef/ShopLineupParam.paramdef	SHOP_LINEUP_PARAM	s32	%d	0x000008B6	s32	qwcId	 0051 0057 0043 30d1 30e9 30e1 30bf 0049 0044			 ff31 ff37 ff23 30d1 30e9 30e1 30fc 30bf 306e 0049 0044		
+6	/home/synt/misc/data/dlc/paramdef/ShopLineupParam.paramdef	SHOP_LINEUP_PARAM	s16	%d	0x000008CE	s16	sellQuantity	 8ca9 58f2 500b 6570			 8ca9 58f2 500b 6570		
+7	/home/synt/misc/data/dlc/paramdef/ShopLineupParam.paramdef	SHOP_LINEUP_PARAM	u8	%d	0x000008D8	SHOP_LINEUP_SHOPTYPE	shopType	 30b7 30e7 30c3 30d7 30bf 30a4 30d7			 30b7 30e7 30c3 30d7 306e 7a2e 985e		
+8	/home/synt/misc/data/dlc/paramdef/ShopLineupParam.paramdef	SHOP_LINEUP_PARAM	u8	%d	0x000008E8	SHOP_LINEUP_EQUIPTYPE	equipType	 8ca9 58f2 54c1 306e 88c5 5099 30bf 30a4 30d7			 8ca9 58f2 3057 3066 3044 308b 88c5 5099 54c1 306e 7a2e 985e		
+9	/home/synt/misc/data/dlc/paramdef/ShopLineupParam.paramdef	SHOP_LINEUP_PARAM	s16	%d	0x00000902	s16	value_SAN	 8ca9 58f2 4fa1 683c 0028 0053 0041 004e 5024 0029			 8ca9 58f2 4fa1 683c 0028 0053 0041 004e 5024 0029		
+10	/home/synt/misc/data/dlc/paramdef/ShopLineupParam.paramdef	SHOP_LINEUP_PARAM	dummy8		0x00000000	dummy8	pad_0[6]	 0070 0061 0064					

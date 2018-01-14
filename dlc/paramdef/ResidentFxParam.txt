@@ -1,0 +1,4 @@
+no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
+1	/home/synt/misc/data/dlc/paramdef/ResidentFxParam.paramdef	RESIDENT_FX_PARAM_ST	s32	%d	0x000002A8	s32	sfxId	 0053 0046 0058 0049 0044			 0053 0046 0058 0049 0044		
+2	/home/synt/misc/data/dlc/paramdef/ResidentFxParam.paramdef	RESIDENT_FX_PARAM_ST	s32	%d	0x000002B4	s32	dmypolyId	 30c0 30df 30dd 30ea 0049 0044			 0020 30c0 30df 30dd 30ea 0049 0044		
+3	/home/synt/misc/data/dlc/paramdef/ResidentFxParam.paramdef	RESIDENT_FX_PARAM_ST	dummy8		0x000002C4	dummy8	pad_0[8]	 30d1 30c7 30a3 30f3 30b0			 0070 0061 0064		

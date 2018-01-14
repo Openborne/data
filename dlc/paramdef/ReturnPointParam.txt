@@ -1,0 +1,8 @@
+no.	filename	paramDef	type	printf	infoaddr	type2	varname	name	namej	namee	info	infoj	infoe
+1	/home/synt/misc/data/dlc/paramdef/ReturnPointParam.paramdef	RETURN_POINT_PARAM_ST	s16	%d	0x000005E8	s16	areaNo	 0041 0072 0065 0061 756a 53f7			 0041 0072 0065 0061 756a 53f7		
+2	/home/synt/misc/data/dlc/paramdef/ReturnPointParam.paramdef	RETURN_POINT_PARAM_ST	s16	%d	0x000005F6	s16	blockNo	 0042 006c 006f 0063 006b 756a 53f7			 0042 006c 006f 0063 006b 756a 53f7		
+3	/home/synt/misc/data/dlc/paramdef/ReturnPointParam.paramdef	RETURN_POINT_PARAM_ST	s32	%d	0x00000606	s32	returnPointEntityId	 5fa9 6d3b 30dd 30a4 30f3 30c8 0045 006e 0074 0069 0074 0079 0049 0064			 5fa9 6d3b 30dd 30a4 30f3 30c8 0045 006e 0074 0069 0074 0079 0049 0064		
+4	/home/synt/misc/data/dlc/paramdef/ReturnPointParam.paramdef	RETURN_POINT_PARAM_ST	s32	%d	0x00000624	s32	returnAnimId	 5fa9 6d3b 30a2 30cb 30e1 0049 0064			 5fa9 6d3b 30a2 30cb 30e1 0049 0064		
+5	/home/synt/misc/data/dlc/paramdef/ReturnPointParam.paramdef	RETURN_POINT_PARAM_ST	u8	%d	0x00000634	RETURN_POINT_TYPE_YES_NO	isRegistDeadReturn	 30ef 30fc 30d7 6642 3001 6b7b 4ea1 6642 306e 5fa9 6d3b 5834 6240 3068 3057 3066 767b 9332 3059 308b 304b 003f			 30ef 30fc 30d7 6642 3001 6b7b 4ea1 6642 306e 5fa9 6d3b 5834 6240 3068 3057 3066 767b 9332 3059 308b 304b 003f		
+6	/home/synt/misc/data/dlc/paramdef/ReturnPointParam.paramdef	RETURN_POINT_PARAM_ST	s8	%d	0x00000662	s8	warpChairNo	 30ef 30fc 30d7 6905 5b50 8b58 5225 756a 53f7			 30ef 30fc 30d7 6905 5b50 8b58 5225 756a 53f7		
+7	/home/synt/misc/data/dlc/paramdef/ReturnPointParam.paramdef	RETURN_POINT_PARAM_ST	dummy8		0x00000676	dummy8	pad1[18]	 30d1 30c7 30a3 30f3 30b0			 0070 0061 0064		
